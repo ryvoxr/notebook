@@ -1,0 +1,5 @@
+= Henry's Wiki =
+    * [[School]] -- notes, assignments, and more torture
+    * [[D&D]] -- campaign notes, lore, adventures, and more cool shit
+    * [[Programming]] -- programming notes, and other stuff
+
