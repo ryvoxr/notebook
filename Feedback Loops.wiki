@@ -1,9 +1,9 @@
-## Positive Feedback Loop
+== Positive Feedback Loop ==
 Causes a system to change further in the same direction
 
 Vegetation removed from stream valley -> flowing water causes erosion and loss of nutrients -> more vegetation dies
 
-## Negative feedback loop
+== Negative feedback loop ==
 Causes a system to change in the opposite direction from which it is moving
 
 Recycling
@@ -12,7 +12,7 @@ Recycling
 
 Sun causes plants to grow -> plants burn into CO2  that blocks sun -> plants grow less
 
-## Eutrophication
+== Eutrophication ==
 Over-fishing oysters results in a decrease of oysters
 Less oysters to reduce algal blooms
 Algal bloom create dead zones

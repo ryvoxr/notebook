@@ -1,16 +1,16 @@
-# Energy Pollution
+= Energy Pollution =
 
 All contaminants and negative effects of [[Energy|energy]] use and production.
 
-## Fossil fuels
+== Fossil fuels ==
 - Coal
 - Gas
 - Petroleum
 
-## Sulfur, mercury, contaminants
+== Sulfur, mercury, contaminants ==
 - Coal and some for gasoline
 
-## Waste product
+== Waste product ==
 - Nuclear
 	- Buried/dangerous
 - Coal ash

@@ -1,4 +1,4 @@
-# Environmental Science
+= Environmental Science =
 
 The science of how humans interact with the living and nonliving parts of their [[Environment|environment]]
 

@@ -1,4 +1,4 @@
-# Biodiversity
+= Biodiversity =
 From: [[Three Scientific Principles of Sustainability]]
 
 Short for biological diversity

@@ -1,4 +1,4 @@
-# Tragedy of Commons
+= Tragedy of Commons =
 
 Commons are resources or areas that are open to many people
 

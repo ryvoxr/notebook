@@ -1,4 +1,4 @@
-# FRQ Energy Practice
+= FRQ Energy Practice =
 
 An offshore wind farm project using turbines to generate electricity is to be built along the Atlantic coast of the United States. It will be located about 13 km from the coast in water with an average depth of 10 m
 - **Describe** one environmental benefit associated with an offshore wind project

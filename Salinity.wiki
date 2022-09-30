@@ -1,4 +1,4 @@
-# Salinity
+= Salinity =
 
 Powerful solvent: salts break apart into ions when in water
 - circulates salts and other chemicals

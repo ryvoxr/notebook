@@ -1,7 +1,7 @@
-# Law of [[Thermodynamics]]
+= Law of [[Thermodynamics]] =
 
-## 1st law of conservation of energy
+== 1st law of conservation of energy ==
 Whenever energy is converted from one form to another in a physical or chemical change, **no energy is created or destroyed**
 
-## 2nd law of conservation of energy
+== 2nd law of conservation of energy ==
 When energy is converted from one form to another in a physical or chemical change, we end up with **lower-quality or less usable** energy than we started with. Entities move to a more chaotic (Higher entropy) less organized, lower energy

@@ -1,4 +1,4 @@
-# Easter Island
+= Easter Island =
 
 Island in the pacific, example of the [[Tragedy of Commons]]
 

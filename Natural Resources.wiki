@@ -1,8 +1,8 @@
-# Natural Resources
+= Natural Resources =
 
 Materials and energy in nature that are essential or useful to humans
 
-### Classification
+=== Classification ===
 - Inexhaustible resources
 	- Energy from sun and wind
 - Renewable resources

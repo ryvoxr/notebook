@@ -1,6 +1,6 @@
-# Disaster Presentations
+= Disaster Presentations =
 
-### Love canal
+=== Love canal ===
 Neighborhood in Niagara falls, New York
 - Created as a model planned community
 - Became a dumping site for chemicals from a chemical company
@@ -10,7 +10,7 @@ Caused health issues
 
 Solution: destroyed neighborhood instead of cleaning up operation
 
-### Shrinking of the Aral Sea
+=== Shrinking of the Aral Sea ===
 - Began shrinking when the Soviet Union began digging irrigation channels
 - Soviets were trying to grow crops in a desert climate
 	- Very poorly built
@@ -22,7 +22,7 @@ Locales inhale toxic dust
 Attempting to stabilize the environment
 - Farmers rely on the water that comes from the irrigation system
 
-### Dust Bowl
+=== Dust Bowl ===
 During the Great Depression, people needed to plant and harvest food
 
 There was a extended drought
@@ -36,7 +36,7 @@ Soil Erosion Service and Prairies States Forestry Project programs were establis
 - Planting trees, rotating crops, ceasing the overgrazing of land
 
 
-### Toxic London Fog 1952
+=== Toxic London Fog 1952 ===
 Caused by industrial pollution and high-pressure weather conditions
 - Resulted in a 5 day period of smog
 
@@ -47,7 +47,7 @@ All wand and water transportation was halted
 Parliament passed the Clean Air Act of 1956
 - Transitioned from coal to oil and electricity
 
-### Three Mile Island 1979
+=== Three Mile Island 1979 ===
 Semi-meltdown was caused by pressure valve closing
 - Contaminated cooling water drained into nearby buildings
 
@@ -55,7 +55,7 @@ Raised radiation levels caused the evacuation of 100,00 residents
 
 Lowered trust in nuclear power
 
-### Chesapeake Bay Dead-Zone
+=== Chesapeake Bay Dead-Zone ===
 Caused by large amounts of algae dying
 - Algae sinking to the bottom and decomposing
 - No oxygen-suffocated oxygen
@@ -66,7 +66,7 @@ Solutions:
 - Trees are being planted
 	- Act as a buffer for erosion/runoff
 
-### Flint Michigan Water Supply
+=== Flint Michigan Water Supply ===
 The oil in the city of Flint started using lead-poisoned water from Flint River
 - Led to extreme sickness within the residents of Flint Michigan
 
@@ -79,7 +79,7 @@ Solutions:
 - Funding of filters in home sinks
 - Replacement of lead pipes
 
-### Coral Bleaching
+=== Coral Bleaching ===
 Coral is bleached from exposure to sunlight, temperature, and pollution
 - Coral turns white and increases chance of death
 
@@ -93,20 +93,20 @@ We can prevent bleaching by
 - Reduce storm water runoff
 
 
-### Gulf Oil Spill
+=== Gulf Oil Spill ===
 Oil was spilled into the Persian Gulf
 - Saudi Arabian beaches had oil penetration
 - 100,000 animals were killed
 
 To prevent events like this, the use of oil spills should never be used as a defense mechanism in war
 
-### Pacific Garbage Patch
+=== Pacific Garbage Patch ===
 Fishing nets were half of the mass of the patch.
 - Marine animals and plants are being heavily impacted
 	- Toxins from plastics are being washed into rivers, streams, and lakes
 		- Consumed by animals every day
 
-### Cuyahoga River Fire
+=== Cuyahoga River Fire ===
 Polluted by debris
 - 20 minute fire
 - Debris was caused by industrial waste
@@ -115,7 +115,7 @@ Polluted by debris
 Implement programs to watch pollution
 - Clean Water Act of 1972
 
-### Electronic Graveyard
+=== Electronic Graveyard ===
 E-waste is dumped into a "graveyard"
 - Pollutes water and air
 - Local residents agriculture and wetlands are devastated by the environment
@@ -123,7 +123,7 @@ E-waste is dumped into a "graveyard"
 Authorities banned people from burning plastic
 - Stricter regulations
 
-### Deepwater Horizon Oil Spill
+=== Deepwater Horizon Oil Spill ===
 Largest marine oil spill in history
 - Huge oil rig in Mexico exploded and sunk
 
@@ -135,14 +135,14 @@ National efforts have been coordinated to help with the clean-up process
 - Use of dispersants and manually cleaning the shorelines
 
 
-### Ocean Acidification
+=== Ocean Acidification ===
 Surface ocean waters have decreased by 0.1 pH
 - More Carbon dioxide is released into the atmosphere
 - Shell builders such as coral and corals are affected
 
 Further ocean acidification can be prevented by decreasing CO2 commissions
 
-### Black Triangle
+=== Black Triangle ===
 Border regions shared by Germany, Poland, and the Czech Republic
 
 Extremely high levels of pollution:
@@ -151,7 +151,7 @@ Extremely high levels of pollution:
 Caused by energy hungry factories neraby
 - Destroyed forests and had a lasting impact on the health and life expectancy of residents
 
-### Minamata Bay
+=== Minamata Bay ===
 Cats were acting strangely
 - Mercury poisoning
 	- Brain damage, tremors, deformities
@@ -160,7 +160,7 @@ Cats were acting strangely
 Petrochemical plant was dumping mercury compound into the Minamata Bay
 - Poisoning their food and water supply
 
-### DDT
+=== DDT ===
 Used for insect control in the 1960s
 - Control disease
 - In homes, livestock, crop and agricultural products
@@ -173,12 +173,12 @@ DDT caused problems in humans
 
 Banned DDT & more environmentally friendly insecticides
 
-### Great Chinese Famine
+=== Great Chinese Famine ===
 One of the deadliest famines and largest man-made disasters
 - 15-55 million peopled dead
 - Due to policies put in place by the Chinese Communist Party
 
-### Nile Perch Lake Victoria
+=== Nile Perch Lake Victoria ===
 35 Nile perches were released in Lake Victoria in the 1960s
 - Population quickly increased
 	- Caused more than 200 species to go extinct
@@ -189,7 +189,7 @@ Nile perch preyed on many species
 
 Commercial fishing is the only way to limit the population growth of nile perch
 
-### Roane County Tennessee Coal Ash
+=== Roane County Tennessee Coal Ash ===
 A Dam ruptured
 - 1.1 billion gallons of coal ash slurry released into river
 - Slurry also covered 300 acres of surrounding land

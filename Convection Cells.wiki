@@ -1,25 +1,20 @@
-# Convection Cells
+= Convection Cells =
 
 In gasses (and sometimes fluids and solids), when something warms up
 - Molecules spread up
 - Become less dense and rise up
 - Similar to hot air balloon
 
-#### Convection cell in a room
-**![](https://lh5.googleusercontent.com/JgHrtr3mHEv1LEHwueLUIccOl5ufV_SCWoOJH0iXhSmh2spkqJLo4NzaGie9WzmLLYzxCPcqBrVJ7KHQ6W-3vh4K9au6yyxRGOHvAmVhus6Be0Qtxx1CeTKLEvW4kp0OOPDHF2LScL2BrFerozyJ8Ba1630Sihj7_142ZUNpM2W0uRyk7rAURkoQ)**
-
-## Hadley Cell
+== Hadley Cell ==
 Unequal heating at the earth
 - Equator gets the most heating
 - Air rises
 - Slides along, cools and settles at 30 deg N and S
 
-**![](https://lh4.googleusercontent.com/WSmh9pOUYMa_lMWzYJHEnODlPNqgKWUdP8BtvL4-3rGgSZinUD3EIlh0p7oMoLkn1WVJno32sVa5BqI0012lkogCEe0GErLK32YDxDEQOIQmbJ2WsmV76bKOof6NPLK5LZ5KLneOJyahwiC3WEMkiDZy0bgFMmRiDPZfV8OVqNw5Xhrlm7bAurfo)**
 
+== Land and Sea Breezes ==
 
-## Land and Sea Breezes
-
-#### Sea Breeze
+==== Sea Breeze ====
 Happen every day at the ocean
 - Warm day
 - Everything is heating up
@@ -27,12 +22,10 @@ Happen every day at the ocean
 	-  Hydrogen bonds
 - Air on the land rises and air from the ocean comes to replace it
 
-#### Land Breeze
+==== Land Breeze ====
 Exact opposite of sea breeze
 - At night
 - Land cools down
 - Ocean stays the same
 - Ocean is warmer
 - Air on ocean rises and air from the land goes to the ocean
-
-**![](https://lh5.googleusercontent.com/38WVjIFUqHKIz6mJTSaicis8aNvhqTeoGl5gvgESmtHVRv5m2hZHkAX2wiwidvZSGRRTO5iEoNnq09yg7SKUiWbHYormEiIGVmXToTqqtpLxJS54wZir-s-bM4k9PeZp_uKAxX3OaZ-OHXgwfF9be2W2BtKXF-JpSYLXKoqQrNGlT5LHALfcbPOI)**
