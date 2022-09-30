@@ -1,6 +1,4 @@
 TODO
-- [ ] Read Chapter 4 and 5 of Educated
-- [ ] Physics HW
 - [ ] APUSH Unit 3, Assignment #11
 - [ ] APUSH 9/30 Classwork
 - [ ] APUSH Study for Unit 3
@@ -9,4 +7,6 @@ TODO
 - [ ] APES Composing
 
 DONE
+- [X] Read Chapter 4 and 5 of Educated
+- [X] Physics HW
 
