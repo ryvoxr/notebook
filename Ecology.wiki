@@ -1,0 +1,24 @@
+# Ecology
+The biological science that studies how living things, [[Organism|organisms]] interact with one another and with their environment
+
+[[Law of conservation of matter]]
+
+#### Individual
+A single [[Organism|organism]]
+
+#### Population
+A group of organism of the same [[Species|species]]
+
+#### Community
+A group of (biotic) species that lives in the same [[Habitat|habitat]]
+
+#### Ecosystem
+Communities in an environment
+- Includes the aboitic themes
+
+#### Biome
+Group of ecosystems in the same general region
+- Shares temperature, climate, etc
+
+#### Biosphere
+All the interconnected biomes, idrk

@@ -1,0 +1,54 @@
+# Energy
+
+Stuff that does work (motion, heat, etc)
+
+## Types
+Renewable
+- Biomass, wood, hydroelectric, guano
+
+Nonrenewable
+- Coal, nuclear, oil, natural gas
+
+Inexhaustible
+- Solar, wind, geothermal, OTEC
+
+## [[Energy Pollution]]
+
+## Energy Terms
+##### Energy conservation
+- Saving energy, not using
+
+##### Energy efficiency
+- Making energy do more
+	- Better gas mileage, appliances, light bulbs, insulation etc.
+
+##### Energy waste
+- Second law of [[Thermodynamics]]
+- Some end up wasting more than others
+- Some natural waste
+- Some avoidable with care
+
+##### Energy production
+- All but solar panels make turbines turn
+	- Generator converts turning axle to electricity
+	- Car engines change explosions in piston into moving axle
+
+##### Energy transport
+- Moving energy source to processing to where it is needed
+- Longer the move, more energy lost
+
+## Government subsidies: 330 billion = $1,000/person in USA
+
+**![](https://lh4.googleusercontent.com/QCqeEpoMgybQ5ysZ9gX45M97QykbVsviqqPtx7mOy7GFmA4kW3_hlynybJjxgh_dtYiNfjlQzco5QbOaZMm4yVlp9r8szJ-VU2NOr2AHsgYS7oH6o9RxdkX2s4jJ4qfbVkGut4cw3lOu0z0zs2xfeHWBNg)**
+
+## Energy use and production
+
+**![](https://lh5.googleusercontent.com/G3cnSVyskCExpC_0HwF3IsLJUmNLPBdY4OcAtWYA6Z_xGv202zdTWLLLsl6PZTtkBuTB_YA8v0R9lpEoZMwzbZBGixanO2C4OoNdMnvilmmtczutepNckcmHmo-zsn63v8lF0HpdFPDdYqiEyjUPrJ4v)**
+
+## Historical
+
+**![](https://lh3.googleusercontent.com/LSNff-csLwyueOgQ3CtiR8OwgGF9Wc_-sJz8L7506bCCHLnYHYLH5uCEhYDiNLLuQkKqQ5EKJzbtamPtPgS3Bw69d9maevjX2pxhpm-w8JQQsB2BQhtEVRJojpmZCPSe83ZGFr9BGnNL-UIVNL6lymDY)**
+
+## US Energy consumption by source and sector, 2019
+
+**![](https://lh4.googleusercontent.com/Q4h3e3tcKIFjYnDvmk534QfEtP_DQuhF7-0jt0fl23VYmZo-siU9YZECz0F8ojEL2_6MW7rlJOajn4sDII5sXqvoeKQybVG7mpDyTSI7l3YeulrPwLh7x0yUDrWyuCozmq-iAddOwoFFwERir8C19Khw)**

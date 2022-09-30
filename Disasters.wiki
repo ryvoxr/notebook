@@ -1,0 +1,203 @@
+# Disaster Presentations
+
+### Love canal
+Neighborhood in Niagara falls, New York
+- Created as a model planned community
+- Became a dumping site for chemicals from a chemical company
+- Started dumping byproducts: perfumes, rubber into canal
+
+Caused health issues
+
+Solution: destroyed neighborhood instead of cleaning up operation
+
+### Shrinking of the Aral Sea
+- Began shrinking when the Soviet Union began digging irrigation channels
+- Soviets were trying to grow crops in a desert climate
+	- Very poorly built
+- Vase majority of wildlife is dead
+	- Biological weapons test
+
+Locales inhale toxic dust
+
+Attempting to stabilize the environment
+- Farmers rely on the water that comes from the irrigation system
+
+### Dust Bowl
+During the Great Depression, people needed to plant and harvest food
+
+There was a extended drought
+- Heavy wind, erosion, plowing the same soil
+- Led to dying crops
+	- Worsened the great depression
+
+Affected Kansas, Colorado, New Mexico, and Oklahoma
+
+Soil Erosion Service and Prairies States Forestry Project programs were established
+- Planting trees, rotating crops, ceasing the overgrazing of land
+
+
+### Toxic London Fog 1952
+Caused by industrial pollution and high-pressure weather conditions
+- Resulted in a 5 day period of smog
+
+All wand and water transportation was halted
+- Lethal to elderly people, children, and people with respiratory issues
+- 12000 deaths
+
+Parliament passed the Clean Air Act of 1956
+- Transitioned from coal to oil and electricity
+
+### Three Mile Island 1979
+Semi-meltdown was caused by pressure valve closing
+- Contaminated cooling water drained into nearby buildings
+
+Raised radiation levels caused the evacuation of 100,00 residents
+
+Lowered trust in nuclear power
+
+### Chesapeake Bay Dead-Zone
+Caused by large amounts of algae dying
+- Algae sinking to the bottom and decomposing
+- No oxygen-suffocated oxygen
+
+Harmed the ecosystem and killed wildlife
+
+Solutions:
+- Trees are being planted
+	- Act as a buffer for erosion/runoff
+
+### Flint Michigan Water Supply
+The oil in the city of Flint started using lead-poisoned water from Flint River
+- Led to extreme sickness within the residents of Flint Michigan
+
+Root Causes:
+1. Water testing is often overlooked
+2. Lead pipes are used to supply water
+
+Solutions:
+- Bottled water service
+- Funding of filters in home sinks
+- Replacement of lead pipes
+
+### Coral Bleaching
+Coral is bleached from exposure to sunlight, temperature, and pollution
+- Coral turns white and increases chance of death
+
+Coral reefs provide food, habitats, and protection
+- 25% of marine life depends on coral reefs during some time during their lifetime
+
+We can prevent bleaching by
+- Less fertilizers
+- Dispose of trash
+- Using environmental friendly modes of transportation
+- Reduce storm water runoff
+
+
+### Gulf Oil Spill
+Oil was spilled into the Persian Gulf
+- Saudi Arabian beaches had oil penetration
+- 100,000 animals were killed
+
+To prevent events like this, the use of oil spills should never be used as a defense mechanism in war
+
+### Pacific Garbage Patch
+Fishing nets were half of the mass of the patch.
+- Marine animals and plants are being heavily impacted
+	- Toxins from plastics are being washed into rivers, streams, and lakes
+		- Consumed by animals every day
+
+### Cuyahoga River Fire
+Polluted by debris
+- 20 minute fire
+- Debris was caused by industrial waste
+- $50,000 in railroad damages ($400,000 today)
+
+Implement programs to watch pollution
+- Clean Water Act of 1972
+
+### Electronic Graveyard
+E-waste is dumped into a "graveyard"
+- Pollutes water and air
+- Local residents agriculture and wetlands are devastated by the environment
+
+Authorities banned people from burning plastic
+- Stricter regulations
+
+### Deepwater Horizon Oil Spill
+Largest marine oil spill in history
+- Huge oil rig in Mexico exploded and sunk
+
+Caused by improper construction of an oil well
+- Water was closed for fishing
+- Gulf area was polluted with oil
+
+National efforts have been coordinated to help with the clean-up process
+- Use of dispersants and manually cleaning the shorelines
+
+
+### Ocean Acidification
+Surface ocean waters have decreased by 0.1 pH
+- More Carbon dioxide is released into the atmosphere
+- Shell builders such as coral and corals are affected
+
+Further ocean acidification can be prevented by decreasing CO2 commissions
+
+### Black Triangle
+Border regions shared by Germany, Poland, and the Czech Republic
+
+Extremely high levels of pollution:
+- air pollution, acid rain, water pollution
+
+Caused by energy hungry factories neraby
+- Destroyed forests and had a lasting impact on the health and life expectancy of residents
+
+### Minamata Bay
+Cats were acting strangely
+- Mercury poisoning
+	- Brain damage, tremors, deformities
+	- Affecting their nervous system
+
+Petrochemical plant was dumping mercury compound into the Minamata Bay
+- Poisoning their food and water supply
+
+### DDT
+Used for insect control in the 1960s
+- Control disease
+- In homes, livestock, crop and agricultural products
+- Was very effective at first
+
+Increase of insects lead to many problems across many industries
+
+DDT caused problems in humans
+- Also DDT accumulation in animals
+
+Banned DDT & more environmentally friendly insecticides
+
+### Great Chinese Famine
+One of the deadliest famines and largest man-made disasters
+- 15-55 million peopled dead
+- Due to policies put in place by the Chinese Communist Party
+
+### Nile Perch Lake Victoria
+35 Nile perches were released in Lake Victoria in the 1960s
+- Population quickly increased
+	- Caused more than 200 species to go extinct
+
+Nile perch preyed on many species
+- Fisherman variety decreased
+- Ecosystem was broken in lake Victoria
+
+Commercial fishing is the only way to limit the population growth of nile perch
+
+### Roane County Tennessee Coal Ash
+A Dam ruptured
+- 1.1 billion gallons of coal ash slurry released into river
+- Slurry also covered 300 acres of surrounding land
+
+Lots of pressure put on the damn by coal ash
+- No injuries or deaths
+
+Barriers were put up to stop the ash
+- 6 months -> only 3% cleaned up
+- Costed over 1 billion to clean up
+- Ecosystems did not return to prior conditions for 7 years

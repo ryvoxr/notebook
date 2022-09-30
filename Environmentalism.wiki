@@ -1,0 +1,5 @@
+# Environmentalism
+
+A social movement dedicated to trying to protect the earth's life support systems for all forms of life
+
+Environmentalism is more in the political and ethical areas than science

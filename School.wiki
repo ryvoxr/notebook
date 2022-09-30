@@ -1,6 +1,5 @@
 = School =
-    * [[English]]
-    * [[Physics]]
-    * [[Oceanography]]
-    * [[APES]]
-    * [[APUSH]]
+- [[English]]
+- [[APES]]
+- [[Oceanography]]
+- [[APUSH]]

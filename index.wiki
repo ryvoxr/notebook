@@ -1,5 +1,6 @@
 = Henry's Wiki =
-    * [[School]] -- notes, assignments, and more torture
-    * [[D&D]] -- campaign notes, lore, adventures, and more cool shit
-    * [[Programming]] -- programming notes, and other stuff
+- [[School]] -- notes, assignments, and more torture
+- [[To-do]] -- master todo list
+- [[D&D]] -- campaign notes, lore, adventures, and more cool shit
+- [[Programming]] -- programming notes, and other stuff
 

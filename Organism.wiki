@@ -1,0 +1,5 @@
+# Organism
+
+Each organism belongs to a [[Species|species]]
+
+Any living thing
