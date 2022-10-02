@@ -1,6 +1,6 @@
-= Reading Journey =
+# Reading Journey
 
-=== What inspired you? ===
+### What inspired you?
 1. Really kind and inspiring 6th grade English teacher (Mrs. Reagen)
 2. Tolkien
 - Introduced ~ 8yo with *The Hobbit*
@@ -16,12 +16,12 @@
         - Actually finished it with minimal understanding
     - Reread several times (with friends this time)
 
-=== What stops you or has in the past ===
+### What stops you or has in the past
 1. Required reading for school
 2. Being busy
 3. Just not actually starting to read
 
-=== Who are you as a reader ===
+### Who are you as a reader
 1. Enjoy a limited variety of genres
 - High fantasy
 - Science fiction

@@ -1,4 +1,4 @@
-= Reading Journal =
+# Reading Journal
 
 *August 28th* I chose to read Beren and Lúthien. It is a compilation of
 different versions, formats, and ways of telling of the story Beren and

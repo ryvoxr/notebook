@@ -1,4 +1,4 @@
-= Introduce Yourself: Video Assignment =
+# Introduce Yourself: Video Assignment
 
 Hello! My name is Henry Oehlrich.
 

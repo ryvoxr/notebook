@@ -8,9 +8,9 @@ subtitle: >
 
 ## School
 
-- [Science](school/science/index)
-- [History](school/history/index)
-- [English](school/english/index)
+- [Science](school/science/index.md)
+- [History](school/history/index.md)
+- [English](school/english/index.md)
 
 ## Technologies
 

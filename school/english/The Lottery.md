@@ -1,4 +1,4 @@
-= "The Lottery" by Shirley Jackson =
+# "The Lottery" by Shirley Jackson
 
 Every society has traditions and pieces of culture that seem inhumane or cruel to another culture. This theme is explicated in "The Lottery" by Shirley Jackson by exploring a fictional example of this foreign, "inhumane" culture.
 - Old Man Warner is a stereotypical old, traditional person. He believes that culture is vital to a society. He describes people who would like to give up the lottery as a "Pack of crazy fools"
