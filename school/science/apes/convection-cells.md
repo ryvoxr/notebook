@@ -11,6 +11,7 @@ Unequal heating at the earth
 - Air rises
 - Slides along, cools and settles at 30 deg N and S
 
+Forms southeast trade winds
 
 ## Land and Sea Breezes
 

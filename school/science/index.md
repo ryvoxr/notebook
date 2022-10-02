@@ -34,7 +34,11 @@
 - [Sustainability](apes/sustainability.md)
 - [Thermodynamics](apes/thermodynamics.md)
 - [Three Scientific Principles of Sustainability](apes/three-scientific-principles-of-sustainability.md)
-- [Tragedy of Commons](apes/tragedy-of-commons.md)
+- [Tragedy of Commons](apes/tragedy-of-commons)
+- [Coriolis Effect](apes/coriolis-effect.md)
+- [Ekman Transport](apes/ekman-transport)
+- [Welling](apes/welling)
+- [Gyres](apes/gyres)
 
 ## Oceanography
 
