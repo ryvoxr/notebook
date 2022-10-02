@@ -1,0 +1,19 @@
+## Positive Feedback Loop
+Causes a system to change further in the same direction
+
+Vegetation removed from stream valley -> flowing water causes erosion and loss of nutrients -> more vegetation dies
+
+## Negative feedback loop
+Causes a system to change in the opposite direction from which it is moving
+
+Recycling
+- Aluminum doesn't need to be mined if it's able to be recycled
+- Reduces impact on environment
+
+Sun causes plants to grow -> plants burn into CO2  that blocks sun -> plants grow less
+
+## Eutrophication
+Over-fishing oysters results in a decrease of oysters
+Less oysters to reduce algal blooms
+Algal bloom create dead zones
+Dead zones kill oysters

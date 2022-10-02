@@ -1,0 +1,27 @@
+# Energy Concepts
+
+joule (J) | Watt (W)
+---|---
+1 kJ = 1000 J | 1 W = 1 J/s  
+1 cal = 4.184 J | 1 kW = 1000 W
+1 kcal = 1000 cal |
+1 BTU = 1055 J |
+1 therm = 100000 BTU |
+1 kWh = 3,600,000 J |
+
+[[Energy]] is the ability to do work or transfer heat
+
+Comes in two forms
+- Potential Energy
+	- Could be stored in chemical bonds
+- Kinetic Energy
+	- Electricity
+	- Joules/kJ
+
+[[Thermodynamics]]: Energy is conserved
+- Energy cannot be created nor destroyed, only transferred
+- Loss of energy due to heat
+	- Increases entropy of the world
+
+Power is the amount of energy used in a given amount of time
+- Watts/kWh

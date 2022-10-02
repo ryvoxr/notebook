@@ -1,0 +1,9 @@
+# Easter Island
+
+Island in the pacific, example of the [[Tragedy of Commons]]
+
+Population grew
+- Everyone liked big statues 
+	- 30 feet tall, 80 tons
+	- needed tree trunks to move statues
+		- Trees could not support themselves because of over-deforestation

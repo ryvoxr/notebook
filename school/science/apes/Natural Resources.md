@@ -1,0 +1,11 @@
+# Natural Resources
+
+Materials and energy in nature that are essential or useful to humans
+
+### Classification
+- Inexhaustible resources
+	- Energy from sun and wind
+- Renewable resources
+	- Ait, water, topsoil, plants, and animals
+- Nonrenewable or depletable rsources
+	- Copper, oil and coal

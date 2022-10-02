@@ -1,0 +1,8 @@
+# Dependence on solar energy
+From: [[Three Scientific Principles of Sustainability]]
+
+The sun warms the plangent and provides energy for plants to produce their own
+nutrients
+
+The sun also powers indirect forms of [[Solar Energy|solar energy]] such as
+wind and flowing water, which we use to produce electricity

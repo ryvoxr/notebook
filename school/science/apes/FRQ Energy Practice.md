@@ -1,0 +1,11 @@
+# FRQ Energy Practice
+
+An offshore wind farm project using turbines to generate electricity is to be built along the Atlantic coast of the United States. It will be located about 13 km from the coast in water with an average depth of 10 m
+- **Describe** one environmental benefit associated with an offshore wind project
+	- Using an inexhaustible resource instead of a non-renewable fossil fuel
+- **Identify** and **describe** one potential economic effect of an offshore wind project
+	- It costs money to build the wind farm, but the wind farm provides clean, cheap energy with a lower full cost
+- **Describe** one additional way,  other than wind power, that oceans can provide renewable energy for generation of electricity
+	- The thermoelectric generator converts the differences in temperature in the ocean into energy
+The project will consist of 200 wind turbines, each with a capacity of 4 megawatts. Each turbine costs $1.2 million to build. Electrical demand in the area to be served by the project is expected to me 2.0 x 10^ MWh per year
+- **Calculate** how much electricity (in MWh) the wind project needs to generate per year in order to provide 80% of the annual electrical demand in the service  area. Show all work.

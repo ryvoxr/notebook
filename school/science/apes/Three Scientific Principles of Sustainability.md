@@ -1,0 +1,6 @@
+# Three Scientific Principles of Sustainability
+Many scientists argue that the earth is the only real example of a sustainable system
+
+### 1. [[Dependence on solar energy]]
+### 2. [[Biodiversity]]
+### 3. [[Chemical cycling]]

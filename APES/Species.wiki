@@ -1,3 +1,0 @@
-= Species =
-
-A group of [[Organism|organisms]] that have a unique set of characteristics that distinguish it from other groups of organisms
