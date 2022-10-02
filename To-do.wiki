@@ -4,7 +4,7 @@ TODO
 - [ ] APUSH Study for Unit 3
 - [ ] Read to pg 66 of Educated
 - [ ] APES Videos 2-11
-- [ ] APES Composing
+- [ ] APES Composting
 
 DONE
 - [X] Read Chapter 4 and 5 of Educated
