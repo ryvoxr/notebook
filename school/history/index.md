@@ -5,34 +5,38 @@
 ### Assignments
 
 #### Unit 1
-- [AP US History Summer Reading 2022-2023](unit-1/AP US History Summer Reading 2022-2023.md)
-- [Assignment 1](unit-1/Assignment 1.md)
-- [Assignment 2](unit-1/Assignment 2.md)
-- [Assignment 3](unit-1/Assignment 3.md)
-- [Assignment 5](unit-1/Assignment 5.md)
-- [Assignment 7](unit-1/Assignment 7.md)
-- [Assignment 8](unit-1/Assignment 8.md)
-- [Assignment 9](unit-1/Assignment 9.md)
+
+- [AP US History Summer Reading 2022-2023](apush/unit-1/ap-us-history-summer-reading-2022-2023.md)
+- [Assignment 1](apush/unit-1/assignment-1.md)
+- [Assignment 2](apush/unit-1/assignment-2.md)
+- [Assignment 3](apush/unit-1/assignment-3.md)
+- [Assignment 5](apush/unit-1/assignment-5.md)
+- [Assignment 7](apush/unit-1/assignment-7.md)
+- [Assignment 8](apush/unit-1/assignment-8.md)
+- [Assignment 9](apush/unit-1/assignment-9.md)
 
 #### Unit 2
-- [Assignment 1](unit-2/Assignment 1.md)
-- [Assignment 2](unit-2/Assignment 2.md)
-- [Assignment 3](unit-2/Assignment 3.md)
-- [Assignment 4](unit-2/Assignment 4.md)
-- [Assignment 7](unit-2/Assignment 7.md)
-- [Assignment 8](unit-2/Assignment 8.md)
+
+- [Assignment 1](apush/unit-2/assignment-1.md)
+- [Assignment 2](apush/unit-2/assignment-2.md)
+- [Assignment 3](apush/unit-2/assignment-3.md)
+- [Assignment 4](apush/unit-2/assignment-4.md)
+- [Assignment 7](apush/unit-2/assignment-7.md)
+- [Assignment 8](apush/unit-2/assignment-8.md)
 
 #### Unit 3
-- [Assignment 1](unit-3/Assignment 1.md)
-- [Assignment 2](unit-3/Assignment 2.md)
-- [Assignment 3](unit-3/Assignment 3.md)
-- [Assignment 4](unit-3/Assignment 4.md)
-- [Assignment 7](unit-3/Assignment 7.md)
-- [Assignment 8](unit-3/Assignment 8.md)
-- [Assignment 9](unit-3/Assignment 9.md)
-- [Assignment 10](unit-3/Assignment 10.md)
-- [Assignment 11](unit-3/Assignment 11.md)
+
+- [Assignment 1](apush/unit-3/assignment-1.md)
+- [Assignment 2](apush/unit-3/assignment-2.md)
+- [Assignment 3](apush/unit-3/assignment-3.md)
+- [Assignment 4](apush/unit-3/assignment-4.md)
+- [Assignment 7](apush/unit-3/assignment-7.md)
+- [Assignment 8](apush/unit-3/assignment-8.md)
+- [Assignment 9](apush/unit-3/assignment-9.md)
+- [Assignment 10](apush/unit-3/assignment-10.md)
+- [Assignment 11](apush/unit-3/assignment-11.md)
 
 ### Classwork
-- [9-30](classwork/9-30.md)
+
+- [9-30](apush/classwork/9-30.md)
 

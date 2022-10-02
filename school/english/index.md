@@ -1,6 +1,6 @@
 # English
 
-- [Name Assignment](Name Assignment)
-- [Reading Journey](Reading Journey)
-- [Reading Journal](Reading Journal)
-- [The Lottery](The Lottery)
+- [Name Assignment](name-assignment)
+- [Reading Journey](reading-journey)
+- [Reading Journal](reading-journal)
+- [The Lottery](the-lottery)
