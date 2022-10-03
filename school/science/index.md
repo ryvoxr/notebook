@@ -42,6 +42,7 @@
 - [SOFAR](apes/sofar)
 - [Thermohaline Circulation](apes/thermohaline-circulation)
 - [Beach Erosion](apes/beach-erosion)
+- [Ocean Zomes](ocean-zones)
 
 ## Oceanography
 
