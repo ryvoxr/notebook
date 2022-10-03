@@ -43,6 +43,8 @@
 - [Thermohaline Circulation](apes/thermohaline-circulation)
 - [Beach Erosion](apes/beach-erosion)
 - [Ocean Zomes](apes/ocean-zones)
+- [Cauliflower Stir Fry](apes/cauliflower-stir-fry)
+- [Dune Restoration](apes/dune-restoration)
 
 ## Oceanography
 
