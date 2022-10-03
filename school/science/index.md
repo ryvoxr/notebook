@@ -39,6 +39,7 @@
 - [Ekman Transport](apes/ekman-transport)
 - [Welling](apes/welling)
 - [Gyres](apes/gyres)
+- [SOFAR](apes/sofar)
 
 ## Oceanography
 

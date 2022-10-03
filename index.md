@@ -1,10 +1,4 @@
----
-title: My Knowledge Base
-subtitle: >
-  This is a collection of things that I know,
-  things that I learn,
-  and things that I want to remember.
----
+# Henry's VimWiki
 
 ## School
 
