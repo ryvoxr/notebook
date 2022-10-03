@@ -40,6 +40,7 @@
 - [Welling](apes/welling)
 - [Gyres](apes/gyres)
 - [SOFAR](apes/sofar)
+- [Thermohaline Circulation](apes/thermohaline-circulation)
 
 ## Oceanography
 
