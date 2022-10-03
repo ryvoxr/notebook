@@ -39,6 +39,7 @@
 ### Classwork
 
 - [9-30](apush/classwork/9-30.md)
+- [Planning a Long Essay](apush/planning-leq)
 
 ### Notes
 
