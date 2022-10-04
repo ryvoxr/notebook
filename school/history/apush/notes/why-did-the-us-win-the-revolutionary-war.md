@@ -12,4 +12,4 @@ France allied with the US in the American Revolution because they already had a 
 The French Alliance can be considered a turning point in the American Revolution because, for the first time, the States had a source of resources and funding comparable to that of Britain.
 
 #### Explain one reason (other than the French alliance) that the US won the war.
-The United States`
+The United States

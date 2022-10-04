@@ -39,9 +39,11 @@
 ### Classwork
 
 - [9-30](apush/classwork/9-30.md)
-- [Planning a Long Essay](apush/planning-leq)
+- [Planning a Long Essay](apush/classwork/planning-leq)
 
 ### Notes
+
+#### Unit 1 & 2
 
 - [1763 Thesis](apush/notes/1763-thesis.md)
 - [Bacon's Rebellion](apush/notes/bacon's-rebellion.md)
@@ -73,4 +75,15 @@
 - [We Shall Remain](apush/notes/we-shall-remain.md)
 - [What a school could have been established](apush/notes/what-a-school-could-have-been-established.md)
 - [Why did the US win the revolutionary war](apush/notes/why-did-the-us-win-the-revolutionary-war.md)
+
+#### Unit 3
+
+- [Hamilton's Financial Plan](apush/notes/hamilton's-financial-plan.md)
+- [Whiskey Rebellion](apush/notes/whiskey-rebellion.md)
+- [French Revolution](apush/notes/french-revolution.md)
+- [Jay's Treaty](apush/notes/jay's-treaty.md)
+- [Hatian Revolution](apush/notes/hatian-revolution.md)
+- [First Party System](apush/notes/first-party-system.md)
+- [XYZ Affair](apush/notes/xyz-affair.md)
+- [Alien and Sedition Act](apush/notes/alien-and-sedition-act.md)
 

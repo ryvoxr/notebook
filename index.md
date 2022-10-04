@@ -8,6 +8,8 @@
 
 ## Technologies
 
+- [Vim](technologies/vim/index.md)
+
 ## Misc
 
 - [To-Do](misc/to-do)
