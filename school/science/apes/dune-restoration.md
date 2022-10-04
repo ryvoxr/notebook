@@ -1,6 +1,34 @@
 # Dune Restoration
 
-source: https://www.youtube.com/watch?v=VfHn0IEYAy4
+source: https://www.coastalrestorationtrust.org.nz/ source:
+https://www.youtube.com/watch?v=VfHn0IEYAy4
+
+## The Project
+
+Coastal Restoration Trust of New Zealand
+
+### Their vision 
+> “To see the majority of New Zealand’s coast restored and sustainably managed using indigenous species”
+
+### Their goals
+- Facilitate research on New Zealand costal ecosystems
+- Provide a netowrk for information exchange on sustainable coastal management
+- Promote awareness of proven methods for protection, restoration,
+  conservation, and sustainable management of coastal ecosystems
+
+### To achieve those goals
+- Organise an annual conference and workshops to discuss issues, share
+  information and hear the latest research on coastal environments
+- Run a website where information is free and easily accessible and can host
+  community coast care web pages
+- Commission coastal research projects and offer an annual post-graduate study
+  award
+- Produce technical bulletins and articles detailing best practice methods for
+  coastal restoration
+- Send out regular newsletters to keep members updated with research and other
+  activities
+
+## Sand Dunes
 
 Dunes are a natural barrier between ocean and sea
 - Provide sand supply
@@ -15,7 +43,8 @@ Dunes are formed when wind-blown sand is stopped by special plants
 
 ## Dune Plants
 
-Recovery can only happen in the presence of two special dune plants: Spinifex and pingao
+Recovery can only happen in the presence of two special dune plants: Spinifex
+and pingao
 - Have deep well developed root systems that bind the sand deposits
 - Thrive on unstable stand
 - Are adapted to the harsh coastal environment
@@ -41,7 +70,8 @@ Very few natural dunes remain
 
 ## Restoration
 
-Restoring the dunes will help protect the land and environment and cities and infrastructures
+Restoring the dunes will help protect the land and environment and cities and
+infrastructures
 
 Dunes do not prevent erosion
 - They are naturally self repearring
