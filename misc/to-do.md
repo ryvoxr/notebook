@@ -1,10 +1,11 @@
 TODO
-- [ ] Chapter 6 & 7 of Educated
+- [ ] Unit 4, Assignment #1
+- [ ] Read chapter 9 of Educated
+- [ ] Reply to Bennett Place email
+- [ ] Sign up for scouts shit
 
 DONE
-- [X] APES Vegetarian Meal
-- [X] Research restoration project APES
-- [X] Physics HW, Monday 10/3
-- [X] APUSH Test tomorrow
-- [X] Pre-calc wksht
-
+- [X] Productivity Lab
+- [X] Physics HW Dump 5
+- [X] NW Passage Lab
+- [X] Restoration paper project
