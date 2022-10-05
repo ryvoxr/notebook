@@ -36,6 +36,10 @@
 - [Assignment 10](apush/unit-3/assignment-10.md)
 - [Assignment 11](apush/unit-3/assignment-11.md)
 
+#### Unit 4
+
+- [Assignment 1](apush/unit-4/assignment-1)
+
 ### Classwork
 
 - [9-30](apush/classwork/9-30.md)
@@ -87,3 +91,8 @@
 - [XYZ Affair](apush/notes/xyz-affair.md)
 - [Alien and Sedition Act](apush/notes/alien-and-sedition-act.md)
 
+#### Unit 4
+
+- [Second Great Awakening](apush/notes/second-great-awakening)
+- [Benevolent Empire](apush/notes/benevolent-empire)
+- [Transcendentalism](apush/notes/transcendentalism)
