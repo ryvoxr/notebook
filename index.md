@@ -12,5 +12,9 @@
 
 ## Misc
 
+- [D&D](dnd/index.md)
+
+## The misciest misc
+
 - [To-Do](misc/to-do)
 
