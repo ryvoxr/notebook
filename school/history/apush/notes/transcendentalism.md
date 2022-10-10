@@ -6,7 +6,7 @@ People need to shake off inherited customs and institutions and discover their
 
 ## Ralph Waldo Emerson
 
-Influentian New England philosopher
+Influential New England philosopher
 - More extreme than benevolent reform
 - Wanted to overthrow old hierarchies and the spiritual power of individuals
 - Believed that each individual could experience the infinite and eternal

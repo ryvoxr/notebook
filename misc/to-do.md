@@ -1,11 +1,11 @@
 TODO
-- [ ] Read chapter 9 of Educated
+- [ ] Reformer's round-table
+- [ ] Shell island prep
+- [ ] Oceanography climate change video notes
+- [ ] Productivity Lab
+- [ ] Pre-calc wksht
+- [ ] Climate graphs work
+- [ ] Walk it off - ExDay Lab
 - [ ] Reply to Bennett Place email
-- [ ] Sign up for scouts shit
 
 DONE
-- [X] Unit 4, Assignment #1
-- [X] Productivity Lab
-- [X] Physics HW Dump 5
-- [X] NW Passage Lab
-- [X] Restoration paper project
