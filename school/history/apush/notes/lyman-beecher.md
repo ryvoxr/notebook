@@ -47,3 +47,38 @@ Intemperance comes with prosperity
 The use of alcohol to stimulate "does violence to the laws of his (God's) nature)"
 - Puts the whole system into disorder
 - Affects sensibility and intellect on awakening
+
+## Life
+
+Born in Connecticut
+- Mother died when he was young
+- Did blacksmith stuff and farmed when he was young
+
+Found that he preferred studying
+- Went to Yale
+- Got licence to preach
+
+Became a minister in Connecticut
+- Preached Calvinism
+
+## Lane Debates
+
+Was serving at Lane when slavery became a big issue
+- Beecher was a colonizationist
+- Supported the American Colonization Society's program
+    - Helping free Blacks emigrate to West Africa and set up a black colony
+
+## Questions
+
+William Lloyd Garrison -> Why do you argue for abolition over colonization?
+
+Henry David Thoreau -> What was your inspiration for writing Walden?
+
+Maria Stewart -> How have you used public speaking to promote your cause?
+
+## Bibliography
+
+https://www.biblia.work/sermons/beecherlyman/
+https://en.wikipedia.org/wiki/Lyman_Beecher
+https://www.britannica.com/biography/Lyman-Beecher
+
