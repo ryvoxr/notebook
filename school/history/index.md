@@ -97,3 +97,4 @@
 - [Second Great Awakening](apush/notes/second-great-awakening)
 - [Benevolent Empire](apush/notes/benevolent-empire)
 - [Transcendentalism](apush/notes/transcendentalism)
+- [Lyman Beecher](apush/notes/lyman-beecher)
