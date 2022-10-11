@@ -45,6 +45,7 @@
 - [Ocean Zomes](apes/ocean-zones.md)
 - [Cauliflower Stir Fry](apes/cauliflower-stir-fry.md)
 - [Dune Restoration](apes/dune-restoration.md)
+- [Climatography Practice](apes/climatography-practice.md)
 
 ## Oceanography
 

@@ -1,8 +1,8 @@
 TODO
-- [ ] Pre-calc wksht
 - [ ] Climate graphs work
 
 DONE
+- [X] Pre-calc wksht
 - [X] Polar organisms
 - [X] Shell island prep
 - [X] Oceanography climate change video notes
