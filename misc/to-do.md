@@ -1,11 +1,12 @@
 TODO
-- [ ] Shell island prep
-- [ ] Oceanography climate change video notes
+- [ ] Pre-calc wksht
 - [ ] Climate graphs work
-- [ ] Walk it off - ExDay Lab
-- [ ] Reply to Bennett Place email
 
 DONE
+- [X] Polar organisms
+- [X] Shell island prep
+- [X] Oceanography climate change video notes
+- [X] Walk it off - ExDay Lab
 - [X] Reformer's round-table
 - [X] Productivity Lab
 - [X] Pre-calc wksht
