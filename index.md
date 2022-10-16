@@ -13,6 +13,7 @@
 ## Technologies
 
 - [Vim](technologies/vim/index.md)
+- [Pandoc](technologies/index.md)
 
 ## Misc
 
