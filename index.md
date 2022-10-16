@@ -6,6 +6,10 @@
 - [History](school/history/index.md)
 - [English](school/english/index.md)
 
+## Scouts
+
+- [Merit Badges](scouts/merit-badges/index.md)
+ 
 ## Technologies
 
 - [Vim](technologies/vim/index.md)
