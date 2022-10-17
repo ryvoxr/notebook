@@ -4,7 +4,7 @@
 Tropical rainforest
 
 **Which biome has the greatest range in monthly temperatures over the course of the year?**
-Tundra
+Boreal forest
 
 **Which biome has the greatest range in monthly rainfall over the course of the year?**
 Temperate rainforest
@@ -13,7 +13,7 @@ Temperate rainforest
 Temperate rainforest, tropical rainforest
 
 **How many months per year is the average monthly temperature in the tundra below freezing (0C) during the year?**
-12 months
+10 months
 
 **Which biome is best described as having a warm wet summer and a very dry cold winter?**
 Boreal forest
