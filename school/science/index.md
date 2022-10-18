@@ -47,6 +47,7 @@
 - [Dune Restoration](apes/dune-restoration.md)
 - [Climatography Practice](apes/climatography-practice.md)
 - [Aquatic Biomes](apes/aquatic-biomes.md)
+- [Unit 4 Test Review](apes/unit-4-test-review.md)
 
 ## Oceanography
 

@@ -41,6 +41,7 @@
 - [Assignment 1](apush/unit-4/assignment-1)
 - [Assignment 2](apush/unit-4/assignment-2)
 - [Assignment 3](apush/unit-4/assignment-3)
+- [Assignment 4](apush/unit-4/assignment-4)
 
 ### Classwork
 
@@ -99,3 +100,4 @@
 - [Benevolent Empire](apush/notes/benevolent-empire)
 - [Transcendentalism](apush/notes/transcendentalism)
 - [Lyman Beecher](apush/notes/lyman-beecher)
+- [Jacksonian America](apush/notes/jacksonian-america.md)
