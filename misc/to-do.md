@@ -1,7 +1,18 @@
 TODO
-- [ ] English finish part 1 (pg 150)
+- [ ] English book Part 1 Writing
+- [ ] Pre-calc arc length wksht
+- [ ] Oceans test tomorrow
+- [ ] APUSH Unit 4, Assignment 6
 
 DONE
+- [X] Physics review packet due
+- [X] Physics test review
+- [X] APES test tomorrow
+- [X] APUSH Unit 4, Assignment 5
+- [X] Oceans test Thursday
+- [X] English comparison pt 2 review
+- [X] Pre-calc unit circle wksht
+- [X] English finish part 1 (pg 150)
 - [X] APES study for test
 - [X] APUSH Unit 4, Assignment 4
 - [X] Oceans glacier questions
