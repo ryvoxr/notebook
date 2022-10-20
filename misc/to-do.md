@@ -1,7 +1,7 @@
 TODO
-- [ ] Pre-calc arc length wksht
 
 DONE
+- [X] Pre-calc arc length wksht
 - [X] Physics review packet due
 - [X] APUSH Unit 4, Assignment 6
 - [X] Oceans test tomorrow
