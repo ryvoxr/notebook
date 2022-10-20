@@ -69,3 +69,48 @@ Clay and Webster's plan backfired
 - Condemned the bank as "subversive of the rights of the States"
 - Killed the bank
 
+## Indian Removal
+
+### John Ross
+
+Half-Cherokee
+- Trusted and respected
+
+Created a constitution
+- Created a democratic government
+- Strong national council
+- Court
+- Free exercise of religion
+- Absolute sovereign in their borders
+
+
+South Carolina says if they set up a government they will never get rid of them
+
+Discovery of gold in Cherokee land
+- Rush of Americans searching for gold
+
+Won election as a Cherokee chief
+- Rewrote the Blood law -> any Cherokee that sold land to the US faced dire consequences
+
+Shamed Jackson and supporters of Indian Removal
+- Used the Supreme su
+### Jackson
+
+Move the Indians east once and for all
+- Offered land east of the Mississippi
+
+#### Indian Removal Bill
+
+More racist
+- Cherokees are inferior and can not be like the white
+- Convenient rhetoric to say that you have to get them out of harms way
+
+Campaign organized by "benevolent ladies" against the bill
+
+Passed in the Senate and the House
+
+State of South Carolina divided up Indian land among citizens
+
+### Resistance
+
+

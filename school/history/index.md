@@ -42,6 +42,7 @@
 - [Assignment 2](apush/unit-4/assignment-2)
 - [Assignment 3](apush/unit-4/assignment-3)
 - [Assignment 4](apush/unit-4/assignment-4)
+- [Assignment 5](apush/unit-4/assignment-5)
 
 ### Classwork
 
@@ -101,3 +102,4 @@
 - [Transcendentalism](apush/notes/transcendentalism)
 - [Lyman Beecher](apush/notes/lyman-beecher)
 - [Jacksonian America](apush/notes/jacksonian-america.md)
+- [Jackson First Annual Message](apush/notes/jackson-first-annual-message)
