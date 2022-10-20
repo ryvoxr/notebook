@@ -1,11 +1,11 @@
 TODO
-- [ ] English book Part 1 Writing
 - [ ] Pre-calc arc length wksht
-- [ ] Oceans test tomorrow
-- [ ] APUSH Unit 4, Assignment 6
 
 DONE
 - [X] Physics review packet due
+- [X] APUSH Unit 4, Assignment 6
+- [X] Oceans test tomorrow
+- [X] English book Part 1 Writing
 - [X] Physics test review
 - [X] APES test tomorrow
 - [X] APUSH Unit 4, Assignment 5

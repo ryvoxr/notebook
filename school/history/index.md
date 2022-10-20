@@ -43,6 +43,7 @@
 - [Assignment 3](apush/unit-4/assignment-3)
 - [Assignment 4](apush/unit-4/assignment-4)
 - [Assignment 5](apush/unit-4/assignment-5)
+- [Assignment 6](apush/unit-4/assignment-6)
 
 ### Classwork
 
