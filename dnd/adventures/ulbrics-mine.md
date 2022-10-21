@@ -5,7 +5,6 @@ Ulbric Goldtooth comes to The White Dragon (Tavern) looking for adventurers to
 help him reclaim Rockhollow Cavern (his mine) that has been overrun by goblins.
 
 **Primer:**
-Ea; the world you live in. Full of continents, oceans, and islands. Distant
 lands: many foreign, but one you know as home: Middengeard (midden-gard).
 The world has changed. The rise and fall of empires, the slow creep of the
 forests. Ancient wars long forgotten were fought here. Much that once was is

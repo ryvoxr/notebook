@@ -1,5 +1,9 @@
 # D&D
 
+## Main Quest Shit
+
+[Main Quest Running Storyline](adventures/main-quest-running-storyline.md)
+
 ## Adventures
 
 [Ulbric's Mine](adventures/ulbrics-mine.md)
