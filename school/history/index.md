@@ -105,3 +105,4 @@
 - [Lyman Beecher](apush/notes/lyman-beecher)
 - [Jacksonian America](apush/notes/jacksonian-america.md)
 - [Jackson First Annual Message](apush/notes/jackson-first-annual-message)
+- [October 21](apush/notes/october-21.md)
