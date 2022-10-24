@@ -1,8 +1,12 @@
 TODO
-- [ ] Pre-calc graphing wksht
-- [ ] APES species notes
+- [ ] Pre-calc Desmos classroom
+- [ ] APES case study on mycorrhizzae
+- [ ] Oceans read articles
+- [ ] APUSH Unit 4, Assignment 8
 
 DONE
+- [X] Pre-calc graphing wksht
+- [X] APES species notes
 - [X] APUSH Unit 4, Assignment 7
 - [X] APES species stories
 - [X] Pre-calc arc length wksht
