@@ -18,9 +18,7 @@ American rebels declared independence from Texas
 
 Because of over-romanticizing, anti-Catholic sentiment, and promises of land
 grants American adventurers joined the Texan rebels
-- Won de-facto independence in the Battle of San Jacinto
- 
-## What was Manifest Destiny and why is it significant?
+- Won de-facto independence in the Battle of San Jacinto ## What was Manifest Destiny and why is it significant?
  
 Coined by John L. O'Sullivan, editor of the *Democratic Review*
 - "Our manifest destiny is to overspread the continent allotted by Providence
