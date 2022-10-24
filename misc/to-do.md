@@ -1,10 +1,10 @@
 TODO
-- [ ] Pre-calc Desmos classroom
-- [ ] APES case study on mycorrhizzae
-- [ ] Oceans read articles
-- [ ] APUSH Unit 4, Assignment 8
 
 DONE
+- [X] Pre-calc Desmos classroom
+- [X] Oceans read articles
+- [X] APES case study on mycorrhizzae
+- [X] APUSH Unit 4, Assignment 8
 - [X] Pre-calc graphing wksht
 - [X] APES species notes
 - [X] APUSH Unit 4, Assignment 7
