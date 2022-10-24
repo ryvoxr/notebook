@@ -1,6 +1,13 @@
 TODO
+- [ ] English read to 197
+- [ ] Physics forces hw
+- [ ] Pre-calc trig graphs wksht
+- [ ] APES study for quiz on species stories
+- [ ] Oceans work on flood insurace reading/notes
+- [ ] APUSH study for Unit 4
 
 DONE
+- [X] APUSH Unit 4, Assignment 9
 - [X] Pre-calc Desmos classroom
 - [X] Oceans read articles
 - [X] APES case study on mycorrhizzae
