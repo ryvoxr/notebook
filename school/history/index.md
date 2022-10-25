@@ -109,3 +109,4 @@
 - [Jackson First Annual Message](apush/notes/jackson-first-annual-message)
 - [October 21](apush/notes/october-21.md)
 - [October 24](apush/notes/october-24.md)
+- [Unit 4 Study Guide](apush/notes/unit-4-study-guide.md)
