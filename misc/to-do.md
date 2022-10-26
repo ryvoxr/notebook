@@ -3,9 +3,13 @@ TODO
 - [ ] APUSH study for Unit 4
 
 DONE
+- [X] Oceans flood insurance rp
+- [X] APES tagging assignment
+- [X] Pre-calc graphing trig wksht
+- [X] Physics Tuesday 10/25
 - [X] Physics forces hw
 - [X] Pre-calc trig graphs wksht
-- [X] Oceans work on flood insurace reading/notes
+- [X] Oceans work on flood insurance reading/notes
 - [X] APES study for quiz on species stories
 - [X] APUSH Unit 4, Assignment 9
 - [X] Pre-calc Desmos classroom
