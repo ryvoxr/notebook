@@ -50,6 +50,7 @@
 - [Unit 4 Test Review](apes/unit-4-test-review.md)
 - [Species Stories](apes/species-stories.md)
 - [Tagging Assignment](apes/tagging-assignment.md)
+- [Vanishing Amphibians](apes/vanishing-amphibians.md)
 
 ## Oceanography
 
