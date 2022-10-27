@@ -2,11 +2,11 @@ TODO
 - [ ] English read to 227
 - [ ] Physics HW Wednesday
 - [ ] Pre-calc horiz trans
-- [ ] APES textbook HW
 - [ ] Oceans read FEMA article
 - [ ] APUSH study for Unit 4
 
 DONE
+- [X] APES textbook HW
 - [X] English read to 197
 - [X] Oceans flood insurance rp
 - [X] APES tagging assignment

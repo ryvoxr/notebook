@@ -51,6 +51,7 @@
 - [Species Stories](apes/species-stories.md)
 - [Tagging Assignment](apes/tagging-assignment.md)
 - [Vanishing Amphibians](apes/vanishing-amphibians.md)
+- [Key Terms Unit 5](apes/key-terms-unit-5.md)
 
 ## Oceanography
 
