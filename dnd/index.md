@@ -11,6 +11,8 @@
 ## NPCs
 
 [Ulbric Goldtooth](npcs/ulbric-goldtooth.md)
+[Damien Durallot](npcs/damien-durallot.md)
+[Pallando](npcs/pallando)
 
 ## PCs
 
@@ -24,3 +26,6 @@
 [Rockhollow Cavern](places/rockhollow-cavern.md)
 [The White Dragon](places/the-white-dragon.md)
 
+## Misc
+
+[Decent Names](misc/decent-names.md)
