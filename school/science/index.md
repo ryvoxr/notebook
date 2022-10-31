@@ -18,7 +18,6 @@
 - [Environmental Problems](apes/environmental-problems.md)
 - [Environmental Science](apes/environmental-science.md)
 - [Environment](apes/environment.md)
-- [Feedback Loops](apes/feedback-loops.md)
 - [FRQ Energy Practice](apes/frq-energy-practice.md)
 - [Fukushima nuclear disaster](apes/fukushima-nuclear-disaster.md)
 - [Government Subsidies](apes/government-subsidies.md)

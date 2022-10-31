@@ -1,10 +1,14 @@
 TODO
-- [ ] Physics HW Wednesday
-- [ ] Oceans read FEMA article
-- [ ] APUSH study for Unit 4
+- [ ] Physics HW
+- [ ] Pre-calc modeling trig functions
 
 DONE
+- [X] APUSH Unit 5, Assignment 1
+- [X] Oceans crossword
+- [X] APES HW
+- [X] APUSH study for Unit 4
 - [X] English read to 227
+- [X] Oceans read FEMA article
 - [X] Pre-calc horiz trans
 - [X] APES textbook HW
 - [X] English read to 197
