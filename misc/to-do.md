@@ -1,8 +1,13 @@
 TODO
-- [ ] Physics HW
-- [ ] Pre-calc modeling trig functions
+- [ ] Finish Educated Part 2
+- [ ] Oceans study for test Wednesday
 
 DONE
+- [X] APES ethics of poaching article
+- [X] APUSH Unit 5, Assignment 2
+- [X] Pre-calc Unit 3 sample test odd ?'s
+- [X] Physics HW
+- [X] Pre-calc modeling trig functions
 - [X] APUSH Unit 5, Assignment 1
 - [X] Oceans crossword
 - [X] APES HW
