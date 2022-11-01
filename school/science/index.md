@@ -59,3 +59,4 @@
 - [Ships and People](oceans/ships-and-people.md)
 - [NW Passage Answers](oceans/nw-passage-lab.md)
 - [Unit 4 Review](oceans/unit-r-review.md)
+- [Unit 5 Review](oceans/unit-5-review.md)
