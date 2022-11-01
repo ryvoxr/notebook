@@ -1,10 +1,10 @@
 TODO
 - [ ] Finish Educated Part 2
-- [ ] APES ethics of poaching article
 - [ ] Oceans study for test Wednesday
-- [ ] APUSH Unit 5, Assignment 2
 
 DONE
+- [X] APES ethics of poaching article
+- [X] APUSH Unit 5, Assignment 2
 - [X] Pre-calc Unit 3 sample test odd ?'s
 - [X] Physics HW
 - [X] Pre-calc modeling trig functions
