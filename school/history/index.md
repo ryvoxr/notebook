@@ -112,3 +112,7 @@
 - [October 21](apush/notes/october-21.md)
 - [October 24](apush/notes/october-24.md)
 - [Unit 4 Study Guide](apush/notes/unit-4-study-guide.md)
+
+#### Unit 5
+
+- [Freedom on the Move](apush/notes/freedom-on-the-move.md)
