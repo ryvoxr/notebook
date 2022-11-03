@@ -51,6 +51,7 @@
 #### Unit 5
 
 - [Assignment 2](apush/unit-5/assignment-2)
+- [Assignment 4](apush/unit-5/assignment-4)
 
 ### Classwork
 

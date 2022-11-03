@@ -1,8 +1,14 @@
 TODO
-- [ ] Finish Educated Part 2
-- [ ] Oceans study for test Wednesday
+- [ ] Read Educated
+- [ ] APES study for test
+- [ ] APUSH Unit 5, Assignment 4
+- [ ] APUSH the gathering storm
 
 DONE
+- [X] APUSH Unit 5, Assignment 3
+- [X] Oceans study for test Wednesday
+- [X] Physics submit dump
+- [X] Finish Educated Part 2
 - [X] APES ethics of poaching article
 - [X] APUSH Unit 5, Assignment 2
 - [X] Pre-calc Unit 3 sample test odd ?'s
