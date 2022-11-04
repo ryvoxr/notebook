@@ -3,6 +3,7 @@
 
 ## School
 
+- [History](school/history/index.md)
 - [Science](school/science/index.md)
 - [History](school/history/index.md)
 - [English](school/english/index.md)

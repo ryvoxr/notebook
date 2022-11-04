@@ -1,10 +1,13 @@
 TODO
-- [ ] Read Educated
-- [ ] APES study for test
+- [ ] Physics HW
+- [ ] APES FRQ tomorrow
+- [ ] Oceans book
 - [ ] APUSH Unit 5, Assignment 4
-- [ ] APUSH the gathering storm
 
 DONE
+- [X] English vocab
+- [X] APUSH the gathering storm
+- [X] APES study for test
 - [X] APUSH Unit 5, Assignment 3
 - [X] Oceans study for test Wednesday
 - [X] Physics submit dump
