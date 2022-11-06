@@ -1,0 +1,86 @@
+# Assignment 1
+
+## What happened when George Washington was sent to Fort Duquesne? Why was there conflict over this region?
+
+In Parliament, the issue in Ohio prompted a debate over war with France
+- Persuaded Britain to launch an American war
+
+In 1755, British and New England troops captured a fort in Nova Scotia
+- Soldiers from Massachusetts forced 10,000 French settlers from their lands
+    - Argued that they were "rebels" without property rights and deported them
+      to France
+
+In July 1755, British attacked Fort Duquesne with 1,500 soldiers
+- Convinced that they could easily win
+- Instead, they were attacked by a French and Native force
+- George Washington survived
+
+## What happened at the Albany Congress
+
+The Iroquois Confederacy was unhappy with its British alliance
+- Believed that the British were neglecting the Iroquois while settlers from
+  New York invaded their lands
+- To mend relations with the Iroquois, the British called a meeting at Albany
+  in 1754
+    - A powerful Mohawk leader (Hendrick Peters Theyanoguin) challenged Britain
+      to defend its interests more vigorously
+    - Benjamin Franklin proposed a "Plan of Union"
+
+## Albany Plan of Union
+
+Proposed that "one general government... be formed in America, including all
+the said colonies"
+- Would have created an assembly to manage trade, Native policy, and defense
+- The plan would have compromised the independence of colonial assemblies and
+  the authority of Parliament
+
+## What was the Great War for Empire (French and Indian War) called in Europe? Why? Why do historians now call it the Great War for Empire?
+
+The Great War For Empire was called the Seven Years War in Europe. It was
+called this
+
+I have no idea why it is called that
+
+## What was Pontiac's Rebellion? How did the British respond to the rebellion?
+
+During the late stages of the war, Britain had won cautious support from some
+Native groups
+- Britain's territorial acquisitions alarmed many Natives
+- Ottawa chief Pontiac declared, "I am French, and I want to die French"
+
+In 1763 Pontiac led a major uprising at Detroit
+- Natives throughout the Ohio Valley seized British military garrisons
+- British military broke the siege of Detroit
+    - Took two years to reclaim all the posts it had lost
+
+Pontiac and allies accepted the British as their new political "fathers"
+- British government issued the Royal Proclamation of 1763
+    - Confirmed Native control of the region and declared it off-limits to
+      colonial settlement
+
+## Why did the British win the war?
+
+The British won the war due to its unprecedented economic resources
+
+Was the first company to use manufacturing technology
+- Combination of commerce and industry made Britain the most powerful nation in
+  the world
+
+## Describe the battles between easterners and westerners in Pennsylvania and North Carolina
+
+The Penn family had sold farms to Pennsylvania colonists
+- By late 1750s, settlers were at war
+- - Burnt houses and barns
+- Delawares were killed in the conflict
+	- Delaware headman Teedyuscung was burnt to death in a cabin
+
+In 1766, a radical Regulator movement began in North Carolina
+- Because of an economic recession, farmers could not pay their debts
+	- Many farmers lost property or ended up in jail
+- Regulators proposed a series of reforms
+	- Lower legal fees and tax pay
+	- Demanded greater representation in the assembly
+	- British governor mobilized troops
+		- Defeated a large Regulator force
+		- Thirty people died
+

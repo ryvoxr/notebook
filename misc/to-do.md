@@ -1,10 +1,10 @@
 TODO
 - [ ] Physics HW
-- [ ] APES FRQ tomorrow
 - [ ] Oceans book
-- [ ] APUSH Unit 5, Assignment 4
 
 DONE
+- [X] APUSH Unit 5, Assignment 4
+- [X] APES FRQ tomorrow
 - [X] English vocab
 - [X] APUSH the gathering storm
 - [X] APES study for test

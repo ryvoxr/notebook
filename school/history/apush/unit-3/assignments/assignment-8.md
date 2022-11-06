@@ -1,0 +1,83 @@
+# Assignment 8
+
+## First and Second Bank of the US and state-chartered banks
+
+America was "a Nation of Merchants"
+- keen in pursuit of wealth in all the various modes of acquiring it
+- made big profits as the wars of the French Revolution and Napoleon crippled
+  European firms
+- John Jacob Astor and Robert Oliver first millionaires
+
+First millionaires needed capital
+- Before the American Revolution, they relied on credit from Britain
+- In 1781, the Confederation Congress chartered the Bank of North America in
+  Philadelphia
+    - Traders in Boston and New York soon founded similar institutions to raise
+      and loan money
+
+Federalists in Congress charted the Bank of the United States
+- The bank had branches in 8 cities
+- Profits that gained 8% annually
+- Clients with easy access to money
+- "the foundations of our houses are laid in bank paper"
+
+### Panic of 1819
+
+Bad banking policies brought about the Panic of 1819
+- American imports of English goods spiked
+- In 1818 there was an abrupt 30% drop in world agricultural prices
+- Farmers could no longer pay debts and many (farmers and banks) went bankrupt
+- Land prices dropped by 50%
+
+The panic gave Americans their first taste of a business cycle
+- The periodic boom and bust inherent to an unregulated market economy
+
+## The Commonwealth System
+
+Transportation projects were large beneficiaries of the Commonwealth System
+- Between 1793 and 1812, Massachusetts legislature granted charters to more
+  than 100 private turnpike corporations
+
+## Turnpikes and Canals
+
+Between 1793 and 1812, Massachusetts legislature granted charters to more than
+100 private turnpike corporations
+- These charters gave the companies special legal status and often included
+  monopoly rights to a transportation route
+
+Pennsylvania issued 55 charters
+- One to the Lancaster Turnpike Company
+- They built a large graded gravel toll rode to Philadelphia
+
+"the turnpike is finished and we can now go to town at all times and in all
+weather"
+
+## Erie Canal
+
+365 mile waterway connecting the Hudson River and Lake Erie
+- Some things going for it
+	- The vigorous support of New York City's merchants
+		- Wanted access to western markets
+	- The backing of New York's governor
+		- Proposed to finance the waterway from tx revenues, tolls and bond sales
+
+First great engineering project in American history
+- Altered the ecology of an entire region
+- Farming communities and market towns opened along the waterway
+
+## Steamboats and the Telegraph
+
+The steamboat was a product of the industrial revolution
+- Added important flexibility to the Mississippi basin's river-based
+  transportation system
+- In 1807 the first American steamboat was piloted
+- These vessels halved the costs to transport goods across water
+
+Devised a telegraph capable of sending signals through miles of wire
+- Morse and his collaborators invented a conde for transmitting letters and
+  numbers along a single wire
+- The Magnetic Telegraph Company was founded to create the first network for
+  telegraph lines
+- Help *not a lot at the moment though* to solve the inefficiencies of the
+  postal system
+

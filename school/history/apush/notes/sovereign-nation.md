@@ -1,1 +1,0 @@
-Nation that has full power to operate as it may (no higher authority)
