@@ -1,6 +1,11 @@
 TODO
+- [ ] English vocab
+- [ ] English read *Educated*
 - [ ] Physics HW
+- [ ] APES 6.1 & 6.2
+- [ ] APES population presentation
 - [ ] Oceans book
+- [ ] APUSH Unit 5, Assignment 5
 
 DONE
 - [X] APUSH Unit 5, Assignment 4

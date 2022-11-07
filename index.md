@@ -1,6 +1,5 @@
 # Henry's VimWiki
 
-
 ## School
 
 - [History](school/history/index.md)

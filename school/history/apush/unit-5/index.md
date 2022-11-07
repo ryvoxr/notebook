@@ -10,4 +10,4 @@
 ## Notes
 
 - [Freedom on the Move](notes/freedom-on-the-move.md)
- 
+- [Civil War Analysis](notes/civil-war-analysis.md)
