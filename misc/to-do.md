@@ -1,13 +1,15 @@
 TODO
-- [ ] English vocab
-- [ ] English read *Educated*
+- [ ] English finish *Educated*
 - [ ] Physics HW
-- [ ] APES 6.1 & 6.2
-- [ ] APES population presentation
-- [ ] Oceans book
-- [ ] APUSH Unit 5, Assignment 5
+- [ ] APES Chapter 6 reading
+- [ ] Oceans book Chapters 1-4
+- [ ] APUSH Unit 5, Assignment 6
+- [ ] CompSci Presentation
 
 DONE
+- [X] APUSH Unit 5, Assignment 5
+- [X] APES population presentation
+- [X] English vocab
 - [X] APUSH Unit 5, Assignment 4
 - [X] APES FRQ tomorrow
 - [X] English vocab

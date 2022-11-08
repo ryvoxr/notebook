@@ -6,8 +6,9 @@
 - [Assignment 3](assignments/assignment-3)
 - [Assignment 4](assignments/assignment-4)
 - [Assignment 5](assignments/assignment-5)
+- [Assignment 6](assignments/assignment-6)
 
 ## Notes
 
 - [Freedom on the Move](notes/freedom-on-the-move.md)
-- [Civil War Analysis](notes/civil-war-analysis.md)
+- [Civil War Analysis](notes/civil-war-analysis.tex)
