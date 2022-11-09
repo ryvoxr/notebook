@@ -1,12 +1,13 @@
 TODO
-- [ ] English finish *Educated*
 - [ ] Physics HW
-- [ ] APES Chapter 6 reading
-- [ ] Oceans book Chapters 1-4
-- [ ] APUSH Unit 5, Assignment 6
-- [ ] CompSci Presentation
+- [ ] APES take home quiz
+- [ ] APES population practice problems
+- [ ] Oceans book Chapters 1-4 & outline
 
 DONE
+- [X] English finish *Educated*
+- [X] CompSci Presentation
+- [X] APUSH Unit 5, Assignment 6
 - [X] APUSH Unit 5, Assignment 5
 - [X] APES population presentation
 - [X] English vocab

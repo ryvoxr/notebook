@@ -10,7 +10,8 @@
 - [Unit 4](apush/unit-4/index.md)
 - [Unit 5](apush/unit-5/index.md)
 
-### Classwork
+### Classwork & Misc
 
 - [9-30](apush/classwork/9-30.md)
 - [Planning a Long Essay](apush/classwork/planning-leq)
+- [Follow election results](apush/classwork/follow-election-results.md)
