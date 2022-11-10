@@ -51,6 +51,8 @@
 - [Tagging Assignment](apes/tagging-assignment.md)
 - [Vanishing Amphibians](apes/vanishing-amphibians.md)
 - [Key Terms Unit 5](apes/key-terms-unit-5.md)
+- [Take Home Quiz Chapter 6](apes/chapter-6-take-home.md)
+- [Population Practice](apes/population-practice.tex)
 
 ## Oceanography
 

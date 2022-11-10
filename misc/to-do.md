@@ -1,10 +1,13 @@
 TODO
-- [ ] Physics HW
-- [ ] APES take home quiz
+- [ ] English Educated test review
 - [ ] APES population practice problems
 - [ ] Oceans book Chapters 1-4 & outline
+- [ ] APUSH Unit 5, Assignment 7
 
 DONE
+- [X] APES take home quiz
+- [X] Physics HW
+- [X] APUSH follow the election results
 - [X] English finish *Educated*
 - [X] CompSci Presentation
 - [X] APUSH Unit 5, Assignment 6
