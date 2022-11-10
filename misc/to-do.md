@@ -1,10 +1,10 @@
 TODO
 - [ ] English Educated test review
-- [ ] APES population practice problems
 - [ ] Oceans book Chapters 1-4 & outline
 - [ ] APUSH Unit 5, Assignment 7
 
 DONE
+- [X] APES population practice problems
 - [X] APES take home quiz
 - [X] Physics HW
 - [X] APUSH follow the election results

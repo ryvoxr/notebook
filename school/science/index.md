@@ -62,4 +62,6 @@
 - [NW Passage Answers](oceans/nw-passage-lab.md)
 - [Unit 4 Review](oceans/unit-r-review.md)
 - [Unit 5 Review](oceans/unit-5-review.md)
+- [Evolution's Captain Notes](oceans/evolution's-captain.md)
+- [Evolution's Captain Essay](oceans/evolution's-captain-essay.md)
 
