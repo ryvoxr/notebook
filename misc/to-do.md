@@ -1,9 +1,15 @@
 TODO
-- [ ] English Educated test review
-- [ ] Oceans book Chapters 1-4 & outline
+- [ ] English test tomorrow
+- [ ] Pre-calc trig with calc
+- [ ] Oceans finish paper
 - [ ] APUSH Unit 5, Assignment 7
+- [ ] APUSH Unit 5, Assignment 8
 
 DONE
+- [X] APES country presentation
+- [X] English Educated Part 3
+- [X] English Educated test review
+- [X] Oceans book Chapters 1-4 & outline
 - [X] APES population practice problems
 - [X] APES take home quiz
 - [X] Physics HW
