@@ -1,11 +1,11 @@
 TODO
 - [ ] English test tomorrow
 - [ ] Pre-calc trig with calc
-- [ ] Oceans finish paper
-- [ ] APUSH Unit 5, Assignment 7
-- [ ] APUSH Unit 5, Assignment 8
 
 DONE
+- [X] APUSH Unit 5, Assignment 7
+- [X] APUSH Unit 5, Assignment 8
+- [X] Oceans finish paper
 - [X] APES country presentation
 - [X] English Educated Part 3
 - [X] English Educated test review
