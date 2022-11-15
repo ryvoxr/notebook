@@ -1,8 +1,15 @@
 TODO
-- [ ] English test tomorrow
-- [ ] Pre-calc trig with calc
+- [ ] English bring independent reading book
+- [ ] Pre-calc intro to vector forms
+- [ ] APES calculation practice
+- [ ] APES Chapter 6 multiple choice
+- [ ] APES lab report for competition
+- [ ] Oceans waves practice problems
+- [ ] APUSH Unit 5, Assignment 9
 
 DONE
+- [X] English test tomorrow
+- [X] Pre-calc trig with calc
 - [X] APUSH Unit 5, Assignment 7
 - [X] APUSH Unit 5, Assignment 8
 - [X] Oceans finish paper
