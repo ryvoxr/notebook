@@ -1,13 +1,21 @@
 TODO
-- [ ] English bring independent reading book
-- [ ] Pre-calc intro to vector forms
-- [ ] APES calculation practice
-- [ ] APES Chapter 6 multiple choice
-- [ ] APES lab report for competition
-- [ ] Oceans waves practice problems
-- [ ] APUSH Unit 5, Assignment 9
+- [ ] APUSH Reconstruction Seminar
+- [ ] Physics Drag Lab
+- [ ] APES mc test Monday
 
 DONE
+- [X] Physics HW Dump
+- [X] APUSH Unit 5, Assignment 11
+- [X] English read 
+- [X] APES test Friday
+- [X] Oceans southern oceans test Friday
+- [X] Pre-calc vector forms wksht
+- [X] APUSH Unit 5, Assignment 10
+- [X] APUSH Unit 5, Assignment 9
+- [X] Oceans waves practice problems
+- [X] Pre-calc intro to vector forms
+- [X] English bring independent reading book
+- [X] APES calculation practice
 - [X] English test tomorrow
 - [X] Pre-calc trig with calc
 - [X] APUSH Unit 5, Assignment 7

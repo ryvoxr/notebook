@@ -65,4 +65,6 @@
 - [Evolution's Captain Notes](oceans/evolution's-captain.md)
 - [Evolution's Captain Outline](oceans/evolutions-captain-outline.md)
 - [Evolution's Captain Essay](oceans/evolutions-captain-essay.tex)
+- [African Penguin](oceans/african-penguin)
+- [Chesapeake Bay](oceans/chesapeake-bay)
 
