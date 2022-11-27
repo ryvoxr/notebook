@@ -1,9 +1,16 @@
 TODO
-- [ ] APUSH Reconstruction Seminar
+- [ ] English reading journal
 - [ ] Physics Drag Lab
-- [ ] APES mc test Monday
+- [ ] Pre-calc waves project
+- [ ] APES Farming and Forestry
+- [ ] APES midterm review guide
+- [ ] APES one page paper
+- [ ] Oceans midterm review guide
+- [ ] APUSH study for Unit 5 Test
 
 DONE
+- [X] APES mc test Monday
+- [X] APUSH Reconstruction Seminar
 - [X] Physics HW Dump
 - [X] APUSH Unit 5, Assignment 11
 - [X] English read 
