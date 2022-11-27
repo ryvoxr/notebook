@@ -1,14 +1,15 @@
 TODO
+- [ ] APES one page paper
+
 - [ ] English reading journal
 - [ ] Physics Drag Lab
-- [ ] Pre-calc waves project
-- [ ] APES Farming and Forestry
 - [ ] APES midterm review guide
-- [ ] APES one page paper
 - [ ] Oceans midterm review guide
 - [ ] APUSH study for Unit 5 Test
 
 DONE
+- [X] APES Farming and Forestry
+- [X] Pre-calc waves project
 - [X] APES mc test Monday
 - [X] APUSH Reconstruction Seminar
 - [X] Physics HW Dump
