@@ -1,5 +1,4 @@
 TODO
-- [ ] APES one page paper
 
 - [ ] English reading journal
 - [ ] Physics Drag Lab
@@ -8,6 +7,7 @@ TODO
 - [ ] APUSH study for Unit 5 Test
 
 DONE
+- [X] APES one page paper
 - [X] APES Farming and Forestry
 - [X] Pre-calc waves project
 - [X] APES mc test Monday

@@ -19,6 +19,7 @@
 ## Misc
 
 - [D&D](dnd/index.md)
+- [List](misc/list)
 
 ## The misciest misc
 
