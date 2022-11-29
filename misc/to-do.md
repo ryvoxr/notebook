@@ -1,12 +1,12 @@
 TODO
-
-- [ ] English reading journal
-- [ ] Physics Drag Lab
+- [ ] Pre-calc vector addition wksht
 - [ ] APES midterm review guide
-- [ ] Oceans midterm review guide
 - [ ] APUSH study for Unit 5 Test
 
 DONE
+- [X] English reading journal
+- [X] Physics Drag Lab
+- [X] Oceans midterm review guide
 - [X] APES one page paper
 - [X] APES Farming and Forestry
 - [X] Pre-calc waves project
