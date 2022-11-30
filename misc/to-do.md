@@ -1,9 +1,14 @@
 TODO
-- [ ] Pre-calc vector addition wksht
+- [ ] English vocab and journal
+- [ ] Physics HW Dump
 - [ ] APES midterm review guide
-- [ ] APUSH study for Unit 5 Test
+- [ ] APUSH reconstruction DBQ
 
 DONE
+- [X] Oceans hatchery article
+- [X] Pre-calc vector velocities part two
+- [X] APUSH study for Unit 5 Test
+- [X] Pre-calc vector addition wksht
 - [X] English reading journal
 - [X] Physics Drag Lab
 - [X] Oceans midterm review guide
