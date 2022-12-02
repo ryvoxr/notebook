@@ -1,10 +1,14 @@
 TODO
 - [ ] English vocab and journal
 - [ ] Physics HW Dump
+- [ ] Pre-calc practice test
 - [ ] APES midterm review guide
-- [ ] APUSH reconstruction DBQ
+- [ ] Oceans midterm review guide
+- [ ] APUSH Unit 6, Assignment 2
 
 DONE
+- [X] APUSH reconstruction DBQ
+- [X] APES midterm review guide
 - [X] Oceans hatchery article
 - [X] Pre-calc vector velocities part two
 - [X] APUSH study for Unit 5 Test

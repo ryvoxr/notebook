@@ -3,11 +3,12 @@
 A Rust-based Terminal User Interface (TUI) for speed solving.
 
 TODO
-- [ ] Add scramble generation/fetching
-- [ ] Implement help menu
 - [ ] Figure out tools menu and impl for main chunk
 
 DONE
+- [X] Implement help menu
+- [X] Impl deleting times with d
+- [X] Add scramble generation/fetching
 - [X] Add functionality to the stats chunk
 - [X] Add colors to the timer
 - [X] Refactor the data loading (rn averages from files are broken)
