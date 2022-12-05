@@ -49,9 +49,9 @@
             - Update vaccination & prescriptions
             - Test for specific conditions that could affect those around you
         2. Why preventive habits (such as exercising regularly) are important
-           in maintaining good health, and how the use of tobacco products,
-           alcohol, and other harmful substances can negatively affect your
-           personal fitness
+        in maintaining good health, and how the use of tobacco products,
+        alcohol, and other harmful substances can negatively affect your
+        personal fitness
             - Exercising regularly => increases strength of immune system,
               energy, happiness, and a bunch of other stuff
             - Eating well => nutrition for your body to function & increases
@@ -71,11 +71,13 @@
             - Skin changes
             - Change in bowel habits or bladder function
             - Unusual bleeding
-        5. The youth risk factors that affect cardiovascular health in adulthood
-            - Obesity => 70% of obese minors have at least one factor for cardio disease
-            - Diabetes => higher likelihood of getting atherosclerosis
-    b. Have a dental examination. Get a statement saying that your teeth have
-    been checked and cared for. Tell how to care for your teeth.
+        5. The youth risk factors that affect cardiovascular health in
+        adulthood
+            - Obesity => 70% of obese minors have at least one factor for
+              cardio disease
+            - Diabetes => higher likelihood of getting atherosclerosis b. Have
+              a dental examination. Get a statement saying that your teeth have
+              been checked and cared for. Tell how to care for your teeth.
         - Go to the dentist twice a year
         - Brush (2x/day) & floss
         - Use floride toothpaste
@@ -85,17 +87,19 @@
 
 ### 2. Explain to your merit badge counselor verbally or in writing what personal fitness means to you, including
     a. Reasons for being mentally, physically, socially, and spiritually fit
-        - Mentally fit => good to be thinking clearly, more happy, do well in academics
-        - Physically fit => able to participate in physical activity, better mental health
-        - Socially fit => interact with other people well, I'm not the best at this one
-        - Spiritually fit => preserve good morals, I'm not explicitly spiritual or religious
-    b. Reasons for being fit in all components.
+        - Mentally fit => good to be thinking clearly, more happy, do well in
+          academics
+        - Physically fit => able to participate in physical activity, better
+          mental health
+        - Socially fit => interact with other people well, I'm not the best at
+          this one
+        - Spiritually fit => preserve good morals, I'm not explicitly spiritual
+          or religious b. Reasons for being fit in all components.
         - Perform well in academics, sports, social interactions, etc
-        - Feel better
-    c. What it means to be physically healthy
+        - Feel better c. What it means to be physically healthy
         - Not severely over or under weight => eat well & be well
-        - Able to move furniture up and down stairs
-    d. What it means to be socially healthy
+        - Able to move furniture up and down stairs d. What it means to be
+          socially healthy
         - For me: have a group of close friends to be with (I don't
           particularly like other people)
         - General manners stuff
@@ -103,14 +107,18 @@
         - Able to have a normal conversation
 
 ### 3. With your counselor, answer and discuss the following questions:
-    a. Are you living in such a way that your risk of preventable diseases is minimized?
+    a. Are you living in such a way that your risk of preventable diseases is
+    minimized?
         - Vaccinated
         - Eat relatively healthy
         - Occasionally participate in physical exercise
         - Family doesn't have long-running history of disease
-    b. Are you immunized and vaccinated according to the advice of your healthcare provider and the direction of your parent(s)/guardian(s)?
+    b. Are you immunized and vaccinated according to the advice of your
+    healthcare provider and the direction of your parent(s)/guardian(s)?
         - Yes
-    c. Are you free from habits relating to poor nutrition and the use of alcohol, tobacco, drugs, and other practices that could be harmful to your health?
+    c. Are you free from habits relating to poor nutrition and the use of
+    alcohol, tobacco, drugs, and other practices that could be harmful to your
+    health?
         - Yes
     d. What are the advantages to getting a full night's sleep?
         - Better physical, mental, social state overall
@@ -123,24 +131,44 @@
         - Important for physical and mental health
         - Good for immune system
         - Literal fuel (energy) for your body
-    f. Do you participate in a regular exercise program or recreational activities?
+    f. Do you participate in a regular exercise program or recreational
+    activities?
         - Tennis in the summer
         - Lift & run 3x/wk
     g. What are you doing to demonstrate your duty to God?
         - Not terribly religious
         - On the moral front => Striving to be honorable, kind to people.
-            - Big thing for me is feeling included => I'll include lone freshies at school
-    h. Do you spend quality time with your family and friends in social and recreational activities?
+            - Big thing for me is feeling included => I'll include lone
+              freshies at school
+    h. Do you spend quality time with your family and friends in social and
+    recreational activities?
         - Indeed
     i. Do you support family activities and efforts to maintain a good home life?
         - Indubitably
 
 ### 4. Explain the following about physical fitness:
     a. The areas of physical fitness
+        - Cardiorespiratory
+        - Muscular strength
+        - Muscular endurance
+        - Flexibility
+        - Body Composition
     b. Your weakest and strongest area of physical fitness
+        - Strongest: Body Composition
+        - Weakest: Flexibility
     c. The need to have a balance in the four areas of physical fitness
+        - Each of the areas depend on each other
+        - Muscular strength isn't brilliant without muscular endurance
+        - Muscular endurance isn't brilliant without good Cardiorespiratory
+          fitness
+        - Body composition (somewhat) determines the other ones
     d. How a program like ScoutStrong can lead to lifelong healthful habits
+        - Consistent and realistic programs can establish good, easy to keep,
+          habits that can last for a long time
+        - Is important to keep things realistic
     e. How the areas of personal fitness relate to the Scout Law and Scout Oath
+        - "physically strong, mentally awake"
+        - Personal fitness has a big mental part
 
 ### 5. Explain the following:
     a. The importance of good nutrition

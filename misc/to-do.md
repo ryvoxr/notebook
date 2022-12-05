@@ -1,12 +1,14 @@
 TODO
-- [ ] English vocab and journal
-- [ ] Physics HW Dump
-- [ ] Pre-calc practice test
-- [ ] APES midterm review guide
-- [ ] Oceans midterm review guide
-- [ ] APUSH Unit 6, Assignment 2
+- [ ] English vocab
 
 DONE
+- [X] APUSH Unit 6, Assignment 3
+- [X] APES midterm review guide
+- [X] Oceans midterm review guide
+- [X] Pre-calc practice test
+- [X] Physics HW Dump
+- [X] English read the thing for midterm
+- [X] APUSH Unit 6, Assignment 2
 - [X] APUSH reconstruction DBQ
 - [X] APES midterm review guide
 - [X] Oceans hatchery article
