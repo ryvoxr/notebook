@@ -1,8 +1,11 @@
 # Biodiversity
-From: [[Three Scientific Principles of Sustainability]]
 
-Short for biological diversity
+"The variety of life in an ecosystem"
 
-The variety of [[Genes|genes]], [[Organism||organisms]], [[Species|species]], and [[Ecosystem|ecosystems]] where organisms exist and interact
+Measured by:
+- Species abundance -> the number of individuals per species
+- Species richness -> the number of species in an ecosystem
 
-The interactions among species provide necessary ecosystem services and prevent any single population from growing too large
+Simpson's diversity Index is a quantitative way of measuring abundance and richness
+- A lower number represents higher diversity
+

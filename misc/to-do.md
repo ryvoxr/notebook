@@ -1,7 +1,11 @@
 TODO
-- [ ] English vocab
+- [ ] APES review guide study
+- [ ] Oceans review guide study
+- [ ] APUSH collect study mats
 
 DONE
+- [X] English vocab
+- [X] Physics submit dump
 - [X] APUSH Unit 6, Assignment 3
 - [X] APES midterm review guide
 - [X] Oceans midterm review guide
