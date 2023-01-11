@@ -1,123 +1,27 @@
 TODO
-- [ ] APES review guide study
-- [ ] Oceans review guide study
-- [ ] APUSH collect study mats
+- [ ] English Anxious People
+
+***MAKEUP***
+- [ ] English Anxious People by Fredrick Backman
+- [ ] Physics 2.01
+- [ ] APES vocab week one
 
 DONE
-- [X] English vocab
-- [X] Physics submit dump
-- [X] APUSH Unit 6, Assignment 3
-- [X] APES midterm review guide
-- [X] Oceans midterm review guide
-- [X] Pre-calc practice test
-- [X] Physics HW Dump
-- [X] English read the thing for midterm
-- [X] APUSH Unit 6, Assignment 2
-- [X] APUSH reconstruction DBQ
-- [X] APES midterm review guide
-- [X] Oceans hatchery article
-- [X] Pre-calc vector velocities part two
-- [X] APUSH study for Unit 5 Test
-- [X] Pre-calc vector addition wksht
-- [X] English reading journal
-- [X] Physics Drag Lab
-- [X] Oceans midterm review guide
-- [X] APES one page paper
-- [X] APES Farming and Forestry
-- [X] Pre-calc waves project
-- [X] APES mc test Monday
-- [X] APUSH Reconstruction Seminar
-- [X] Physics HW Dump
-- [X] APUSH Unit 5, Assignment 11
-- [X] English read 
-- [X] APES test Friday
-- [X] Oceans southern oceans test Friday
-- [X] Pre-calc vector forms wksht
-- [X] APUSH Unit 5, Assignment 10
-- [X] APUSH Unit 5, Assignment 9
-- [X] Oceans waves practice problems
-- [X] Pre-calc intro to vector forms
-- [X] English bring independent reading book
-- [X] APES calculation practice
-- [X] English test tomorrow
-- [X] Pre-calc trig with calc
-- [X] APUSH Unit 5, Assignment 7
-- [X] APUSH Unit 5, Assignment 8
-- [X] Oceans finish paper
-- [X] APES country presentation
-- [X] English Educated Part 3
-- [X] English Educated test review
-- [X] Oceans book Chapters 1-4 & outline
-- [X] APES population practice problems
-- [X] APES take home quiz
-- [X] Physics HW
-- [X] APUSH follow the election results
-- [X] English finish *Educated*
-- [X] CompSci Presentation
-- [X] APUSH Unit 5, Assignment 6
-- [X] APUSH Unit 5, Assignment 5
-- [X] APES population presentation
-- [X] English vocab
-- [X] APUSH Unit 5, Assignment 4
-- [X] APES FRQ tomorrow
-- [X] English vocab
-- [X] APUSH the gathering storm
-- [X] APES study for test
-- [X] APUSH Unit 5, Assignment 3
-- [X] Oceans study for test Wednesday
-- [X] Physics submit dump
-- [X] Finish Educated Part 2
-- [X] APES ethics of poaching article
-- [X] APUSH Unit 5, Assignment 2
-- [X] Pre-calc Unit 3 sample test odd ?'s
-- [X] Physics HW
-- [X] Pre-calc modeling trig functions
-- [X] APUSH Unit 5, Assignment 1
-- [X] Oceans crossword
-- [X] APES HW
-- [X] APUSH study for Unit 4
-- [X] English read to 227
-- [X] Oceans read FEMA article
-- [X] Pre-calc horiz trans
-- [X] APES textbook HW
-- [X] English read to 197
-- [X] Oceans flood insurance rp
-- [X] APES tagging assignment
-- [X] Pre-calc graphing trig wksht
-- [X] Physics Tuesday 10/25
-- [X] Physics forces hw
-- [X] Pre-calc trig graphs wksht
-- [X] Oceans work on flood insurance reading/notes
-- [X] APES study for quiz on species stories
-- [X] APUSH Unit 4, Assignment 9
-- [X] Pre-calc Desmos classroom
-- [X] Oceans read articles
-- [X] APES case study on mycorrhizzae
-- [X] APUSH Unit 4, Assignment 8
-- [X] Pre-calc graphing wksht
-- [X] APES species notes
-- [X] APUSH Unit 4, Assignment 7
-- [X] APES species stories
-- [X] Pre-calc arc length wksht
-- [X] Physics review packet due
-- [X] APUSH Unit 4, Assignment 6
-- [X] Oceans test tomorrow
-- [X] English book Part 1 Writing
-- [X] Physics test review
-- [X] APES test tomorrow
-- [X] APUSH Unit 4, Assignment 5
-- [X] Oceans test Thursday
-- [X] English comparison pt 2 review
-- [X] Pre-calc unit circle wksht
-- [X] English finish part 1 (pg 150)
-- [X] APES study for test
-- [X] APUSH Unit 4, Assignment 4
-- [X] Oceans glacier questions
-- [X] Pre-calc unit circle labeling
-- [X] Physics test review packet
-- [X] APES mc ch 7, 8, and 11
-- [X] Physics test review concept based questions
-- [X] APES read aquatic biomes thing
-- [X] APES review for Test
-- [X] APUSH Unit 4, Assignment 3
-
+- [X] APES seafloor mapping video
+- [X] APUSH Unit 7, Assignment 6
+- [X] Precalc wksht
+- [X] Precalc wkshst
+- [X] Oceans salmon wksht
+- [X] Oceans kwh hw
+- [X] APES purpose games
+- [X] APES orchard assignment
+- [X] APES Trieste questions
+- [X] APUSH Unit 7 Assignment 5
+- [X] APUSH Unit 7 Assignment 4
+- [X] APUSH Unit 7 Assignment 3
+- [X] Pre-calc wksht 4
+- [X] Pre-calc wksht 3
+- [X] Pre-calc wksht 2
+- [X] Pre-calc wksht 1
+- [X] APUSH Unit 7 Assignment 2
+- [X] APUSH Unit 7 Assignment 1

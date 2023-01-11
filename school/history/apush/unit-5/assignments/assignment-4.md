@@ -44,7 +44,7 @@ Taney and others argued that they could never be citizens of the United States
       necessarily void...heh)
 
 Because of the Fifth Amendment (prohibiting taking property without due process)
-- Congress could not prevent souther citizens from moving slave property into the territories
+- Congress could not prevent southern citizens from moving slave property into the territories
 - Declared the Northwest Ordinance and the Missouri Compromise unconstitutional
 - Congress could not give territorial governments the right to declare free
   until they had a constitution and were a state

@@ -9,7 +9,7 @@ Appointed chief justice by President John Adams in 1822
 	- The supremacy of national laws
 	- Traditional property rights
 
-## *McCullogh v. Maryland*, *Gibbons v. Ogden*, *Fletcher v. Peck*, *Dartmouth College v. Woodward*
+## McCullogh v. Maryland, Gibbons v. Ogden, Fletcher v. Peck, Dartmouth College v. Woodward
 
 \- | Date | Case | Significance of Decision
 --- | --- | --- | ---

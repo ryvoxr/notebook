@@ -11,8 +11,7 @@ Currents in a Gyre pushes water into the center of the ocean
 - Instead of going up the hill, it spins around
 - Pushes out wider
 - Forms gyres
-- Happens in the Northern and Souther Hemisheres
+- Happens in the Northern and Southern Hemisheres
 
 Also pushes plastic to the center
-
 

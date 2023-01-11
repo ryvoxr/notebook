@@ -24,7 +24,7 @@ The embargo cut the American gross national product by 5%
 - Weakened the entire economy
 - 108 million -> 22 million in exports in two years
 
-## Tecumeh & War Hawks
+## Tecumseh & War Hawks
 
 Tecumseh was a Shawnee war chief
 - Revived the Western Confederacy in 1809

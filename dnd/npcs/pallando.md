@@ -13,3 +13,4 @@ Can offer help about Red Malchite
 - Of magical quality
 - Quite hot
 - Might be able to be combined with other metals and the correct catalyst to form an alloy
+

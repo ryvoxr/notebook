@@ -22,7 +22,7 @@ black and white Northerners, and souther African Americans
 
 ## Who were the “scalawags and carpetbaggers”? Why do they have those names?
 
-Scalawags -> term that ex-Confederates used to describe souther whites who
+Scalawags -> term that ex-Confederates used to describe southern whites who
 supported Reconstruction (means worthless animal)
 - "Keep the change you filthy animal"
 
@@ -55,7 +55,7 @@ public accommodations, irrespective of race
 
 Sudden onset of a severe worldwide depression in the United States
 
-The initial panic was triggered by the bankruptcy of the Norther Pacific Railroad
+The initial panic was triggered by the bankruptcy of the Northern Pacific Railroad
 - Raised suspicions that Republican financial manipulation had caused the depression
 
 Directly undercut Republic policies

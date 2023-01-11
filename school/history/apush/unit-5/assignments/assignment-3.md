@@ -22,7 +22,7 @@ Legislation admitted California as a free state
 - Abolished the slave trade (but not slavery) in the District of Columbia
 
 Organized the rest of the conquered Mexican lands into the territories of New
-Mexico and Utah and, invoking popular sovereignty, left the issue of slaver in
+Mexico and Utah and, invoking popular sovereignty, left the issue of slavery in
 the hands of the new residents
 
 ## Describe the Fugitive Slave Act--why was the Northern response to it so intense?

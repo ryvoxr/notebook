@@ -39,7 +39,6 @@ The Tariff of 1828 had helped Jackson win the presidency
 - Also put him in a major political crisis
 - There was fierce opposition to high tariffs throughout the South
 
-Congress reenacted the Tariff of Abominations in 1932
 - South Carolina called a state convention that adopted an Ordinance of
   Nullification declaring the tariffs of 1828 and 1832 to be null and void
 - The ordinance prohibited the collection of those duties in South Carolina
@@ -50,7 +49,7 @@ Jackson had a major challenge from politicians who supported the Second Bank of
 the United States
 - The bank was privately managed and operated under a government charter
     - Government owned 20% of its stock
-- Bank was made to stabilize tha nation's money supply
+- Bank was made to stabilize the nation's money supply
 
 Henry Clay and Daniel Webster wanted to extend the bank's charter
 - Hoped to force Jackson into a veto that would split the Democrats

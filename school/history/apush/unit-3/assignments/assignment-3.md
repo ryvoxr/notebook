@@ -49,12 +49,12 @@ Initially Jefferson refused to pay this "tribute"
 - Order the US Navy to attack the pirates' home ports
 - After four years of fighting, Jefferson signed a peace treaty that included a ransom for prisoners
 
-## *Marbury v Madison*
+## Marbury v Madison
 
 Marshall asserted that Marbury had the right to the appointment but that the
 Court did not have the constitutional power to enforce it
 - Marshall voided a section of the Judiciary Act of 1789
-- In effect, asserting the Court's authority to 
+- Established the power of judicial review
 
 ## Jefferson's policies as President - legislation, economics, land, the Louisiana purchase, Lewis and Clark
 

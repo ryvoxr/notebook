@@ -24,6 +24,6 @@ One of the most productive areas
 - Due to river input, tidal mixing, and lots of sunlight
 
 US has lost over 50% of wetlands since 1900
-- New Zealand and Italy over 90nst%
+- New Zealand and Italy over 90%
 - In the past -> Due to development
 - In the future -> Due to sea level change flooding them

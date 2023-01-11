@@ -65,15 +65,14 @@ Washington issued a Proclamation of Neutrality
 
 In 1794, western Pennsylvanian farmers mounted the Whiskey Rebellion
 - Protested Hamilton's excise ta on spirits
-    - Tax had cut demand for the corn whiskey the farmers distill tihs is me ty
-      ing on this eyboard hko[]ed
+    - Tax had cut demand for the corn whiskey the farmers distill 
 - Like the Sons of Liberty in 1765
 - "Liberty, Equality, Fraternity"
 
 ## What did Jay's Treaty accomplish? What did it fail to accomplish?
 
 Britain's maritime strategy intensified political divisions in America
-- Beginning in 1793, the British navy seized 250 American shipos carrying
+- Beginning in 1793, the British navy seized 250 American ships carrying
   French sugar and other goods
 - Hoping to get the goods diplomatically, Washington dispatched John Jay to
   Britain

@@ -10,9 +10,17 @@
 - [Unit 4](apush/unit-4/index.md)
 - [Unit 5](apush/unit-5/index.md)
 - [Unit 6](apush/unit-6/index.md)
+- [Unit 7](apush/unit-7/index.md)
 
 ### Classwork & Misc
 
 - [9-30](apush/classwork/9-30.md)
 - [Planning a Long Essay](apush/classwork/planning-leq)
 - [Follow election results](apush/classwork/follow-election-results.md)
+
+### Midterm
+
+- [Brief Timeline](midterm/brief-timeline.md)
+- [Timeline](midterm/timeline.md)
+- [Le questions](midterm/le-questions.md)
+- [Le things I don't know](midterm/le-things-i-dont-know.md)

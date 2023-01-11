@@ -2,17 +2,17 @@
 
 ## How was the 2nd Great Awakening different than the 1st Great Awakening?
 
-1st Great Awakening:
+First Great Awakening:
 - Individual relationship with God
 - Move away from ritual and doctrine
 - Spiritual guilt and personal morality
 
-2nd Great Awakening:
+Second Great Awakening:
 - Created egalitarian cultures marked by communal singing and emotional
   services
 - Big religious revivals
 - Man was naturally at "the head of the woman"
--   Methodist and Baptist preachers adapted their religious message to justify
+- Methodist and Baptist preachers adapted their religious message to justify
     the authority of yeomen patriarchs and slave-owning planters
 
 ## What was the Benevolent Empire and what were its goals?

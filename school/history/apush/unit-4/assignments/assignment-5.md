@@ -7,7 +7,7 @@ Some Indians had adopted white ways
 - Children growing up in bicultural world
 
 
-Georgia Cherokee James Vann owned one hundred black slaves, two trading posts,
+Georgia Cherokee James Van owned one hundred black slaves, two trading posts,
 and a gristmill
 
 Prominent Cherokees believed that integration life was the best way to protect
@@ -19,7 +19,7 @@ property
 
 Jackson pushed the Indian Removal Act of 1830
 
-Catharine Beecher and Lydia Sigourney proposed a Ladies Circular
+Catherine Beecher and Lydia Sigourney proposed a Ladies Circular
 - urged "benevolent ladies" to use "prayers and exteriors to avert the calamity
   of removal"
 - Other women took this.. And petitioned the government.. So much for prayers
