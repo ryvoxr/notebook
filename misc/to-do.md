@@ -1,12 +1,14 @@
 TODO
 - [ ] English Anxious People
+- [ ] Physics 2.01
+- [ ] Precalc wksht
+- [ ] APES vocab week one
 
 ***MAKEUP***
 - [ ] English Anxious People by Fredrick Backman
-- [ ] Physics 2.01
-- [ ] APES vocab week one
 
 DONE
+- [X] APUSH Unit 7 Assignment 7
 - [X] APES seafloor mapping video
 - [X] APUSH Unit 7, Assignment 6
 - [X] Precalc wksht
