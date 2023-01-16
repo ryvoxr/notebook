@@ -4,7 +4,21 @@ They see a meteor streak across the sky and land southeast of Bywater.
 - Meteor has special ore inside of it
 - Red malchite
 
-The Lord Mayor Damien wants this stuff
+The Lord Mayor Damien stops them as they leave the crash site
+- Is followed by several semi-professional looking guards as well as two guys
+  dressed in all black (Lugzan)
+    - Can't see the black clad peoples faces
+    - They don't talk
+- Interrogates them, but in a really charming and naive way
+    - Very kindly asks what they were doing
+    - Knows that the meteor crashed there
+    - Lets them go no matter what
+
+Meets a halfling that is throwing leaves on the players heads continuously
+- Halfing is very silly
+- Might be BBEG in disguise, not sure tho
+
+Ulbric has a toilet problem
 
 ## Red Malchite
 
@@ -27,3 +41,8 @@ Can be combined with other metals to form an alloy. Will give flaming
 - Flaming: Your weapon catches fire and deals 1d4 fire damage on a successful attack roll.
 
 
+## Long term overview
+
+The BBEG (unknown name) has the Mayors of Esgaroth and Bywater under his
+control. He spies on them using bats and uses servants (the Lugzan) to send
+messages and ensure his work is complete.

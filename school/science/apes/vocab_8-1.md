@@ -45,12 +45,18 @@ Acidity/Mineral availability
     Soil acidity decreases the availability of soil nutrients and minerals.
 
 Desertification
+    Process where fertile land becomes desert, typically as a result of
+    drought, deforestation, or inappropriate asgriculture
     
-
 Ballast
+    Water held in a ship for balance
 
 Bathysphere
+    Unique, rotund, deep sea submersible
 
 Pressure
+    Continuous physical force exterted on an object. Water pressure increases
+    as depth increases.
 
 Trieste
+    Firste crewed vessel to reach the bottom of Challenger Deep.

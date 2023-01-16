@@ -12,6 +12,7 @@
 
 [Ulbric Goldtooth](npcs/ulbric-goldtooth.md)
 [Damien Durallot](npcs/damien-durallot.md)
+[Nolan Tollarud](nolan-tollarud.md)
 [Pallando](npcs/pallando)
 
 ## PCs
@@ -23,6 +24,8 @@
 
 ## Places
 
+[Esgaroth](esgaroth.md)
+[Bywater](bywater.md)
 [Rockhollow Cavern](places/rockhollow-cavern.md)
 [The White Dragon](places/the-white-dragon.md)
 
