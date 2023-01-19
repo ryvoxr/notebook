@@ -1,19 +1,22 @@
 TODO
-- [ ] HW dump 4.2
-- [ ] APES mining chart
-- [ ] Oceans work on species story slide
-- [ ] APUSH Unit 7, Assignment 10
-
-***EARLY***
 - [ ] English mc test pt 2 study
+- [ ] Pre-calc wksht
+- [ ] Oceans species story slide
+
+***Early***
+- [ ] APES study for vocab part three
+- [ ] APES power of one
+- [ ] APUSH Unit 7, Assignment 11
 
 ***MAKEUP***
-- [ ] English Anxious People to Ch. 31
 - [ ] Physics 2.01
 - [ ] APUSH Unit 7 Assignment 8
 
 
 DONE
+- [X] APUSH Unit 7, Assignment 10
+- [X] HW dump 4.2
+- [X] APES mining chart
 - [X] Pre-calc wksht
 - [X] English MC Vocab Quiz 1
 - [X] APUSH Unit 7 Assignment 9

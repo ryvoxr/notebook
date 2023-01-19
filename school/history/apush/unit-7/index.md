@@ -10,6 +10,7 @@
 - [Assignment 6](assignments/assignment-6.md)
 - [Assignment 7](assignments/assignment-7.md)
 - [Assignment 9](assignments/assignment-9.md)
+- [Assignment 10](assignments/assignment-10.md)
 
 ## Notes
 
