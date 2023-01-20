@@ -14,11 +14,21 @@ The Lord Mayor Damien stops them as they leave the crash site
     - Knows that the meteor crashed there
     - Lets them go no matter what
 
+Ulbric has a toilet problem
+- Sends the halfling Yeldarb to go work for Haldir (the blacksmith)
+
+## Encounters to happen
+
+When the party goes back to the blacksmith, they find the blacksmith injured and
+the Lugzan are hiding in the shadows (heh)
+- Combat (most likely). Yaaaay!
+- Haldir can't remember much
+    - He remembers people wearing black break down his door, come inside, and
+      then they threw him against the wall
+
 Meets a halfling that is throwing leaves on the players heads continuously
 - Halfing is very silly
-- Might be BBEG in disguise, not sure tho
-
-Ulbric has a toilet problem
+- This is the Necromancer in disguise spying on them
 
 ## Red Malchite
 
@@ -43,6 +53,11 @@ Can be combined with other metals to form an alloy. Will give flaming
 
 ## Long term overview
 
-The BBEG (unknown name) has the Mayors of Esgaroth and Bywater under his
-control. He spies on them using bats and uses servants (the Lugzan) to send
-messages and ensure his work is complete.
+The Necromancer (BBEG) has the Mayors of Esgaroth and Bywater under his
+control. He scared the mayor of Esgaroth into helping him, but the Bailiff of
+Bywater just had to be asked nicely. He spies on them using bats and uses
+Shadow and Wraith servants (the Lugzan) to send messages and ensure his work is
+complete. The Necromancer is using the manpower of Bywater and Esgaroth to
+extract as much of the Red Malchite as possible in order to arm his army of
+undead.
+

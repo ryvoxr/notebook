@@ -4,9 +4,12 @@
 
 [Main Quest Running Storyline](adventures/main-quest-running-storyline.md)
 
-## Adventures
+## Places
 
-[Ulbric's Mine](adventures/ulbrics-mine.md)
+[Esgaroth](esgaroth.md)
+[Bywater](bywater.md)
+[Rockhollow Cavern](places/rockhollow-cavern.md)
+[The White Dragon](places/the-white-dragon.md)
 
 ## NPCs
 
@@ -15,6 +18,10 @@
 [Nolan Tollarud](nolan-tollarud.md)
 [Pallando](npcs/pallando)
 
+## Adventures
+
+[Ulbric's Mine](adventures/ulbrics-mine.md)
+
 ## PCs
 
 [Kainosite Lavendulan](pcs/kainosite-lavendulan.md) -> Colin
@@ -22,13 +29,8 @@
 [Oshrjad](pcs/oshrjad.md) -> Noah
 [Perennial](pcs/perennial.md) -> Hugo
 
-## Places
-
-[Esgaroth](esgaroth.md)
-[Bywater](bywater.md)
-[Rockhollow Cavern](places/rockhollow-cavern.md)
-[The White Dragon](places/the-white-dragon.md)
-
 ## Misc
 
+[Rusty bois](misc/rusty-bois.md)
+[Malchitey bois](misc/malchitey-bois.md)
 [Decent Names](misc/decent-names.md)
