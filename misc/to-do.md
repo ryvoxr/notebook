@@ -1,19 +1,14 @@
 TODO
-- [ ] English mc test pt 2 study
-- [ ] Pre-calc wksht
-- [ ] Oceans species story slide
-
-***Early***
-- [ ] APES study for vocab part three
-- [ ] APES power of one
+- [ ] English read to pg 204
+- [ ] Oceans pg 5 mussels
 - [ ] APUSH Unit 7, Assignment 11
 
-***MAKEUP***
-- [ ] Physics 2.01
-- [ ] APUSH Unit 7 Assignment 8
-
-
 DONE
+- [X] Pre-calc wksht
+- [X] Phsyics 4.2
+- [X] English mc test pt 2 study
+- [X] Pre-calc wksht
+- [X] Oceans species story slide
 - [X] APUSH Unit 7, Assignment 10
 - [X] HW dump 4.2
 - [X] APES mining chart
