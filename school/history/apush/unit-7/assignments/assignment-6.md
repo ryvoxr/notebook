@@ -6,8 +6,8 @@ During the Gilded age cities pioneered mass transit, centralized industry,
 skyscrapers, and electricity. Specialized districts were created for finance,
 manufacturing, wholesaling, and warehousing. The condensed nature of modern
 cities allowed people to accomplish much more in a day than was previously
-possible. New technologies light skyscrapers and electricity attracted people
-to come and live in cities.
+possible. New technologies such as light skyscrapers and electricity attracted
+people to come and live in cities.
 
 ## How and why were neighborhoods divided by ethnic group? What was life like in ethnic enclaves?
 
