@@ -20,6 +20,7 @@
 
 ## Adventures
 
+[Red-stuff cult](red-stuff-cult.md)
 [Ulbric's Mine](adventures/ulbrics-mine.md)
 
 ## PCs
