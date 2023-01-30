@@ -1,8 +1,5 @@
 TODO
-- [ ] English book to pg 310
-- [ ] APES AP Classroom
-- [ ] Oceans test
-- [ ] APUSH Unit 8, Assignment 1
+- [ ] APUSH Unit 8 Assignment 2
 
 ***MAKEUP***
 - [ ] Ocean plastic article
@@ -11,6 +8,10 @@ TODO
 - [ ] Physics dump 2.01
 
 DONE
+- [X] English book to pg 310
+- [X] APES AP Classroom
+- [X] Oceans test
+- [X] APUSH Unit 8, Assignment 1
 - [X] APUSH study for test
 - [X] English book to pg 279
 - [X] Pre-calc assignment
