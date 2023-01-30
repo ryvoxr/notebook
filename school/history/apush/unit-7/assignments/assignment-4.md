@@ -5,7 +5,7 @@
 Thousands of railroad workers quit protesting steep wage cuts during a
 depression that had been occurring since 1873
 - "the officers of the road were bound to break the spirit of the men, and any
-  or all organizations they belonged to/"
+  or all organizations they belonged to"
 - Believed railroad companies wanted to block workers from "all fellowship for
   mutual aid"
 

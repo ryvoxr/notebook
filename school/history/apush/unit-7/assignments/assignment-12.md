@@ -30,7 +30,7 @@ Issued fifty-one executive orders
 Increased the amount of land held in federal forest reserves and turned their
 movement over to the new, independent US Forest Service
 
-## Who was Rober La Follette and what was the "Wisconsin Idea"?
+## Who was Robert La Follette and what was the "Wisconsin Idea"?
 
 Teddy Roosevelt dubbed Wisconsin a "laboratory of democracy"
 - Led by Republican governor Robert La Follette
@@ -70,7 +70,7 @@ Socialist Eugene Debs was a socialist because he was a socialist
 
 Woodrow Wilson absolutely dominated. Like it wasn't even close. Like not even a
 little bit. The socialists got 0 votes, the Republicans only got 8. And
-Roosevelt got a whopping 88. Which left 435 votes to  "Big Woody" Wilson.
+Roosevelt got a whopping 88. Which left 435 votes to "Big Woody" Wilson.
 
 ## What economic reforms were passed during the Wilson administration?
 
