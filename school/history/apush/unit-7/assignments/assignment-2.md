@@ -34,7 +34,7 @@ Appropriated top executives responsible for day-to-day operations by function
 
 Created the internal structure adopted by many large, complex corporations.
 
-The Us became an industrial power by tapping its vast natural resources,
+The US became an industrial power by tapping its vast natural resources,
 particularly to use large amounts of coal.
 - Steam engines replaced human and animal labor
 - Kerosene replaced whale oil and wood
@@ -45,8 +45,8 @@ Gustavus Swift was a shrewd Chicago cattle dealer
 
 Saw that local slaughterhouses lacked the scale to utilize waste by-products
 and cut labor costs
-- To improve productivity, Swift invented the assembly line, where each
-  wage worker repeated the same slaughtering task over and over
+- To improve productivity, Swift invented the assembly line, where each wage
+  worker repeated the same slaughtering task over and over
 
 ## Vertical integration
 
@@ -57,7 +57,8 @@ materials to finished goods
 
 John D. Rockefeller was the king of petroleum
 
-Because whaling decreased, whale-oil customers looked for alternative lighting sources
+Because whaling decreased, whale-oil customers looked for alternative lighting
+sources
 
 Lots of oil wells appeared in Pennsylvania
 
@@ -95,19 +96,21 @@ large show windows and Christmas displays.
 
 ## What new jobs emerged? – managers? Salesmen? Jobs for women?
 
-Middle managers took on entirely new tasks, directing the flow of goods,
-labor, and information throughout the enterprise.
+Middle managers took on entirely new tasks, directing the flow of goods, labor,
+and information throughout the enterprise.
 
 New kind of sales force.
 
-Secretarial work became a dead-end job, and employers began assigning it to women.
+Secretarial work became a dead-end job, and employers began assigning it to
+women.
 
 77% of all stenographers and typists were female; by 1920, women held half of
 all low-level office jobs.
 
 ## Industrialized labor and deskilling
 
-As industrialization advanced workers lost the independence characteristic of craft work.
+As industrialization advanced workers lost the independence characteristic of
+craft work.
 
 This was caused by the deskilling of labor under a new system of mechanized
 manufacturing.
@@ -120,7 +123,6 @@ a program of industrial efficiency called scientific management.
 Recommended that employers eliminate all brain work from manual labor, hiring
 experts to develop rules for the shop floor.
 
-Workers must be required to "do
-what they are told promptly and without asking questions or making
-suggestions".
+Workers must be required to "do what they are told promptly and without asking
+questions or making suggestions".
 

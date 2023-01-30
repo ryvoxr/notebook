@@ -1,9 +1,19 @@
 TODO
-- [ ] English read to pg 204
-- [ ] Oceans pg 5 mussels
-- [ ] APUSH Unit 7, Assignment 11
+- [ ] English book to pg 310
+- [ ] APES AP Classroom
+- [ ] Oceans test
+- [ ] APUSH Unit 8, Assignment 1
+
+***MAKEUP***
+- [ ] Ocean plastic article
+- [ ] APUSH Unit 7, Assignment 8
+- [ ] APUSH Unit 7, Assignment 13
+- [ ] Physics dump 2.01
 
 DONE
+- [X] APUSH study for test
+- [X] English book to pg 279
+- [X] Pre-calc assignment
 - [X] Pre-calc wksht
 - [X] Phsyics 4.2
 - [X] English mc test pt 2 study

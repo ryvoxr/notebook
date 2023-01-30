@@ -58,7 +58,7 @@ the amount of money in circulation
 ## Granger Laws Knights of Labor
 
 Granger Laws
-- Created railroad commissions to supervises railroad rates and policies
+- Created railroad commissions to supervise railroad rates and policies
 - Appointed commissions to regulate insurance and utility companies
 - Some early regulatory efforts were not effective
 
