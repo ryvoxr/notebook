@@ -1,13 +1,15 @@
 TODO
-- [ ] APUSH Unit 8 Assignment 2
 
 ***MAKEUP***
-- [ ] Ocean plastic article
 - [ ] APUSH Unit 7, Assignment 8
 - [ ] APUSH Unit 7, Assignment 13
 - [ ] Physics dump 2.01
 
 DONE
+- [X] APES article
+- [X] Pre-calc wksht
+- [X] APUSH Unit 8 Assignment 3
+- [X] APUSH Unit 8 Assignment 2
 - [X] English book to pg 310
 - [X] APES AP Classroom
 - [X] Oceans test
