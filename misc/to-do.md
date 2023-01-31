@@ -1,4 +1,10 @@
 TODO
+- [ ] English Vocab
+- [ ] Physics dump 4.3
+- [ ] Pre-calc wksht
+- [ ] APES packet questions
+- [ ] Finish oceans map and reading
+- [ ] APUSH Unit 8 Assignment 4
 
 ***MAKEUP***
 - [ ] APUSH Unit 7, Assignment 8
