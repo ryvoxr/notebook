@@ -1,6 +1,6 @@
 # Assignment 1
 
-## Why did America expand? – be sure to talk about economic, military, and social reasons (and any others). Be sure to discuss American exceptionalism.
+## Why did America expand? – Economic, military, and social reasons
 
 Intellectual trends also favored imperialism
 - Proselytize overseas
@@ -38,7 +38,7 @@ Invoked the Monroe Doctorine
 Cuban patriots mounted a war against Spain
 - Spanish put Cuban civilians into concentration camps
 
-## Discuss the specific things that drew the US into war with Spain (de Lome letter, the Maine, etc...)
+## Discuss the specific things that drew the US into war with Spain
 
 Spanish atrocities created a surge of nationalism
 

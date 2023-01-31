@@ -14,8 +14,10 @@
 - [African Penguin](african-penguin)
 - [Chesapeake Bay](chesapeake-bay)
 
-## Unit 7
+## Unit 9
+
+- [ACT Practice](act-practice.md)
 
 ## Mideterm Review
 
-# - [16 Questions](16-questions.md)
+# [16 Questions](16-questions.md)
