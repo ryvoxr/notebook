@@ -1,17 +1,24 @@
 TODO
-- [ ] English Vocab
-- [ ] Physics dump 4.3
-- [ ] Pre-calc wksht
-- [ ] APES packet questions
-- [ ] Finish oceans map and reading
-- [ ] APUSH Unit 8 Assignment 4
+- [ ] APES FRQ
 
 ***MAKEUP***
+- [ ] Physics dump 2.01
+- [ ] APES packet questions
 - [ ] APUSH Unit 7, Assignment 8
 - [ ] APUSH Unit 7, Assignment 13
-- [ ] Physics dump 2.01
+- [ ] APUSH Unit 8, Assignment 5
 
 DONE
+- [X] Oceans book
+- [X] Physics dump 4.3
+- [X] Pre-calc wksht
+- [X] APUSH Unit 8, Assignment 6
+- [X] English Vocab
+- [X] Pre-calc wksht
+- [X] Finish oceans map and work on reading
+- [X] Physics dump 4.3
+- [X] Pre-calc wksht
+- [X] APUSH Unit 8 Assignment 4
 - [X] APES article
 - [X] Pre-calc wksht
 - [X] APUSH Unit 8 Assignment 3
