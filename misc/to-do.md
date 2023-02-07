@@ -1,5 +1,7 @@
 TODO
-- [ ] APES FRQ
+- [ ] APES ozone lab and reading guide
+- [ ] Oceans book to ch 6
+- [ ] APUSH Unit 8 Assignment 7
 
 ***MAKEUP***
 - [ ] Physics dump 2.01
@@ -9,6 +11,7 @@ TODO
 - [ ] APUSH Unit 8, Assignment 5
 
 DONE
+- [X] APES FRQ
 - [X] Oceans book
 - [X] Physics dump 4.3
 - [X] Pre-calc wksht
