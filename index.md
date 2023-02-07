@@ -18,9 +18,8 @@
 
 ## Misc
 
+- [FRC](frc/index.md)
 - [D&D](dnd/index.md)
-- [List](misc/list)
-- [NZ List](misc/nz-list.md)
 
 ## The misciest misc
 
