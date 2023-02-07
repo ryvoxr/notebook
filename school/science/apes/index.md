@@ -65,6 +65,10 @@
 - [Geology](geology.md)
 - [Deep Sea Mapping](deep-sea-mapping.md)
 
+## Unit 9
+
+- [FRQ](frq.md)
+
 ## Midterm
 
 ### Case studies

@@ -1,5 +1,9 @@
 TODO
-- [ ] APES FRQ
+- [ ] English Vocab Quiz 3
+- [ ] APES video
+- [ ] APES packet
+- [ ] Oceans book
+- [ ] APUSH study for mc test Friday
 
 ***MAKEUP***
 - [ ] Physics dump 2.01
@@ -9,6 +13,7 @@ TODO
 - [ ] APUSH Unit 8, Assignment 5
 
 DONE
+- [X] APES FRQ
 - [X] Oceans book
 - [X] Physics dump 4.3
 - [X] Pre-calc wksht
