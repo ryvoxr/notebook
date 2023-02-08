@@ -1,15 +1,8 @@
 TODO
-<<<<<<< HEAD
-- [ ] English Vocab Quiz 3
-- [ ] APES video
-- [ ] APES packet
+- [ ] English vocab
+- [ ] APES packet questions
 - [ ] Oceans book
 - [ ] APUSH study for mc test Friday
-=======
-- [ ] APES ozone lab and reading guide
-- [ ] Oceans book to ch 6
-- [ ] APUSH Unit 8 Assignment 7
->>>>>>> 0437e238fa049ee30b82a0b6300aafaaa8e39ab1
 
 ***MAKEUP***
 - [ ] Physics dump 2.01
@@ -19,6 +12,8 @@ TODO
 - [ ] APUSH Unit 8, Assignment 5
 
 DONE
+- [X] Oceans video
+- [X] APES suburban video
 - [X] APES FRQ
 - [X] Oceans book
 - [X] Physics dump 4.3
