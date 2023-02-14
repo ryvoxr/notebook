@@ -12,6 +12,7 @@
 - [Unit 6](apush/unit-6/index.md)
 - [Unit 7](apush/unit-7/index.md)
 - [Unit 8](apush/unit-8/index.md)
+- [Unit 9](apush/unit-9/index.md)
 
 ### Classwork & Misc
 

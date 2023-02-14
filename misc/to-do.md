@@ -1,17 +1,20 @@
 TODO
-- [ ] English vocab
+- [ ] Physics practice test
+- [ ] APES test Tuesday-Wednesday
 - [ ] APES packet questions
 - [ ] Oceans book
-- [ ] APUSH study for mc test Friday
+- [ ] APUSH Unit 9 Assignment 1
 
 ***MAKEUP***
 - [ ] Physics dump 2.01
-- [ ] APES packet questions
 - [ ] APUSH Unit 7, Assignment 8
 - [ ] APUSH Unit 7, Assignment 13
 - [ ] APUSH Unit 8, Assignment 5
 
 DONE
+- [X] APUSH DBQ
+- [X] APUSH study for mc test Friday
+- [X] English vocab
 - [X] Oceans video
 - [X] APES suburban video
 - [X] APES FRQ
