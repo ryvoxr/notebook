@@ -1,17 +1,15 @@
 TODO
-- [ ] Physics practice test
-- [ ] APES test Tuesday-Wednesday
-- [ ] APES packet questions
-- [ ] Oceans book
-- [ ] APUSH Unit 9 Assignment 1
+- [ ] English picture paragraph
+- [ ] Pre-calc wksht
+- [ ] APES air FRQ test tomorrow
 
 ***MAKEUP***
-- [ ] Physics dump 2.01
-- [ ] APUSH Unit 7, Assignment 8
-- [ ] APUSH Unit 7, Assignment 13
-- [ ] APUSH Unit 8, Assignment 5
+- [ ] Physics practice test
 
 DONE
+- [X] APUSH Unit 9 Assignment 2
+- [X] APUSH Unit 9 Assignment 1
+- [X] Oceans book
 - [X] APUSH DBQ
 - [X] APUSH study for mc test Friday
 - [X] English vocab
