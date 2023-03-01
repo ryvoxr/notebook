@@ -6,4 +6,7 @@
 - [The Lottery](the-lottery.md)
 
 ## Educated
+
 - [Part One Writing](educated-part-one-writing.md)
+
+- [Vocab](vocab.md)
