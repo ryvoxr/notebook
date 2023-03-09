@@ -6,5 +6,6 @@
 
 ## Notes
 
+- [General Notes](general-notes.md)
 - [RAII](raii.md)
 
