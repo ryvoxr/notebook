@@ -1,0 +1,13 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Gjengset}{Gjengset}{2021}]{rustforrustaceans}
+Gjengset, Jon.
+\newblock \emph{Rust for Rustaceans: Idiomatic Programming for Experienced
+  Developers}.
+\newblock No Starch, 2021.
+\newblock In this book, the author goes beyond the basics byexploring exploring
+  common advanced programming patterns and concepts. Instead of defining a
+  trait, he shows meaningful, stateful, applications of traits in specific
+  problems.
+
+\end{thebibliography}
