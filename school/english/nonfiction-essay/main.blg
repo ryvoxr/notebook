@@ -6,11 +6,29 @@ Database file #1: refs.bib
 Warning--no key, author in rust-lang.org
 Warning--no author, editor, or organization in rust-lang.org
 Warning--to sort, need author or key in rust-lang.org
+Warning--no key, author in rust-by-example
+Warning--no author, editor, or organization in rust-by-example
+Warning--to sort, need author or key in rust-by-example
 Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Warning--no key, author in rust-by-example
+Warning--no author, editor, or organization in rust-by-example
+Warning--no key, author in rust-by-example
+Warning--no author, editor, or organization in rust-by-example
 Warning--no key, author in rust-lang.org
 Warning--no author, editor, or organization in rust-lang.org
-Warning--no key, author in rust-lang.org
-Warning--no author, editor, or organization in rust-lang.org
+Warning--no key, author in rust-by-example
+Warning--no author, editor, or organization in rust-by-example
+Warning--empty author in rust-by-example
+Warning--empty journal in rust-by-example
+`skip$' is a function literal, not a string or missing field, for entry rust-by-example
+while executing---line 1528 of file mla.bst
+`skip$' is a function literal, not a string, for entry rust-by-example
+while executing---line 1528 of file mla.bst
+ptr=2, stack=
+
+``https://doc.rust-lang.org/stable/rust-by-example/.''
+---the literal stack isn't empty for entry rust-by-example
+while executing---line 1528 of file mla.bst
 Warning--no key, author in rust-lang.org
 Warning--no author, editor, or organization in rust-lang.org
 Warning--empty author in rust-lang.org
@@ -24,45 +42,55 @@ ptr=2, stack=
 ``Rust Programming Language.''
 ---the literal stack isn't empty for entry rust-lang.org
 while executing---line 1528 of file mla.bst
-You've used 2 entries,
+Warning--empty journal in noboilerplate
+`skip$' is a function literal, not a string or missing field, for entry noboilerplate
+while executing---line 1528 of file mla.bst
+`skip$' is a function literal, not a string, for entry noboilerplate
+while executing---line 1528 of file mla.bst
+ptr=2, stack=
+
+``https://www.youtube.com/noboilerplate.''
+---the literal stack isn't empty for entry noboilerplate
+while executing---line 1528 of file mla.bst
+You've used 5 entries,
             3059 wiz_defined-function locations,
-            602 strings with 4939 characters,
-and the built_in function-call counts, 928 in all, are:
-= -- 82
-> -- 26
+            616 strings with 6007 characters,
+and the built_in function-call counts, 2459 in all, are:
+= -- 221
+> -- 104
 < -- 0
-+ -- 6
-- -- 10
-* -- 72
-:= -- 152
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 9
-chr.to.int$ -- 2
-cite$ -- 17
-duplicate$ -- 39
-empty$ -- 86
-format.name$ -- 10
-if$ -- 179
-int.to.chr$ -- 1
++ -- 31
+- -- 40
+* -- 191
+:= -- 422
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 24
+chr.to.int$ -- 4
+cite$ -- 33
+duplicate$ -- 95
+empty$ -- 198
+format.name$ -- 44
+if$ -- 467
+int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 1
-newline$ -- 14
-num.names$ -- 10
-pop$ -- 12
+missing$ -- 2
+newline$ -- 31
+num.names$ -- 30
+pop$ -- 31
 preamble$ -- 1
-purify$ -- 23
+purify$ -- 57
 quote$ -- 0
-skip$ -- 35
+skip$ -- 87
 stack$ -- 0
-substring$ -- 44
-swap$ -- 9
+substring$ -- 106
+swap$ -- 21
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 30
-warning$ -- 11
-while$ -- 10
+type$ -- 76
+warning$ -- 21
+while$ -- 30
 width$ -- 0
-write$ -- 29
-(There were 3 error messages)
+write$ -- 70
+(There were 9 error messages)

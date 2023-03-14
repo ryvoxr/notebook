@@ -1,6 +1,13 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\citeauthoryear{??}{rus}{2023}]{rust-lang.org}
+\bibitem[\protect\citeauthoryear{??}{rus}{2023a}]{rust-by-example}
+ 2023
+\newblock ``https://doc.rust-lang.org/stable/rust-by-example/.''.
+\newblock Rust by example is a website that shows you many of the features of
+  rust through thorough code examples and descriptions. It is a great way to
+  get concise, correct code, in order to better explain complex ideas.
+
+\bibitem[\protect\citeauthoryear{??}{rus}{2023b}]{rust-lang.org}
  2023
 \newblock ``Rust Programming Language.''.
 \newblock This is the official Rust Language website. It is created and
@@ -18,5 +25,26 @@ Gjengset, Jon.
   exploring common advanced programming patterns and concepts. Instead of
   defining a trait, he shows meaningful, stateful, applications of traits in
   specific problems.
+
+\bibitem[\protect\citeauthoryear{Kernighan and Ritchie}{Kernighan and
+  Ritchie}{1972}]{the-c-programming-language}
+Kernighan, Bryan and Dennis Ritchie.
+\newblock \emph{The C Programming Language}.
+\newblock Prentice Hall, 1972.
+\newblock In this book, the authors, having created the C programming language,
+  give a deep dive into it. This book teachs the reader C, but more
+  importantly, it teaches how computer registers, memory, and data work and are
+  stored at the most basic level. Although it follows a different paradigm from
+  Rust, it is impossible to cohesively cover a programming language without
+  paying homage to C.
+
+\bibitem[\protect\citeauthoryear{Oatman}{Oatman}{2022}]{noboilerplate}
+Oatman, Tris.
+\newblock  2022
+\newblock ``https://www.youtube.com/noboilerplate.''.
+\newblock This Youtube channel is an excellent secondary/tertiary source for
+  concise, complete analysis of the Rust language. While other sources merely
+  gives the facts, this channel shows real-world applications as well as fun
+  independent use cases.
 
 \end{thebibliography}
