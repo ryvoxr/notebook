@@ -26,7 +26,7 @@ Use each answer ONCE or not at all, never twice.
 GAME: 
 1. What are chemicals or forms of radiation that cause or increase the
    frequency of mutations, or changes, in the DNA molecules found in cells.
-2. What is a disease caused by a pathogen. -> HIV
+2. What is a disease caused by a pathogen. -> Infectous disease
 3. What does WHO stand for? -> World Health Organization
 4. What staph bacterium has become resistant to most common antibiotics? It first appears
 5. What system of the body is a complex network of glands that release tiny amounts of hormones into the bloodstreams of humans and other vertebrate animals? -> Endocrine system
