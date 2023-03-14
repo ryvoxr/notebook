@@ -16,6 +16,7 @@
 14. Zero cost abstractions
 15. Algebraic type system
 16. No runtime types
+17. Errors don't take you out of program flow
 
 Problems today:
 - Security breaches

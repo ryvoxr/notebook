@@ -7,5 +7,6 @@
 ## Notes
 
 - [General Notes](general-notes.md)
+- [Outline](outline.md)
 - [RAII](raii.md)
 

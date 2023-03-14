@@ -1,13 +1,22 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{??}{rus}{2023}]{rust-lang.org}
+ 2023
+\newblock ``Rust Programming Language.''.
+\newblock This is the official Rust Language website. It is created and
+  maintained by the Rust Team (Rust maintainers) as well as many contributions
+  form the community. It mostly serves as a launching point for learning and
+  participating in Rust. As well has maintaining links, this site has a blog
+  for Rust news for update and feature announcements.
+
 \bibitem[\protect\citeauthoryear{Gjengset}{Gjengset}{2021}]{rustforrustaceans}
 Gjengset, Jon.
 \newblock \emph{Rust for Rustaceans: Idiomatic Programming for Experienced
   Developers}.
 \newblock No Starch, 2021.
-\newblock In this book, the author goes beyond the basics byexploring exploring
-  common advanced programming patterns and concepts. Instead of defining a
-  trait, he shows meaningful, stateful, applications of traits in specific
-  problems.
+\newblock In this book, the author goes beyond the basics by exploring
+  exploring common advanced programming patterns and concepts. Instead of
+  defining a trait, he shows meaningful, stateful, applications of traits in
+  specific problems.
 
 \end{thebibliography}

@@ -9,4 +9,36 @@
 - Every platform from embedded devices to desktop apps to WASM
 - C++ was for the last 40 years and Rust is for the next 40
 
-##
+## Borrow checker
+
+- Memory safety without a garbage collector
+- Bad things about gc (memory spikes, speeds, full stop, etc)
+- Two rules of the borrow checker
+- Fearless concurrency (no race conditions)
+- No memory leaks
+- Problems and famous memory leaks
+- Rust will not let you write unsafe code
+
+## Type system
+
+- Traits, types, structs, and enums
+- Algebraic type system (product and sum types)
+- Zero cost abstractions
+- No runtime types
+- Semicolons have meaning
+- Rich types make invalid states unrepresentable
+- Generics without templates
+- C-like syntax
+
+## Error handling
+
+- Errors happen at compile time
+- Errors don't take you out of program flow
+- No nulls
+- Option and Result type
+- Crash points are explicitly stated
+
+## Speed
+
+- Within 10% the speed of C
+- Sometimes compiles to identical assembly
