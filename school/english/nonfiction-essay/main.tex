@@ -17,8 +17,25 @@ When a piece of non-global data is instantiated, a sized portion of data from
 the stack, or a chunk of data in the heap, is allocated to it. The variable
 that the data is assigned to is its owner. Passing data by value (IE not
 through a pointer) moves the data to the function it was passed into. This data
-is gone, it can neither be accessed nor modified. In order to share data
-without moving, pass a reference to the value.
+is gone, it can neither be accessed nor modified by the previous owner. In
+order to share data without moving, you pass a reference (pointer) to the data.
+This is called borrowing. 
+
+In order to understand how the borrow checker functions, one must understand
+variable lifetimes and scope. When the owner of a value goes out of scope, the
+value is dropped. A variables scope is defined by the narrowest set of curly
+braces (this is often called a block). A variable comes into scope when it is
+declared and exits scope when program execution exits its block. A variables
+lifetime is the length of time it is in scope. The lifetime of the owner of a
+value must exceed the lifetime of all references to it. This makes null and
+dangling pointers impossible.
+
+A mutable reference to a value must be the only reference to that value. This
+is to prevent race conditions for reading or modifying data. If another part of
+the program tries to read or modify a piece of data that is also being modified
+by a mutable reference, a race condition could occur and inconsistent results
+would be produced. Rusts imperviousness to race conditions is coined as
+"Fearless Concurrency". 
 
 \cite{rustforrustaceans} \\
 \cite{rust-lang.org} \\
