@@ -1,15 +1,29 @@
 \documentclass{article}
 \usepackage{natbib}
+\linespread{2}
 \title{Rust: A Richly Typed, Memory-safe, Algebraic Systems Language for Writing Perfect Code}
 \author{Henry Oehlrich}
 
 \begin{document}
 \maketitle{}
 
-\cite{rustforrustaceans}
-\cite{rust-lang.org}
-\cite{rust-by-example}
-\cite{the-c-programming-language}
+\section{Borrow Checker}
+
+Rust approaches memory management with a new paradigm. It uses neither a
+garbage collector nor forces memory management on the programmer; instead it
+achieves memory safety using a borrow checker. The borrow checker has two
+rules: data has one owner and data may have multiple readers or one writer.
+When a piece of non-global data is instantiated, a sized portion of data from
+the stack, or a chunk of data in the heap, is allocated to it. The variable
+that the data is assigned to is its owner. Passing data by value (IE not
+through a pointer) moves the data to the function it was passed into. This data
+is gone, it can neither be accessed nor modified. In order to share data
+without moving, pass a reference to the value.
+
+\cite{rustforrustaceans} \\
+\cite{rust-lang.org} \\
+\cite{rust-by-example} \\
+\cite{the-c-programming-language} \\
 \cite{noboilerplate}
 
 \bibliographystyle{mla}

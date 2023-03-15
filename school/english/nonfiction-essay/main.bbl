@@ -1,21 +1,5 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\citeauthoryear{??}{rus}{2023a}]{rust-by-example}
- 2023
-\newblock ``https://doc.rust-lang.org/stable/rust-by-example/.''.
-\newblock Rust by example is a website that shows you many of the features of
-  rust through thorough code examples and descriptions. It is a great way to
-  get concise, correct code, in order to better explain complex ideas.
-
-\bibitem[\protect\citeauthoryear{??}{rus}{2023b}]{rust-lang.org}
- 2023
-\newblock ``Rust Programming Language.''.
-\newblock This is the official Rust Language website. It is created and
-  maintained by the Rust Team (Rust maintainers) as well as many contributions
-  form the community. It mostly serves as a launching point for learning and
-  participating in Rust. As well has maintaining links, this site has a blog
-  for Rust news for update and feature announcements.
-
 \bibitem[\protect\citeauthoryear{Gjengset}{Gjengset}{2021}]{rustforrustaceans}
 Gjengset, Jon.
 \newblock \emph{Rust for Rustaceans: Idiomatic Programming for Experienced
@@ -46,5 +30,23 @@ Oatman, Tris.
   concise, complete analysis of the Rust language. While other sources merely
   gives the facts, this channel shows real-world applications as well as fun
   independent use cases.
+
+\bibitem[\protect\citeauthoryear{Rustteam}{Rustteam}{2023a}]{rust-by-example}
+Rustteam.
+\newblock  2023
+\newblock ``https://doc.rust-lang.org/stable/rust-by-example/.''.
+\newblock Rust by example is a website that shows you many of the features of
+  rust through thorough code examples and descriptions. It is a great way to
+  get concise, correct code, in order to better explain complex ideas.
+
+\bibitem[\protect\citeauthoryear{Rustteam}{Rustteam}{2023b}]{rust-lang.org}
+Rustteam.
+\newblock  2023
+\newblock ``Rust Programming Language.''.
+\newblock This is the official Rust Language website. It is created and
+  maintained by the Rust Team (Rust maintainers) as well as many contributions
+  form the community. It mostly serves as a launching point for learning and
+  participating in Rust. As well has maintaining links, this site has a blog
+  for Rust news for update and feature announcements.
 
 \end{thebibliography}

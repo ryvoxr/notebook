@@ -42,3 +42,7 @@
 
 - Within 10% the speed of C
 - Sometimes compiles to identical assembly
+- Very tiny runtime
+- Energy, hardware, and cost savings
+- Environmentally friendly
+
