@@ -1,4 +1,4 @@
-# Assignment 10
+# Assignment 9
 
 ## What is a contract mortgage and how does it differ from a real mortgage?
 
