@@ -4,5 +4,6 @@
 - [Assignment 2](assignments/assignment-2.md)
 - [Assignment 3](assignments/assignment-3.md)
 - [Assignment 4](assignments/assignment-4.md)
+- [Assignment 10](assignments/assignment-10)
 
 # Notes
