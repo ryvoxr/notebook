@@ -45,7 +45,7 @@ the stack, or a chunk of data in the heap, is allocated to it. The variable
 that the data is assigned to is its owner. Passing data by value (IE not
 through a pointer) moves the data to the function it was passed into. This data
 is gone, it can neither be accessed nor modified by the previous owner. In
-order to share data without moving, you pass a reference (pointer) to the data.
+order to share data without moving, pass a reference (pointer) to the data.
 This is called borrowing. 
 
 %% Variable lifetimes and scope
@@ -99,6 +99,8 @@ UTF-8 encoded (Unicode) vector of bytes that can be displayed. While this seems
 trivial, nearly all systems languages and quite a few higher level languages
 will allow the programmer to do unsafe or unrepresentable things with strings.
 
+%% Primitives
+
 %% Structs
 C-style structs allow Rust programmers to create custom data types that improve
 readability, code structure, and safety. Structs can be thought of as a custom
@@ -144,6 +146,62 @@ fn main() {
 }
 \end{verbatim}
 \doublespacing{}
+
+%% Impl blocks
+Unlike other popular languages Rust does not have a higher level of object
+abstraction above structs. Struct \textit{impl} (implementation) blocks are
+Rust's form of object oriented methods. Everything in the \textit{impl} block
+will be associated with the attached struct. Functions defined in
+implementation blocks that operate on objects are called methods. Methods may
+take any form or reference of \textit{self} as the first parameter;
+\textit{self} is the object instance that the method is begin called on.
+
+%% Enums
+Enums, or enumerations, allow the programmer to define a type that can be one
+of a set of values. An enum of colors might include red, blue, yellow, etc; an
+instance of the colors enum might be red. Enumerations allow a single type to
+have multiple variants. This is semantically demonstrated with the double colon
+namespacing after the identifier. Functions that take an enum can take any
+variant of that type. Enum variants are also able to hold data. \textit{some
+example of an enum holding data (could be code as well)}
+
+%% Code example
+\singlespacing{}
+\begin{verbatim}
+// Define the Event enum
+enum Event {
+    LeftClick(i32, i32),    // LeftClick has x and y pos
+    RightClick(i32, i32),   // RightClick has x and y pos
+    KeyPress(char),       // Key press stores the key pressed
+    Quit,               // Quit does not need to store data
+}
+
+fn main() {
+    let k_key = KesPress('k');
+}
+\end{verbatim}
+\doublespacing{}
+
+%% Pattern matching
+In order to add different functionality to different variants of enums, Rust
+allows the programmer to match patterns on enums. This is similar to the C or
+Java switch statement. \textit{\cite{the-c-programming-language}}. It is much safer than
+either of these languages implementations, though; in Rust you must handle each
+and every possible control flow path when matching on enums (even if the
+handling crashes the program, it must be explicitly stated). Pattern matching
+can extract and handle the data that may (or may not) be held in an enum
+instance.
+
+%% Option
+Rust has no nulls. In order to represent the value of none, Rust uses the
+\textit{Option} enum. The \textit{Option} enum is defined in the standard
+library. \textit{Option} is either a value \textit{Some(v)}, or \textit{None}.
+Functions that may or may not return a value should return that value (or lack
+thereof) as an Option. The calling portion of the function can then match on
+that enum, storing the data if it is valid or proceeding as necessary if the
+data doesn't exist.
+
+
 
 \cite{rustforrustaceans} \\
 \cite{rust-lang.org} \\
