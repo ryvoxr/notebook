@@ -1,14 +1,41 @@
-\documentclass{article}
+\documentclass[12pt]{article}
 \usepackage{natbib}
-\linespread{2}
-\title{Rust: A Richly Typed, Memory-safe, Algebraic Systems Language for Writing Perfect Code}
+\usepackage{setspace}
+\usepackage{listings, listings-rust}
+\usepackage{float}
+\usepackage[letterpaper]{geometry}
+\geometry{top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
+\usepackage{times}
+\usepackage{lineno}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{} 
+\chead{} 
+\rhead{Oehlrich \thepage} 
+\lfoot{} 
+\cfoot{} 
+\rfoot{} 
+\renewcommand{\headrulewidth}{0pt} 
+\renewcommand{\footrulewidth}{0pt}
+\doublespacing{}
+\setlength\headsep{0.333in}
+
 \author{Henry Oehlrich}
 
 \begin{document}
-\maketitle{}
+\begin{flushleft}
+Henry Oehlrich \\
+Mrs. Schmitz \\
+H. English 4 \\
+15th Mar 2023 \\
+\begin{center}
+Rust: A Richly Typed, Memory-safe, Algebraic Systems Language for Writing Perfect Code
+\end{center}
+\setlength{\parindent}{0.5in}
 
-\section{Borrow Checker}
+% Borrow checker
 
+%% Intro and references
 Rust approaches memory management with a new paradigm. It uses neither a
 garbage collector nor forces memory management on the programmer; instead it
 achieves memory safety using a borrow checker. The borrow checker has two
@@ -21,21 +48,102 @@ is gone, it can neither be accessed nor modified by the previous owner. In
 order to share data without moving, you pass a reference (pointer) to the data.
 This is called borrowing. 
 
+%% Variable lifetimes and scope
 In order to understand how the borrow checker functions, one must understand
 variable lifetimes and scope. When the owner of a value goes out of scope, the
-value is dropped. A variables scope is defined by the narrowest set of curly
+value is dropped. A variable's scope is defined by the narrowest set of curly
 braces (this is often called a block). A variable comes into scope when it is
 declared and exits scope when program execution exits its block. A variables
 lifetime is the length of time it is in scope. The lifetime of the owner of a
 value must exceed the lifetime of all references to it. This makes null and
 dangling pointers impossible.
 
+%% Code example
+\singlespacing{}
+\begin{verbatim}
+    fn main() {
+        // 's' comes into scope as it is declared
+        let s: String = String::from("This is a string");
+
+        // Pass 's' by reference
+        // 's' still owns the String
+        let len: usize = get_len(&s);
+
+        println!("The length of '{}' is {}", s, len);
+    }   // This scope is now over and 's' is no longer valid
+
+    fn get_len(rs: &String) -> usize {  // 'rs' is declared here
+        rs.len();
+    } // 'rs' goes out of scope here and is dropped
+\end{verbatim}
+\doublespacing{}
+
+%% Mutable references
 A mutable reference to a value must be the only reference to that value. This
 is to prevent race conditions for reading or modifying data. If another part of
 the program tries to read or modify a piece of data that is also being modified
 by a mutable reference, a race condition could occur and inconsistent results
 would be produced. Rusts imperviousness to race conditions is coined as
 "Fearless Concurrency". 
+
+% Type System
+
+%% Intro to type system
+Rust is a very strongly typed language. This means that data must have a
+defined or inferred type and must conform to stricter compiler rules and
+safeties. Rust's type system prevents programmers from making common and
+redundant mistakes at compile time (or more realistically linted in the
+editor). Every Rust builtin type has several guarantees if it compiles. For
+example, the \textit{String} type guarantees that it will always be a valid
+UTF-8 encoded (Unicode) vector of bytes that can be displayed. While this seems
+trivial, nearly all systems languages and quite a few higher level languages
+will allow the programmer to do unsafe or unrepresentable things with strings.
+
+%% Structs
+C-style structs allow Rust programmers to create custom data types that improve
+readability, code structure, and safety. Structs can be thought of as a custom
+blueprint for a semantically useful datatype. They are type-checked by the
+compiler and follow a C-style key-value syntax. Structs are private by default
+and cannot be accessed by other files unless defined with the \textit{pub}
+keyword.
+
+%% Code example
+\singlespacing{}
+\begin{verbatim}
+use chrono::{Local, DateTime};
+use sha256::digest;
+
+// Define the User struct with several fields
+struct User {
+    username: String,
+    email: String,
+    password_hash: String,
+    last_logon: DateTime<Local>,
+    google_uuid: Option<String>,
+}
+
+fn main() {
+    // Construct a user object
+    let user = User {
+        username: String::from("hoehlrich"),
+        email: String::from("henry@oehlrich.xyz"),
+        password_hash: digest("password123"),
+        last_logon: Local::now(),
+        google_uuid: None,
+    };
+
+    println!("User '{}' with email '{}' last logged on '{}'.",
+        user.username,
+        user.email,
+        user.last_logon.format("[%Y-%m-%d][%H:%M:%S]")
+    );
+
+    // output:  User 'hoehlrich' with email 'henry@oehlrich.xyz'
+    //          last logged on '[2023-03-21][09:25:09]'.
+
+}
+\end{verbatim}
+\doublespacing{}
 
 \cite{rustforrustaceans} \\
 \cite{rust-lang.org} \\
@@ -46,4 +154,5 @@ would be produced. Rusts imperviousness to race conditions is coined as
 \bibliographystyle{mla}
 \bibliography{refs} 
 
+\end{flushleft}
 \end{document}
