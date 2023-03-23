@@ -27,7 +27,7 @@
 Henry Oehlrich \\
 Mrs. Schmitz \\
 H. English 4 \\
-15th Mar 2023 \\
+15 Mar 2023 \\
 \begin{center}
 Rust: A Richly Typed, Memory-safe, Algebraic Systems Language for Writing Perfect Code
 \end{center}
@@ -125,24 +125,21 @@ struct User {
 }
 
 fn main() {
-    // Construct a user object
-    let user = User {
-        username: String::from("hoehlrich"),
-        email: String::from("henry@oehlrich.xyz"),
-        password_hash: digest("password123"),
-        last_logon: Local::now(),
-        google_uuid: None,
-    };
-
-    println!("User '{}' with email '{}' last logged on '{}'.",
-        user.username,
-        user.email,
-        user.last_logon.format("[%Y-%m-%d][%H:%M:%S]")
-    );
-
-    // output:  User 'hoehlrich' with email 'henry@oehlrich.xyz'
-    //          last logged on '[2023-03-21][09:25:09]'.
-
+// Construct a user object
+let user = User {
+    username: String::from("hoehlrich"),
+    email: String::from("henry@oehlrich.xyz"),
+    password_hash: digest("password123"),
+    last_logon: Local::now(),
+    google_uuid: None,
+};
+println!("User '{}' with email '{}' last logged on '{}'.",
+    user.username,
+    user.email,
+    user.last_logon.format("[%Y-%m-%d][%H:%M:%S]")
+);
+// output:  User 'hoehlrich' with email 'henry@oehlrich.xyz'
+//          last logged on '[2023-03-21][09:25:09]'.
 }
 \end{verbatim}
 \doublespacing{}
@@ -162,8 +159,7 @@ of a set of values. An enum of colors might include red, blue, yellow, etc; an
 instance of the colors enum might be red. Enumerations allow a single type to
 have multiple variants. This is semantically demonstrated with the double colon
 namespacing after the identifier. Functions that take an enum can take any
-variant of that type. Enum variants are also able to hold data. \textit{some
-example of an enum holding data (could be code as well)}
+variant of that type. Enum variants are also able to hold data.
 
 %% Code example
 \singlespacing{}
@@ -201,6 +197,53 @@ thereof) as an Option. The calling portion of the function can then match on
 that enum, storing the data if it is valid or proceeding as necessary if the
 data doesn't exist.
 
+%% Code example
+\singlespacing{}
+\begin{verbatim}
+// Print google_uuid if it exists, if not give a message
+// Remember from a previous example that google_uuid is an Option<String>
+match user.google_uuid {
+    Some(v) => println!("google uuid: {}", v),
+    None => println!("user does not have a google uuid"),
+}
+\end{verbatim}
+\doublespacing{}
+
+%% Result
+Perhaps the most useful and paradigm shifting enum is the standard library's
+\textit{Result} enum. The \textit{Result} type is Rust's answer to error
+handling. It can either hold a value (\textit{Ok(v)}), or an error
+(\textit{Err(e))}. In order to access the value (or error) contained in the
+Result, it must be explicitly handled with a match statement or a temporary call
+to unwrap. Errors in results do not interrupt the program control flow as is
+done with other popular languages; instead, idiomatic Rust programs will propagate
+any errors up the stack to be dealt with.
+
+% ? Operator
+A common pattern with \textit{Result} types is to match on the wrapped type
+assigning the value to a variable and returning the error if it exists. This
+pattern is so common that the Rust Team assigned it to the \textit{?} operator.
+At compile time, any uses of \textit{?} will be automatically expanded to the
+long-form match statements; this is similar, but not the same, as macro
+expansions.
+
+\singlespacing{}
+\begin{verbatim}
+fn read_data() -> Result<String, Box<dyn Error>> {
+    // Expanded version of error handling
+    let data = match fs::read_to_string("file.txt") {
+        Ok(v) => v,
+        Err(e) => return Err(Box::new(e)),
+    };
+
+    // This is the same as above
+    let data_ = fs::read_to_string("file.txt")?;
+
+    // Return the data if there hasn't been an error
+    return Ok(data);
+}
+\end{verbatim}
+\doublespacing{}
 
 
 \cite{rustforrustaceans} \\
