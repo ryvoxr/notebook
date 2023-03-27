@@ -73,6 +73,11 @@
 
 - [Understanding check health and toxicity](health-and-toxicity-understanding.md)
 
+## Unit 12
+
+- [Sewage Treatment Questions](sewage-treatment-questions.md)
+- [Reading Review Chapter 20](reading-review-20.md)
+
 ## Midterm
 
 ### Case studies

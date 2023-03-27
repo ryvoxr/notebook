@@ -219,7 +219,7 @@ to unwrap. Errors in results do not interrupt the program control flow as is
 done with other popular languages; instead, idiomatic Rust programs will propagate
 any errors up the stack to be dealt with.
 
-% ? Operator
+%% ? Operator
 A common pattern with \textit{Result} types is to match on the wrapped type
 assigning the value to a variable and returning the error if it exists. This
 pattern is so common that the Rust Team assigned it to the \textit{?} operator.
@@ -245,6 +245,84 @@ fn read_data() -> Result<String, Box<dyn Error>> {
 \end{verbatim}
 \doublespacing{}
 
+%% Generics
+Generics in Rust are placeholders for concrete types. The previously discussed
+enums \textit{Option} and \textit{Result} are both generics. Using generics
+allows functions, methods, structs, and enums to take multiple possible types
+without code duplication. Each generic type (specified in angle brackets after
+the function or struct name) is represented by a letter (commonly T and U).
+Generic identifiers may be reused in order to specify that two
+parameters/attributes share the same type. Similarly to the \textit{?}
+operator, generics do not decrease code performance. In the monomorphization
+step of compilation, the compiler expands all generics into variants required
+by the code.
+
+\singlespacing{}
+\begin{verbatim}
+fn main() {
+    // p1 is defined with coords as two i32s
+    let p1 = Point { x: 1, y: 2 };
+    // p2 is defined with coords as two f32s
+    let p2 = Point { x: 0.34, y: 123.21 };
+}
+
+// Struct Point is defined with two attributes of generic type T
+struct Point<T> {
+    x: T,
+    y: T,
+}
+\end{verbatim}
+\doublespacing{}
+
+%% Traits
+Traits define behavior that can be implemented on multiple types (they are
+similar to interfaces in other popular languages \cite{rustbook}.) A trait
+includes a set of function signatures that all types that implement the trait
+must also implement. Traits can include default implementations that are
+injected into types that implement the trait but do not override the default
+function by reimplementing it.
+
+\singlespacing{}
+\begin{verbatim}
+// Every type that implements Sized must implement the associated methods
+trait HasSize {
+    fn get_len(&self) -> usize;
+
+    fn allocated_size(&self) -> usize;
+}
+
+struct Sentence {
+    text: String,
+    author: String,
+}
+
+impl HasSize for Sentence {
+    fn get_len(&self) -> usize {
+        return self.text.len();
+    }
+
+    fn allocated_size(&self) -> usize {
+        return self.text.capacity();
+    }
+}
+
+fn main() {
+    let sentence = Sentence {
+        text: String::from("Almost done with the rough draft"),
+        author: String::from("Henry Oehlrich"),
+    };
+
+    println!(
+        "Sentence with len {} and allocaed size {}",
+        sentence.get_len(),
+        sentence.allocated_size(),
+    )
+}
+\end{verbatim}
+\doublespacing{}
+
+Trait bounds allow the programmer to specify the limits or bounds to generic
+types. 
 
 \cite{rustforrustaceans} \\
 \cite{rust-lang.org} \\
