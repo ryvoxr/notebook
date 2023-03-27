@@ -7,5 +7,6 @@
 - [Assignment 6](assignments/assignment-6)
 - [Assignment 8](assignments/assignment-8)
 - [Assignment 9](assignments/assignment-9)
+- [Assignment 10](assignments/assignment-10)
 
 # Notes
