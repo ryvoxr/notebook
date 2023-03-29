@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.14)  28 MAR 2023 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.8)  28 MAR 2023 22:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -22,48 +22,378 @@ File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-)
-(/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip49
-\bibsep=\skip50
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count193
-)
-(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
-)
-(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+) (./mla13.sty
+Package: mla13 
+
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
 (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-\lst@mode=\count194
-\lst@gtempboxa=\box50
-\lst@token=\toks17
-\lst@length=\count195
-\lst@currlwidth=\dimen139
-\lst@column=\count196
-\lst@pos=\count197
-\lst@lostspace=\dimen140
-\lst@width=\dimen141
-\lst@newlines=\count198
-\lst@lineno=\count199
-\lst@maxwidth=\dimen142
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count266
-\lst@skipnumbers=\count267
-\lst@framebox=\box51
-)
-(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2020/03/24 1.8d listings configuration
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-Package: listings 2020/03/24 1.8d (Carsten Heinz)
- (./listings-rust.sty
-Package: listings-rust 2018/01/23 Custom Package
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count196
+\U@D=\dimen147
+\l@unhyphenated=\language87
 
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count197
+
+(/usr/share/texmf-dist/tex/generic/babel-english/american.ldf
+Language: american 2017/06/06 v3.3r English support from the babel system
+
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
+)))
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count198
+)
+\csq@reset=\count199
+\csq@gtype=\count266
+\csq@glevel=\count267
+\csq@qlevel=\count268
+\csq@maxlvl=\count269
+\csq@tshold=\count270
+\csq@ltx@everypar=\toks18
+
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count271
+
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count272
+\c@listtotal=\count273
+\c@listcount=\count274
+\c@liststart=\count275
+\c@liststop=\count276
+\c@citecount=\count277
+\c@citetotal=\count278
+\c@multicitecount=\count279
+\c@multicitetotal=\count280
+\c@instcount=\count281
+\c@maxnames=\count282
+\c@minnames=\count283
+\c@maxitems=\count284
+\c@minitems=\count285
+\c@citecounter=\count286
+\c@maxcitecounter=\count287
+\c@savedcitecounter=\count288
+\c@uniquelist=\count289
+\c@uniquename=\count290
+\c@refsection=\count291
+\c@refsegment=\count292
+\c@maxextratitle=\count293
+\c@maxextratitleyear=\count294
+\c@maxextraname=\count295
+\c@maxextradate=\count296
+\c@maxextraalpha=\count297
+\c@abbrvpenalty=\count298
+\c@highnamepenalty=\count299
+\c@lownamepenalty=\count300
+\c@maxparens=\count301
+\c@parenlevel=\count302
+\blx@tempcnta=\count303
+\blx@tempcntb=\count304
+\blx@tempcntc=\count305
+\c@blx@maxsection=\count306
+\c@blx@maxsegment@0=\count307
+\blx@notetype=\count308
+\blx@parenlevel@text=\count309
+\blx@parenlevel@foot=\count310
+\c@blx@sectionciteorder@0=\count311
+\blx@entrysetcounter=\count312
+\blx@biblioinstance=\count313
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language88
+\c@mincomprange=\count314
+\c@maxcomprange=\count315
+\c@mincompwidth=\count316
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'mla.dbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-mla/mla.dbx
+File: mla.dbx 2022/02/22 v2.1a biblatex citation style
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count317
+\c@savedafterword=\count318
+\c@annotator=\count319
+\c@savedannotator=\count320
+\c@author=\count321
+\c@savedauthor=\count322
+\c@bookauthor=\count323
+\c@savedbookauthor=\count324
+\c@commentator=\count325
+\c@savedcommentator=\count326
+\c@editor=\count327
+\c@savededitor=\count328
+\c@editora=\count329
+\c@savededitora=\count330
+\c@editorb=\count331
+\c@savededitorb=\count332
+\c@editorc=\count333
+\c@savededitorc=\count334
+\c@foreword=\count335
+\c@savedforeword=\count336
+\c@holder=\count337
+\c@savedholder=\count338
+\c@introduction=\count339
+\c@savedintroduction=\count340
+\c@namea=\count341
+\c@savednamea=\count342
+\c@nameb=\count343
+\c@savednameb=\count344
+\c@namec=\count345
+\c@savednamec=\count346
+\c@translator=\count347
+\c@savedtranslator=\count348
+\c@shortauthor=\count349
+\c@savedshortauthor=\count350
+\c@shorteditor=\count351
+\c@savedshorteditor=\count352
+\c@labelname=\count353
+\c@savedlabelname=\count354
+\c@institution=\count355
+\c@savedinstitution=\count356
+\c@lista=\count357
+\c@savedlista=\count358
+\c@listb=\count359
+\c@savedlistb=\count360
+\c@listc=\count361
+\c@savedlistc=\count362
+\c@listd=\count363
+\c@savedlistd=\count364
+\c@liste=\count365
+\c@savedliste=\count366
+\c@listf=\count367
+\c@savedlistf=\count368
+\c@location=\count369
+\c@savedlocation=\count370
+\c@organization=\count371
+\c@savedorganization=\count372
+\c@origlocation=\count373
+\c@savedoriglocation=\count374
+\c@origpublisher=\count375
+\c@savedorigpublisher=\count376
+\c@publisher=\count377
+\c@savedpublisher=\count378
+\c@language=\count379
+\c@savedlanguage=\count380
+\c@origlanguage=\count381
+\c@savedoriglanguage=\count382
+\c@pageref=\count383
+\c@savedpageref=\count384
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+\locallabelnumberwidth=\skip63
+\locallabelalphawidth=\skip64
+\localshorthandwidth=\skip65
+\localshortjournalwidth=\skip66
+\localshortserieswidth=\skip67
+\localshorttitlewidth=\skip68
+\localshortauthorwidth=\skip69
+\localshorteditorwidth=\skip70
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+\c@textcitecount=\count385
+\c@textcitetotal=\count386
+\c@textcitemaxnames=\count387
+\c@biburlbigbreakpenalty=\count388
+\c@biburlbreakpenalty=\count389
+\c@biburlnumpenalty=\count390
+\c@biburlucpenalty=\count391
+\c@biburllcpenalty=\count392
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count393
+)
+Package biblatex Info: Trying to load bibliography style 'mla'...
+Package biblatex Info: ... file 'mla.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-mla/mla.bbx
+File: mla.bbx 2022/02/22 v2.1a biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'mla-strict'...
+Package biblatex Info: ... file 'mla-strict.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-mla/mla-strict.bbx
+File: mla-strict.bbx 2022/02/22 v2.1a biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count394
+\c@bbx:relatedtotal=\count395
+)
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
+\c@containing=\count396
+))
+Package biblatex Info: Trying to load citation style 'mla'...
+Package biblatex Info: ... file 'mla.cbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-mla/mla.cbx
+File: mla.cbx 2022/02/22 v2.1a biblatex citation style
+Package biblatex Info: Trying to load citation style 'mla-footnotes'...
+Package biblatex Info: ... file 'mla-footnotes.cbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-mla/mla-footnotes.cbx
+File: mla-footnotes.cbx 2022/02/22 v2.1a biblatex citation style
+)
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citetitle'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-04-10 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count397
+\l__pdf_internal_box=\box50
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2022-04-10 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+))
 (/usr/share/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
 
@@ -74,114 +404,137 @@ Package color Info: Driver file: pdftex.def on input line 149.
 
 (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-)))
-(/usr/share/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count268
-\float@exts=\toks18
-\float@box=\box52
-\@float@everytoks=\toks19
-\@floatcapt=\box53
-)
-(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count269
-\Gm@cntv=\count270
-\c@Gm@tempcnt=\count271
-\Gm@bindingoffset=\dimen143
-\Gm@wd@mp=\dimen144
-\Gm@odd@mp=\dimen145
-\Gm@even@mp=\dimen146
-\Gm@layoutwidth=\dimen147
-\Gm@layoutheight=\dimen148
-\Gm@layouthoffset=\dimen149
-\Gm@layoutvoffset=\dimen150
-\Gm@dimlist=\toks20
+
+Package biblatex Warning: Macro 'cite:idem' already defined.
+(biblatex)                Using \renewbibmacro on input line 47.
+
+
+Package biblatex Warning: Macro 'cite:mla:title:internal' already defined.
+(biblatex)                Using \renewbibmacro on input line 53.
+
+
+Package biblatex Warning: Macro 'cite:mla:title' already defined.
+(biblatex)                Using \renewbibmacro on input line 68.
+
+Package biblatex Info: Redefining '\cite' on input line 87.
+(/usr/share/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(/usr/share/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
 )
-(/usr/share/texmf-dist/tex/latex/psnfss/times.sty
-Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+\XKV@depth=\count398
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(/usr/share/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count399
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen148
 )
-(/usr/share/texmf-dist/tex/latex/lineno/lineno.sty
-Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count272
-\output=\toks21
-\linenoprevgraf=\count273
-\linenumbersep=\dimen151
-\linenumberwidth=\dimen152
-\c@linenumber=\count274
-\c@pagewiselinenumber=\count275
-\c@LN@truepage=\count276
-\c@internallinenumber=\count277
-\c@internallinenumbers=\count278
-\quotelinenumbersep=\dimen153
-\bframerule=\dimen154
-\bframesep=\dimen155
-\bframebox=\box54
-LaTeX Info: Redefining \\ on input line 3056.
+\c@padzeroesN=\count400
+\fc@tmpcatcode=\count401
+
+(/usr/share/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2016/01/12
+)
+(/usr/share/texmf-dist/tex/latex/fmtcount/fc-american.def
+File: fc-american.def 2016/01/12
+
+(/usr/share/texmf-dist/tex/latex/fmtcount/fc-USenglish.def
+File: fc-USenglish.def 2013/08/17
+))
+\@DT@modctr=\count402
+\@ordinalctr=\count403
+\@orgargctr=\count404
+\@strctr=\count405
+\@tmpstrctr=\count406
+\@DT@loopN=\count407
+\@DT@X=\count408
+)
+(/usr/share/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count409
+\@month=\count410
+\@year=\count411
+\c@HOUR=\count412
+\c@HOURXII=\count413
+\c@MINUTE=\count414
+\c@TOHOUR=\count415
+\c@TOMINUTE=\count416
+\c@SECOND=\count417
+\currenthour=\count418
+\currentminute=\count419
+\currentsecond=\count420
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count421
+\dayofyear=\count422
+\dayofweek=\count423
+LaTeX Info: Redefining \today on input line 736.
+
+(/usr/share/texmf-dist/tex/latex/datetime/dt-american.def
+File: dt-american.def 2013/09/10
+)
+\dt@a=\toks22
+\dt@b=\toks23
 )
 (/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
-\f@nch@headwidth=\skip51
-\f@nch@O@elh=\skip52
-\f@nch@O@erh=\skip53
-\f@nch@O@olh=\skip54
-\f@nch@O@orh=\skip55
-\f@nch@O@elf=\skip56
-\f@nch@O@erf=\skip57
-\f@nch@O@olf=\skip58
-\f@nch@O@orf=\skip59
-)
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
-5.
+\f@nch@headwidth=\skip71
+\f@nch@O@elh=\skip72
+\f@nch@O@erh=\skip73
+\f@nch@O@olh=\skip74
+\f@nch@O@orh=\skip75
+\f@nch@O@elf=\skip76
+\f@nch@O@erf=\skip77
+\f@nch@O@olf=\skip78
+\f@nch@O@orf=\skip79
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'american'.
 
-(/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count279
-\l__pdf_internal_box=\box55
-) (./main.aux)
+
+Package biblatex Warning: Missing 'hyperref' package.
+(biblatex)                Setting 'hyperref=false'.
+
+(./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-\c@lstlisting=\count280
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
-(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count281
-\scratchdimen=\dimen156
-\scratchbox=\box56
-\nofMPsegments=\count282
-\nofMParguments=\count283
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count284
-\MPscratchDim=\dimen157
-\MPnumerator=\count285
-\makeMPintoPDFobject=\count286
-\everyMPtoPDFconversion=\toks23
-)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -200,7 +553,7 @@ LaTeX Font Info:    ... okay on input line 25.
 * \evensidemargin=0.0pt
 * \topmargin=-37.0pt
 * \headheight=12.0pt
-* \headsep=24.06537pt
+* \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
 * \marginparwidth=44.0pt
@@ -216,11 +569,68 @@ LaTeX Font Info:    ... okay on input line 25.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 7
-2.
-(/usr/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+Package biblatex Info: Trying to load language 'american' -> 'american-mla'...
+Package biblatex Info: ... file 'american-mla.lbx' found.
+(/usr/share/texmf-dist/tex/latex/biblatex-mla/american-mla.lbx
+File: american-mla.lbx 2022/02/22 v2.1a biblatex style localization
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english' -> 'english-mla'...
+Package biblatex Info: ... file 'english-mla.lbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-mla/english-mla.lbx
+File: english-mla.lbx 2022/02/22 v2.1a biblatex style localization
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)))
+Package biblatex Info: Trying to load language 'english' -> 'english-mla'...
+Package biblatex Info: ... file 'english-mla.lbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-mla/english-mla.lbx
+File: english-mla.lbx 2022/02/22 v2.1a biblatex style localization
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `main-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
+Package biblatex Info: Reference section=0 on input line 15.
+Package biblatex Info: Reference segment=0 on input line 15.
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count424
+\scratchdimen=\dimen149
+\scratchbox=\box51
+\nofMPsegments=\count425
+\nofMParguments=\count426
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count427
+\MPscratchDim=\dimen150
+\MPnumerator=\count428
+\makeMPintoPDFobject=\count429
+\everyMPtoPDFconversion=\toks25
 )
+
+LaTeX Warning: Citation 'so-dev-surve' on page 1 undefined on input line 28.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -250,11 +660,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
-Overfull \hbox (55.84476pt too wide) in paragraph at lines 218--218
-[]\OT1/pcr/m/n/12 // Remember from a previous example that google_uuid is an Op
-tion<String>[] 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -273,11 +678,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-Overfull \hbox (70.24475pt too wide) in paragraph at lines 330--330
-[]\OT1/pcr/m/n/12 // Every type that implements HasSize must implement the asso
-ciated methods[] 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -287,10 +687,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-Overfull \hbox (63.04475pt too wide) in paragraph at lines 365--365
-[]\OT1/pcr/m/n/12 fn add_lens<T: Sized + ExactSizeIterator>(size1: &T, size2: &
-T) -> usize {[] 
- []
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 356.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 356.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 356.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -300,41 +720,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7] (./main.bbl
+[9] (./main.aux)
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+LaTeX Warning: There were undefined references.
 
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8])
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
 
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[9] (./main.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 3951 strings out of 478238
- 60186 string characters out of 5850456
- 376100 words of memory out of 5000000
- 22187 multiletter control sequences out of 15000+600000
- 475474 words of font info for 38 fonts, out of 8000000 for 9000
+ 13010 strings out of 478238
+ 244877 string characters out of 5850457
+ 1007282 words of memory out of 5000000
+ 31103 multiletter control sequences out of 15000+600000
+ 472818 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,62p,7878b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/shar
-e/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts/ty
-pe1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pf
-b></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (9 pages, 71946 bytes).
+ 85i,11n,103p,1854b,4512s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (9 pages, 74180 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

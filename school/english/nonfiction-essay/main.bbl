@@ -1,52 +1,85 @@
-\begin{thebibliography}{}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem[\protect\citeauthoryear{Gjengset}{Gjengset}{2021}]{rustforrustaceans}
-Gjengset, Jon.
-\newblock \emph{Rust for Rustaceans: Idiomatic Programming for Experienced
-  Developers}.
-\newblock No Starch, 2021.
-\newblock In this book, the author goes beyond the basics by exploring
-  exploring common advanced programming patterns and concepts. Instead of
-  defining a trait, he shows meaningful, stateful, applications of traits in
-  specific problems.
+\datalist[entry]{nty/global//global/global}
+  \entry{the-c-programming-language}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KB}{%
+         family={Kernighan},
+         familyi={K\bibinitperiod},
+         given={Bryan},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Ritchie},
+         familyi={R\bibinitperiod},
+         given={Dennis},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Prentice Hall}%
+    }
+    \strng{namehash}{KBRD1}
+    \strng{fullhash}{KBRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \true{singletitle}
+    \field{title}{The C Programming Language}
+    \field{annotation}{%
+    In this book, the authors, having created the C programming language, give
+  a deep dive into it. This book teachs the reader C, but more importantly, it
+  teaches how computer registers, memory, and data work and are stored at the
+  most basic level. Although it follows a different paradigm from Rust, it is
+  impossible to cohesively cover a programming language without paying homage
+  to C.%
+    }
+    \field{year}{1972}
+  \endentry
 
-\bibitem[\protect\citeauthoryear{Kernighan and Ritchie}{Kernighan and
-  Ritchie}{1972}]{the-c-programming-language}
-Kernighan, Bryan and Dennis Ritchie.
-\newblock \emph{The C Programming Language}.
-\newblock Prentice Hall, 1972.
-\newblock In this book, the authors, having created the C programming language,
-  give a deep dive into it. This book teachs the reader C, but more
-  importantly, it teaches how computer registers, memory, and data work and are
-  stored at the most basic level. Although it follows a different paradigm from
-  Rust, it is impossible to cohesively cover a programming language without
-  paying homage to C.
-
-\bibitem[\protect\citeauthoryear{Oatman}{Oatman}{2022}]{noboilerplate}
-Oatman, Tris.
-\newblock  2022
-\newblock ``https://www.youtube.com/noboilerplate.''.
-\newblock This Youtube channel is an excellent secondary/tertiary source for
-  concise, complete analysis of the Rust language. While other sources merely
-  gives the facts, this channel shows real-world applications as well as fun
-  independent use cases.
-
-\bibitem[\protect\citeauthoryear{Rustteam}{Rustteam}{2023a}]{rust-by-example}
-Rustteam.
-\newblock  2023
-\newblock ``https://doc.rust-lang.org/stable/rust-by-example/.''.
-\newblock Rust by example is a website that shows you many of the features of
-  rust through thorough code examples and descriptions. It is a great way to
-  get concise, correct code, in order to better explain complex ideas.
-
-\bibitem[\protect\citeauthoryear{Rustteam}{Rustteam}{2023b}]{rust-lang.org}
-Rustteam.
-\newblock  2023
-\newblock ``Rust Programming Language.''.
-\newblock This is the official Rust Language website. It is created and
-  maintained by the Rust Team (Rust maintainers) as well as many contributions
-  form the community. It mostly serves as a launching point for learning and
+  \entry{rust-lang.org}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=R}{%
+         family={Rustteam},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{R1}
+    \strng{fullhash}{R1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{title}{Rust Programming Language}
+    \verb{url}
+    \verb https://www.rust-lang.org/
+    \endverb
+    \field{annotation}{%
+    This is the official Rust Language website. It is created and maintained by
+  the Rust Team (Rust maintainers) as well as many contributions form the
+  community. It mostly serves as a launching point for learning and
   participating in Rust. As well has maintaining links, this site has a blog
-  for Rust news for update and feature announcements.
-
-\end{thebibliography}
+  for Rust news for update and feature announcements.%
+    }
+    \field{year}{2023}
+  \endentry
+\enddatalist
+\endinput

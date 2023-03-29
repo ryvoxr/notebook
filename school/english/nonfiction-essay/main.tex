@@ -1,46 +1,36 @@
 \documentclass[12pt]{article}
-\usepackage{natbib}
+\usepackage{mla13}
 \usepackage{setspace}
-\usepackage{listings, listings-rust}
-\usepackage{float}
-\usepackage[letterpaper]{geometry}
-\geometry{top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
-\usepackage{times}
-\usepackage{lineno}
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\lhead{} 
-\chead{} 
-\rhead{Oehlrich \thepage} 
-\lfoot{} 
-\cfoot{} 
-\rfoot{} 
-\renewcommand{\headrulewidth}{0pt} 
-\renewcommand{\footrulewidth}{0pt}
-\doublespacing{}
-\setlength\headsep{0.333in}
+\sources{refs.bib}
 
 \author{Henry Oehlrich}
+\firstname{Henry}
+\lastname{Oehlrich}
+\professor{Mrs. Schmitz}
+\class{H. Eng. 4}
+\title{Rust: A Richly Typed, Memory-safe, Algebraic Systems Language for Writing Perfect Code}
 
+
+\raggedright{}
 \begin{document}
-\begin{flushleft}
-Henry Oehlrich \\
-Mrs. Schmitz \\
-H. English 4 \\
-15 Mar 2023 \\
-\begin{center}
-Rust: A Richly Typed, Memory-safe, Algebraic Systems Language for Writing Perfect Code
-\end{center}
-\setlength{\parindent}{0.5in}
-
+\makeheader{}
+\setlength{\parindent}{20pt}
 % Intro
-
 Started as a passion project at Mozilla in 2006, Rust has infiltrated the
 market as a new, production ready, paradigm shifting language. The Rust team's
 devotion to safety and speed has allowed them to reach their three goals:
-performance, reliability, and productivity.
+performance, reliability, and productivity \cite{rust-lang.org}.
 
-% Borrow checker
+Rust has several features that make it unique. Rust achieves memory safety
+without a garbage collector. Rust programmers enjoy high level ergonomics with
+low level control and speed. Rust's rich and algebraic type system achieves
+type safety while weeding out numerous errors at compile time. Rust has been
+voted the most loved programming language 7 years in a row \cite{so-dev-surve}
+Rust's applications span from as low as embedded devices to as high as SSR Web
+Assembly. "The last 40 years was written in C, the next 40 will be written in
+Rust" (Oatman).
+
+% Borrow checker and references
 
 %% Intro and references
 Rust approaches memory management with a new paradigm. It uses neither a
@@ -363,14 +353,6 @@ where
 \end{verbatim}
 \doublespacing{}
 
-\cite{rustforrustaceans} \\
-\cite{rust-lang.org} \\
-\cite{rust-by-example} \\
-\cite{the-c-programming-language} \\
-\cite{noboilerplate}
+\makeworkscited{}
 
-\bibliographystyle{mla}
-\bibliography{refs} 
-
-\end{flushleft}
 \end{document}

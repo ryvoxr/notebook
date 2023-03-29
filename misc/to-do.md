@@ -1,73 +1,13 @@
 TODO
-- [ ] English picture paragraph
-- [ ] Pre-calc wksht
-- [ ] APES air FRQ test tomorrow
-
-***MAKEUP***
-- [ ] Physics practice test
+- [ ] APES questions Chapter 17 and 21
+- [ ] Oceans tide videos and questions
+- [ ] English intermediate draft
+- [ ] APUSH Reformer Roundtable Prep
+- [ ] Physics HW Dump 6.1
+- [ ] APUSH Unit 9 Assignment 3
+- [ ] Physics Unit 4 Test Review
+- [ ] APUSH Unit 8 Assignment 5
+- [ ] APUSH Unit 7 Assignment 13
+- [ ] APUSH Unit 7 Assignment 8
 
 DONE
-- [X] APUSH Unit 9 Assignment 2
-- [X] APUSH Unit 9 Assignment 1
-- [X] Oceans book
-- [X] APUSH DBQ
-- [X] APUSH study for mc test Friday
-- [X] English vocab
-- [X] Oceans video
-- [X] APES suburban video
-- [X] APES FRQ
-- [X] Oceans book
-- [X] Physics dump 4.3
-- [X] Pre-calc wksht
-- [X] APUSH Unit 8, Assignment 6
-- [X] English Vocab
-- [X] Pre-calc wksht
-- [X] Finish oceans map and work on reading
-- [X] Physics dump 4.3
-- [X] Pre-calc wksht
-- [X] APUSH Unit 8 Assignment 4
-- [X] APES article
-- [X] Pre-calc wksht
-- [X] APUSH Unit 8 Assignment 3
-- [X] APUSH Unit 8 Assignment 2
-- [X] English book to pg 310
-- [X] APES AP Classroom
-- [X] Oceans test
-- [X] APUSH Unit 8, Assignment 1
-- [X] APUSH study for test
-- [X] English book to pg 279
-- [X] Pre-calc assignment
-- [X] Pre-calc wksht
-- [X] Phsyics 4.2
-- [X] English mc test pt 2 study
-- [X] Pre-calc wksht
-- [X] Oceans species story slide
-- [X] APUSH Unit 7, Assignment 10
-- [X] HW dump 4.2
-- [X] APES mining chart
-- [X] Pre-calc wksht
-- [X] English MC Vocab Quiz 1
-- [X] APUSH Unit 7 Assignment 9
-- [X] Precalc wksht
-- [X] English Anxious People by Fredrick Backman
-- [X] APES vocab week one
-- [X] English Anxious People
-- [X] APUSH Unit 7 Assignment 7
-- [X] APES seafloor mapping video
-- [X] APUSH Unit 7 Assignment 6
-- [X] Precalc wksht
-- [X] Precalc wkshst
-- [X] Oceans salmon wksht
-- [X] Oceans kwh hw
-- [X] APES purpose games
-- [X] APES orchard assignment
-- [X] APES Trieste questions
-- [X] APUSH Unit 7 Assignment 5
-- [X] APUSH Unit 7 Assignment 4
-- [X] APUSH Unit 7 Assignment 3
-- [X] Pre-calc wksht 4
-- [X] Pre-calc wksht 3
-- [X] Pre-calc wksht 2
-- [X] Pre-calc wksht 1
-- [X] APUSH Unit 7 Assignment 2
-- [X] APUSH Unit 7 Assignment 1
