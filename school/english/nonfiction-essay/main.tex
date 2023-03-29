@@ -33,6 +33,13 @@ Rust: A Richly Typed, Memory-safe, Algebraic Systems Language for Writing Perfec
 \end{center}
 \setlength{\parindent}{0.5in}
 
+% Intro
+
+Started as a passion project at Mozilla in 2006, Rust has infiltrated the
+market as a new, production ready, paradigm shifting language. The Rust team's
+devotion to safety and speed has allowed them to reach their three goals:
+performance, reliability, and productivity.
+
 % Borrow checker
 
 %% Intro and references
@@ -83,7 +90,7 @@ A mutable reference to a value must be the only reference to that value. This
 is to prevent race conditions for reading or modifying data. If another part of
 the program tries to read or modify a piece of data that is also being modified
 by a mutable reference, a race condition could occur and inconsistent results
-would be produced. Rusts imperviousness to race conditions is coined as
+would be produced. Rust's imperviousness to race conditions is coined as
 "Fearless Concurrency". 
 
 % Type System
@@ -157,9 +164,9 @@ take any form or reference of \textit{self} as the first parameter;
 Enums, or enumerations, allow the programmer to define a type that can be one
 of a set of values. An enum of colors might include red, blue, yellow, etc; an
 instance of the colors enum might be red. Enumerations allow a single type to
-have multiple variants. This is semantically demonstrated with the double colon
-namespacing after the identifier. Functions that take an enum can take any
-variant of that type. Enum variants are also able to hold data.
+have multiple variants. This is syntactically demonstrated with the double
+colon namespacing after the identifier. Functions that take an enum can take
+any variant of that type. Enum variants are also able to hold data.
 
 %% Code example
 \singlespacing{}
@@ -276,15 +283,15 @@ struct Point<T> {
 
 %% Traits
 Traits define behavior that can be implemented on multiple types (they are
-similar to interfaces in other popular languages \cite{rustbook}.) A trait
-includes a set of function signatures that all types that implement the trait
-must also implement. Traits can include default implementations that are
-injected into types that implement the trait but do not override the default
-function by reimplementing it.
+similar to interfaces in other popular languages.) A trait includes a set of
+function signatures that all types that implement the trait must also
+implement. Traits can include default implementations that are injected into
+types that implement the trait but do not override the default function by
+reimplementing it.
 
 \singlespacing{}
 \begin{verbatim}
-// Every type that implements Sized must implement the associated methods
+// Every type that implements HasSize must implement the associated methods
 trait HasSize {
     fn get_len(&self) -> usize;
 
@@ -321,8 +328,40 @@ fn main() {
 \end{verbatim}
 \doublespacing{}
 
+%% Trait bounds
 Trait bounds allow the programmer to specify the limits or bounds to generic
-types. 
+types. In the context of functions, the programmer can specify trait bounds on
+types by assigning traits to a generic type and then use the resulting generic
+to specify the type of parameters. This generic form of parameter types allows
+for functions to take any type that meets the specified requirements.
+
+%% Where and impl clauses
+Because each generic type must have its own trait bounds, function signatures
+can get cluttered when multiple generics are involved. Rust has the
+\textit{where} clause sugar syntax in order to combat this problem. The where
+clause adds trait bounds on previously declared generic types. In cases where a
+generic is only used once, Rust allows for the standard type annotation to
+contain an \textit{impl trait} portion.
+
+\singlespacing{}
+\begin{verbatim}
+// Add the lengths of two sized lengthfull objects
+// Notice the generic declared in the signature
+fn add_lens<T: Sized + ExactSizeIterator>(size1: &T, size2: &T) -> usize {
+    size1.len() + size2.len()
+}
+
+// Print person's info in a generic way
+// Generics declared using the where clause
+fn print_info<T, U>(name: &T, age: &U)
+where
+    T: std::fmt::Display,
+    U: num::Integer + std::fmt::Display,
+{
+    println!("{} is {} years old!", name, age);
+}
+\end{verbatim}
+\doublespacing{}
 
 \cite{rustforrustaceans} \\
 \cite{rust-lang.org} \\

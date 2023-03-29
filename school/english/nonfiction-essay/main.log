@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.8)  22 MAR 2023 23:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.14)  28 MAR 2023 12:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -216,8 +216,8 @@ LaTeX Font Info:    ... okay on input line 25.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 6
-3.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 7
+2.
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
@@ -250,7 +250,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
-Overfull \hbox (55.84476pt too wide) in paragraph at lines 209--209
+Overfull \hbox (55.84476pt too wide) in paragraph at lines 218--218
 []\OT1/pcr/m/n/12 // Remember from a previous example that google_uuid is an Op
 tion<String>[] 
  []
@@ -265,10 +265,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 
-Package natbib Warning: Citation `rustbook' on page 5 undefined on input line 2
-79.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -277,9 +273,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-Overfull \hbox (55.84476pt too wide) in paragraph at lines 321--321
-[]\OT1/pcr/m/n/12 // Every type that implements Sized must implement the associ
-ated methods[] 
+Overfull \hbox (70.24475pt too wide) in paragraph at lines 330--330
+[]\OT1/pcr/m/n/12 // Every type that implements HasSize must implement the asso
+ciated methods[] 
  []
 
 
@@ -290,18 +286,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6] (./main.bbl
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[7])
-
-Package natbib Warning: There were undefined citations.
+[6]
+Overfull \hbox (63.04475pt too wide) in paragraph at lines 365--365
+[]\OT1/pcr/m/n/12 fn add_lens<T: Sized + ExactSizeIterator>(size1: &T, size2: &
+T) -> usize {[] 
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -311,23 +300,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8] (./main.aux) ) 
+[7] (./main.bbl
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3953 strings out of 478238
- 60206 string characters out of 5850457
- 377100 words of memory out of 5000000
- 22188 multiletter control sequences out of 15000+600000
- 477100 words of font info for 40 fonts, out of 8000000 for 9000
+ 3951 strings out of 478238
+ 60186 string characters out of 5850456
+ 376100 words of memory out of 5000000
+ 22187 multiletter control sequences out of 15000+600000
+ 475474 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,62p,7878b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,62p,7878b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/shar
 e/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts/ty
 pe1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pf
 b></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (8 pages, 71837 bytes).
+Output written on main.pdf (9 pages, 71946 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
