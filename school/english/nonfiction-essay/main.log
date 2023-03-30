@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.8)  28 MAR 2023 22:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.14)  29 MAR 2023 09:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -629,19 +629,11 @@ Package biblatex Info: Reference segment=0 on input line 15.
 \everyMPtoPDFconversion=\toks25
 )
 
-LaTeX Warning: Citation 'so-dev-surve' on page 1 undefined on input line 28.
+LaTeX Warning: Citation 'so-dev-surve' on page 1 undefined on input line 29.
 
+[1
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-
-]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -706,11 +698,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [8]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 356.
+(Font)              <12> on input line 359.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 356.
+(Font)              <8> on input line 359.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 356.
+(Font)              <6> on input line 359.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -735,8 +727,8 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  13010 strings out of 478238
- 244877 string characters out of 5850457
- 1007282 words of memory out of 5000000
+ 244877 string characters out of 5850456
+ 1007292 words of memory out of 5000000
  31103 multiletter control sequences out of 15000+600000
  472818 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -745,7 +737,7 @@ Here is how much of TeX's memory you used:
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (9 pages, 74180 bytes).
+Output written on main.pdf (9 pages, 74273 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream

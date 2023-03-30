@@ -6,7 +6,7 @@
 \author{Henry Oehlrich}
 \firstname{Henry}
 \lastname{Oehlrich}
-\professor{Mrs. Schmitz}
+\professor{Ms. Schmitz}
 \class{H. Eng. 4}
 \title{Rust: A Richly Typed, Memory-safe, Algebraic Systems Language for Writing Perfect Code}
 
@@ -14,6 +14,7 @@
 \raggedright{}
 \begin{document}
 \makeheader{}
+\thispagestyle{empty}
 \setlength{\parindent}{20pt}
 % Intro
 Started as a passion project at Mozilla in 2006, Rust has infiltrated the
@@ -43,17 +44,17 @@ that the data is assigned to is its owner. Passing data by value (IE not
 through a pointer) moves the data to the function it was passed into. This data
 is gone, it can neither be accessed nor modified by the previous owner. In
 order to share data without moving, pass a reference (pointer) to the data.
-This is called borrowing. 
+Passing a variable through a reference is called borrowing. 
 
 %% Variable lifetimes and scope
 In order to understand how the borrow checker functions, one must understand
 variable lifetimes and scope. When the owner of a value goes out of scope, the
 value is dropped. A variable's scope is defined by the narrowest set of curly
 braces (this is often called a block). A variable comes into scope when it is
-declared and exits scope when program execution exits its block. A variables
+declared and exits scope when program execution exits its block. A variable's
 lifetime is the length of time it is in scope. The lifetime of the owner of a
-value must exceed the lifetime of all references to it. This makes null and
-dangling pointers impossible.
+value must exceed the lifetime of all references to it. This lifetime
+restriction makes null and dangling pointers impossible.
 
 %% Code example
 \singlespacing{}
@@ -77,24 +78,25 @@ dangling pointers impossible.
 
 %% Mutable references
 A mutable reference to a value must be the only reference to that value. This
-is to prevent race conditions for reading or modifying data. If another part of
-the program tries to read or modify a piece of data that is also being modified
-by a mutable reference, a race condition could occur and inconsistent results
-would be produced. Rust's imperviousness to race conditions is coined as
+restriction prevents race conditions when reading or modifying data. If another
+part of the program tries to read or modify a piece of data that is also being
+modified by a mutable reference, a race condition could occur and inconsistent
+results would be produced. Rust's imperviousness to race conditions is coined
+as
 "Fearless Concurrency". 
 
 % Type System
 
 %% Intro to type system
-Rust is a very strongly typed language. This means that data must have a
-defined or inferred type and must conform to stricter compiler rules and
-safeties. Rust's type system prevents programmers from making common and
-redundant mistakes at compile time (or more realistically linted in the
-editor). Every Rust builtin type has several guarantees if it compiles. For
-example, the \textit{String} type guarantees that it will always be a valid
-UTF-8 encoded (Unicode) vector of bytes that can be displayed. While this seems
-trivial, nearly all systems languages and quite a few higher level languages
-will allow the programmer to do unsafe or unrepresentable things with strings.
+Rust is a very strongly typed language, meaning that data must have a defined
+or inferred type and must conform to stricter compiler rules and safeties.
+Rust's type system prevents programmers from making common and redundant
+mistakes at compile time (or more realistically linted in the editor). Every
+Rust builtin type has several guarantees if it compiles. For example, the
+\textit{String} type guarantees that it will always be a valid UTF-8 encoded
+(Unicode) vector of bytes that can be displayed. While it may seem trivial,
+nearly all systems languages and quite a few higher level languages will allow
+the programmer to do unsafe or unrepresentable things with strings.
 
 %% Primitives
 
@@ -154,7 +156,7 @@ take any form or reference of \textit{self} as the first parameter;
 Enums, or enumerations, allow the programmer to define a type that can be one
 of a set of values. An enum of colors might include red, blue, yellow, etc; an
 instance of the colors enum might be red. Enumerations allow a single type to
-have multiple variants. This is syntactically demonstrated with the double
+have multiple variants. Enum variations are syntactically demonstrated with the double
 colon namespacing after the identifier. Functions that take an enum can take
 any variant of that type. Enum variants are also able to hold data.
 
@@ -176,14 +178,15 @@ fn main() {
 \doublespacing{}
 
 %% Pattern matching
-In order to add different functionality to different variants of enums, Rust
-allows the programmer to match patterns on enums. This is similar to the C or
-Java switch statement. \textit{\cite{the-c-programming-language}}. It is much safer than
-either of these languages implementations, though; in Rust you must handle each
-and every possible control flow path when matching on enums (even if the
-handling crashes the program, it must be explicitly stated). Pattern matching
-can extract and handle the data that may (or may not) be held in an enum
-instance.
+In order to add different functionality to different variants of
+enums, Rust allows the programmer to match patterns on enums. Rust
+pattern matching is similar to the C or Java switch statement.
+\textit{\cite{the-c-programming-language}}. It is much safer than
+either of these languages implementations, though; in Rust, the
+programmer must handle each and every possible control flow path
+when matching on enums (even if the handling crashes the program,
+it must be explicitly stated). Pattern matching can extract and
+handle the data that may (or may not) be held in an enum instance.
 
 %% Option
 Rust has no nulls. In order to represent the value of none, Rust uses the
