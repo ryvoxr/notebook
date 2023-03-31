@@ -15,6 +15,7 @@
 - [Decent Ideas](technologies/decent-ideas/index.md)
 - [Vim](technologies/vim/index.md)
 - [Pandoc](technologies/index.md)
+- [Coputer](technologies/computer)
 
 ## Misc
 

@@ -54,6 +54,59 @@
     \field{year}{1972}
   \endentry
 
+  \entry{noboilerplate}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=OT}{%
+         family={Oatman},
+         familyi={O\bibinitperiod},
+         given={Tris},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OT1}
+    \strng{fullhash}{OT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \true{singletitle}
+    \field{title}{https://www.youtube.com/noboilerplate}
+    \field{annotation}{%
+    This Youtube channel is an excellent secondary/tertiary source for concise,
+  complete analysis of the Rust language. While other sources merely gives the
+  facts, this channel shows real-world applications as well as fun independent
+  use cases.%
+    }
+    \field{year}{2022}
+  \endentry
+
+  \entry{so-dev-survey}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=OS}{%
+         family={Overflow},
+         familyi={O\bibinitperiod},
+         given={Stack},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OS1}
+    \strng{fullhash}{OS1}
+    \field{labelnamesource}{author}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \true{singletitle}
+    \verb{url}
+    \verb https://survey.stackoverflow.co/2022/
+    \endverb
+    \field{annotation}{%
+    The Stack Overflow developer survey is a yearly survey of developers to
+  gather and analyze trends. It is a survey of users of Stack Overflow, that is
+  to say programmers. It could be slightly biased because the most experieced
+  and best programmers do not use stack overflow.%
+    }
+    \field{year}{2022}
+  \endentry
+
   \entry{rust-lang.org}{misc}{}
     \name{author}{1}{}{%
       {{hash=R}{%

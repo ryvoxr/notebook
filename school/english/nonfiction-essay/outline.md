@@ -30,14 +30,6 @@
 - Generics without templates
 - C-like syntax
 
-## Error handling
-
-- Errors happen at compile time
-- Errors don't take you out of program flow
-- No nulls
-- Option and Result type
-- Crash points are explicitly stated
-
 ## Speed
 
 - Within 10% the speed of C
@@ -46,3 +38,4 @@
 - Energy, hardware, and cost savings
 - Environmentally friendly
 
+## Conclusion

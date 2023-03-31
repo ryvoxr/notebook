@@ -20,16 +20,16 @@
 Started as a passion project at Mozilla in 2006, Rust has infiltrated the
 market as a new, production ready, paradigm shifting language. The Rust team's
 devotion to safety and speed has allowed them to reach their three goals:
-performance, reliability, and productivity \cite{rust-lang.org}.
+performance, reliability, and productivity \textit{\cite{rust-lang.org}}.
 
 Rust has several features that make it unique. Rust achieves memory safety
 without a garbage collector. Rust programmers enjoy high level ergonomics with
 low level control and speed. Rust's rich and algebraic type system achieves
 type safety while weeding out numerous errors at compile time. Rust has been
-voted the most loved programming language 7 years in a row \cite{so-dev-surve}
-Rust's applications span from as low as embedded devices to as high as SSR Web
-Assembly. "The last 40 years was written in C, the next 40 will be written in
-Rust" (Oatman).
+voted the most loved programming language 7 years in a row.
+\textit{\cite{so-dev-survey}} Rust's applications span from as low as embedded
+devices to as high as SSR Web Assembly. "The last 40 years was written in C,
+the next 40 will be written in Rust" \textit{\cite{noboilerplate}}.
 
 % Borrow checker and references
 
@@ -355,6 +355,24 @@ where
 }
 \end{verbatim}
 \doublespacing{}
+
+% Speed
+
+%% Zero cost abstractions
+Despite all of the unique features of Rust, it still compiles down to raw
+binary. Types don't exist at the kernel level, all it understands are 1's 0's
+and a few syscalls. Rust abstractions have no effect on code performance, this
+quality is coined as "Zero-cost abstractions". Zero-cost absgtactions break the
+common stigma among programming languages: speed and developer ergonomics are
+mutually exclusive. Instead of trading speed for ergonomics (or vice versa),
+Rust takes on a steeper initial learning curve and a large amount of syntax for
+both speed and ergonomics.
+
+% Conclusion
+
+During a time of rapid development and advancement, Rust offers a framework for
+developing fast, safe, and consistent code. The Rust team's devotion to its
+values
 
 \makeworkscited{}
 
