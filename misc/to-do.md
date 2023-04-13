@@ -3,6 +3,6 @@ TODO
 - [ ] Physics missed HW
 - [ ] APES power of one project
 - [ ] Oceans e-waste population research
-- [ ] APUSH Unit 11 Assignment 2
+- [X] APUSH Unit 11 Assignment 2
 
 

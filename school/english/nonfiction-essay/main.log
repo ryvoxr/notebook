@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.14)  31 MAR 2023 09:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.14)  12 APR 2023 21:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -694,11 +694,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [8]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 378.
+(Font)              <12> on input line 379.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 378.
+(Font)              <8> on input line 379.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 378.
+(Font)              <6> on input line 379.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -708,26 +708,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9] (./main.aux)
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10] (./main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13024 strings out of 478238
- 245390 string characters out of 5850456
- 1007380 words of memory out of 5000000
- 31118 multiletter control sequences out of 15000+600000
+ 13037 strings out of 478238
+ 245902 string characters out of 5850456
+ 1007515 words of memory out of 5000000
+ 31131 multiletter control sequences out of 15000+600000
  472511 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  85i,11n,103p,1854b,4512s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (9 pages, 66779 bytes).
+Output written on main.pdf (10 pages, 69173 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

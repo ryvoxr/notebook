@@ -17,6 +17,36 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
+  \entry{rustforrustaceans}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GJ}{%
+         family={Gjengset},
+         familyi={G\bibinitperiod},
+         given={Jon},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {No Starch}%
+    }
+    \strng{namehash}{GJ1}
+    \strng{fullhash}{GJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \true{singletitle}
+    \field{title}{Rust for Rustaceans: Idiomatic Programming for Experienced
+  Developers}
+    \field{annotation}{%
+    In this book, the author goes beyond the basics by exploring exploring
+  common advanced programming patterns and concepts. Instead of defining a
+  trait, he shows meaningful, stateful, applications of traits in specific
+  problems%
+    }
+    \field{year}{2021}
+  \endentry
+
   \entry{the-c-programming-language}{book}{}
     \name{author}{2}{}{%
       {{hash=KB}{%
@@ -66,11 +96,12 @@
     \strng{namehash}{OT1}
     \strng{fullhash}{OT1}
     \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
     \field{sortinit}{O}
     \field{sortinithash}{O}
     \true{singletitle}
-    \field{title}{https://www.youtube.com/noboilerplate}
+    \verb{url}
+    \verb https://www.youtube.com/noboilerplate
+    \endverb
     \field{annotation}{%
     This Youtube channel is an excellent secondary/tertiary source for concise,
   complete analysis of the Rust language. While other sources merely gives the
@@ -80,43 +111,7 @@
     \field{year}{2022}
   \endentry
 
-  \entry{so-dev-survey}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=OS}{%
-         family={Overflow},
-         familyi={O\bibinitperiod},
-         given={Stack},
-         giveni={S\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{OS1}
-    \strng{fullhash}{OS1}
-    \field{labelnamesource}{author}
-    \field{sortinit}{O}
-    \field{sortinithash}{O}
-    \true{singletitle}
-    \verb{url}
-    \verb https://survey.stackoverflow.co/2022/
-    \endverb
-    \field{annotation}{%
-    The Stack Overflow developer survey is a yearly survey of developers to
-  gather and analyze trends. It is a survey of users of Stack Overflow, that is
-  to say programmers. It could be slightly biased because the most experieced
-  and best programmers do not use stack overflow.%
-    }
-    \field{year}{2022}
-  \endentry
-
   \entry{rust-lang.org}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=R}{%
-         family={Rustteam},
-         familyi={R\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{R1}
-    \strng{fullhash}{R1}
-    \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{R}
     \field{sortinithash}{R}
@@ -133,6 +128,47 @@
   for Rust news for update and feature announcements.%
     }
     \field{year}{2023}
+  \endentry
+
+  \entry{rust-by-example}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=R}{%
+         family={Rustteam},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{R1}
+    \strng{fullhash}{R1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \true{singletitle}
+    \field{title}{https://doc.rust-lang.org/stable/rust-by-example/}
+    \field{annotation}{%
+    Rust by example is a website that shows you many of the features of rust
+  through thorough code examples and descriptions. It is a great way to get
+  concise, correct code, in order to better explain complex ideas.%
+    }
+    \field{year}{2023}
+  \endentry
+
+  \entry{so-dev-survey}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \true{singletitle}
+    \field{title}{Stack Overflow}
+    \verb{url}
+    \verb https://survey.stackoverflow.co/2022/
+    \endverb
+    \field{annotation}{%
+    The Stack Overflow developer survey is a yearly survey of developers to
+  gather and analyze trends. It is a survey of users of Stack Overflow, that is
+  to say programmers. It could be slightly biased because the most experieced
+  and best programmers do not use stack overflow.%
+    }
+    \field{year}{2022}
   \endentry
 \enddatalist
 \endinput

@@ -7,7 +7,7 @@
 \firstname{Henry}
 \lastname{Oehlrich}
 \professor{Ms. Schmitz}
-\class{H. Eng. 4}
+\class{Honors English 4}
 \title{Rust: A Richly Typed, Memory-safe, Algebraic Systems Language for Writing Perfect Code}
 
 
@@ -29,7 +29,7 @@ type safety while weeding out numerous errors at compile time. Rust has been
 voted the most loved programming language 7 years in a row.
 \textit{\cite{so-dev-survey}} Rust's applications span from as low as embedded
 devices to as high as SSR Web Assembly. "The last 40 years was written in C,
-the next 40 will be written in Rust" \textit{\cite{noboilerplate}}.
+the next 40 will be written in Rust." \textit{\cite{noboilerplate}}.
 
 % Borrow checker and references
 
@@ -48,10 +48,10 @@ Passing a variable through a reference is called borrowing.
 
 %% Variable lifetimes and scope
 In order to understand how the borrow checker functions, one must understand
-variable lifetimes and scope. When the owner of a value goes out of scope, the
-value is dropped. A variable's scope is defined by the narrowest set of curly
-braces (this is often called a block). A variable comes into scope when it is
-declared and exits scope when program execution exits its block. A variable's
+variable lifetimes and scope.  A variable's scope is defined by the narrowest
+set of curly braces (this is often called a block.) A variable comes into scope
+when it is declared and exits scope when program execution exits its block.
+When the owner of a value goes out of scope, the value is dropped. A variable's
 lifetime is the length of time it is in scope. The lifetime of the owner of a
 value must exceed the lifetime of all references to it. This lifetime
 restriction makes null and dangling pointers impossible.
@@ -246,13 +246,13 @@ fn read_data() -> Result<String, Box<dyn Error>> {
 \doublespacing{}
 
 %% Generics
-Generics in Rust are placeholders for concrete types. The previously discussed
-enums \textit{Option} and \textit{Result} are both generics. Using generics
-allows functions, methods, structs, and enums to take multiple possible types
-without code duplication. Each generic type (specified in angle brackets after
-the function or struct name) is represented by a letter (commonly T and U).
-Generic identifiers may be reused in order to specify that two
-parameters/attributes share the same type. Similarly to the \textit{?}
+Generics in Rust are placeholders for concrete types \cite{rust-by-example}.
+The previously discussed enums \textit{Option} and \textit{Result} are both
+generics. Using generics allows functions, methods, structs, and enums to take
+multiple possible types without code duplication. Each generic type (specified
+in angle brackets after the function or struct name) is represented by a letter
+(commonly T and U). Generic identifiers may be reused in order to specify that
+two parameters/attributes share the same type. Similarly to the \textit{?}
 operator, generics do not decrease code performance. In the monomorphization
 step of compilation, the compiler expands all generics into variants required
 by the code.
@@ -323,10 +323,11 @@ fn main() {
 
 %% Trait bounds
 Trait bounds allow the programmer to specify the limits or bounds to generic
-types. In the context of functions, the programmer can specify trait bounds on
-types by assigning traits to a generic type and then use the resulting generic
-to specify the type of parameters. This generic form of parameter types allows
-for functions to take any type that meets the specified requirements.
+types \cite{rustforrustaceans}. In the context of functions, the programmer can
+specify trait bounds on types by assigning traits to a generic type and then
+use the resulting generic to specify the type of parameters. This generic form
+of parameter types allows for functions to take any type that meets the
+specified requirements.
 
 %% Where and impl clauses
 Because each generic type must have its own trait bounds, function signatures
@@ -360,20 +361,41 @@ where
 
 %% Zero cost abstractions
 Despite all of the unique features of Rust, it still compiles down to raw
-binary. Types don't exist at the kernel level, all it understands are 1's 0's
-and a few syscalls. Rust abstractions have no effect on code performance, this
-quality is coined as "Zero-cost abstractions". Zero-cost absgtactions break the
-common stigma among programming languages: speed and developer ergonomics are
-mutually exclusive. Instead of trading speed for ergonomics (or vice versa),
-Rust takes on a steeper initial learning curve and a large amount of syntax for
-both speed and ergonomics.
+binary. Types don't exist at the kernel level; all the kernel understands are
+1's 0's and a few syscalls. Rust abstractions have no effect on code
+performance, this quality is coined as "Zero-cost abstractions". Zero-cost
+abstractions break the common stigma among programming languages: speed and
+developer ergonomics are mutually exclusive. Instead of trading speed for
+ergonomics (or vice versa), Rust takes on a steeper initial learning curve and
+a large amount of syntax for both speed and ergonomics.
 
 % Conclusion
 
 During a time of rapid development and advancement, Rust offers a framework for
 developing fast, safe, and consistent code. The Rust team's devotion to its
-values
+values has garnered an incredibly loyal userbase of programmers who are
+dedicated to performant and safe systems programming. 
 
 \makeworkscited{}
+
+\begin{verbatim}
+Intro
+References and the Borrow Checker
+- Variable lifetimes and scope
+- Mutable references
+Type System
+- Structs
+- Impl blocks
+- Enums
+- Pattern matching
+- Option
+- Error handling with Result
+- Generics
+- Traits
+- Trait bounds and where clauses
+Wrap up
+- Speed, zero-cost abstractions, and trade-offs
+- Conclusion
+\end{verbatim}
 
 \end{document}
