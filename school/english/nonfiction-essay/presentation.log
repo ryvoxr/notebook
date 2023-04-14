@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.14)  12 APR 2023 23:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.14)  13 APR 2023 12:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -816,15 +816,15 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texmf-dist/tex/latex/translator/translator-theorem-dictionary-Engli
 sh.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./presentation.nav) [1
+) (./presentation.nav) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
 
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -838,6 +838,16 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] [5
 
 ]
+\openout4 = `presentation.vrb'.
+
+
+(./presentation.vrb) [6
+
+] [7
+
+] [8
+
+]
 \tf@nav=\write6
 \openout6 = `presentation.nav'.
 
@@ -847,33 +857,32 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-
-(./presentation.aux)
+ (./presentation.aux)
 
 Package rerunfilecheck Warning: File `presentation.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `presentation.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  BADA377C3DE61B58CCCD2A0E2768DFBA;461.
+(rerunfilecheck)             Before: 47949AC7C3DCEDDDEEFE3CD50587DDA1;103
+(rerunfilecheck)             After:  F8006AC8AA080E75DA7B80A024B69988;626.
  ) 
 Here is how much of TeX's memory you used:
- 21373 strings out of 478238
- 413119 string characters out of 5850456
- 676312 words of memory out of 5000000
- 39168 multiletter control sequences out of 15000+600000
+ 21417 strings out of 478238
+ 413702 string characters out of 5850456
+ 679335 words of memory out of 5000000
+ 39202 multiletter control sequences out of 15000+600000
  475877 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,15n,104p,412b,556s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,19n,104p,412b,764s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/symbols/msam10.pfb>
-Output written on presentation.pdf (5 pages, 48455 bytes).
+Output written on presentation.pdf (8 pages, 59749 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 153 compressed objects within 2 object streams
- 15 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 336 PDF objects out of 1000 (max. 8388607)
+ 300 compressed objects within 3 object streams
+ 22 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
