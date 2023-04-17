@@ -26,6 +26,10 @@
 
 - [Test Review](test-review-11.md)
 
+## Unit 13
+
+- [E-waste Video Script](ewaste-script.md)
+
 ## Mideterm Review
 
 # [16 Questions](16-questions.md)
