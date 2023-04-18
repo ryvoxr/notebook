@@ -57,6 +57,7 @@
         \begin{column}{0.5\textwidth}
             \includegraphics[width=\textwidth]{images/stack.png}
             \vfill
+            \tiny \textit{https://thumbs.dreamstime.com/z/stack-clothes-isolated-white-background-stack-clothes-isolated-152319600.jpg}
         \end{column}
     \end{columns}
 \end{frame}
@@ -73,6 +74,7 @@
         \begin{column}{0.5\textwidth}
             \includegraphics[width=\textwidth]{images/heap.png}
             \vfill
+            \tiny \textit{https://img.thrfun.com/img/175/807/clothes\_wrinkled\_x2.jpg}
         \end{column}
     \end{columns}
 \end{frame}
@@ -122,13 +124,53 @@ error[E0425]: cannot find value `x` in this scope
     \end{verbatim}
 \end{frame}
 
-\section{References}
+\section{References and The Borrow Checker}
+\begin{frame}
+    \frametitle{The Borrow Checker}
+    \begin{enumerate}
+        \item Data has one owner
+        \item Data can have multiple readers, or one writer
+    \end{enumerate}
+\end{frame}
+\begin{frame}[fragile]
+    \frametitle{Passing by Value}
+    \begin{verbatim}
+    fn main() {
+        let x: i32 = 15;
+        printx(x);  // x's value moved into printx
+        printx(x);  // x no longer valid
+    }
+
+    fn printx(x: i32) {
+        println!("x = {}", x);
+    }
+    \end{verbatim}
+\end{frame}
 \begin{frame}[fragile]
     \frametitle{References}
     \begin{itemize}
         \item A reference is the memory address of a value's first byte
         \item Also known as pointers because they \textit{point} to where the data is located
     \end{itemize}
+\end{frame}
+\begin{frame}[fragile]
+    \frametitle{Borrowing}
+    \begin{columns}
+        \begin{column}{0.5\textwidth}
+            \begin{verbatim}
+fn main() {
+    let ltuae: u32 = 42;
+    let ltuaep: &u32 = &ltuae;
+}
+            \end{verbatim}
+        \end{column}
+        \begin{column}{0.5\textwidth}
+            \begin{itemize}
+                \item Borrow a value by prefixing it with \textit{\&}
+                \item The resulting type is of \textit{\&type}
+            \end{itemize}
+        \end{column}
+    \end{columns}
 \end{frame}
 \begin{frame}[fragile]
     \frametitle{Dereferencing}
@@ -153,6 +195,20 @@ fn main() {
     \end{columns}
 \end{frame}
 \begin{frame}[fragile]
+    \frametitle{Passing By Reference}
+    \begin{verbatim}
+    fn main() {
+        let x: i32 = 15;
+        printx(&x);
+        printx(&x);
+    }
+
+    fn printx(x: &i32) {
+        println!("x = {}", *x);
+    }
+    \end{verbatim}
+\end{frame}
+\begin{frame}[fragile]
     \frametitle{Mutable references}
     \begin{columns}
         \begin{column}{0.5\textwidth}
@@ -170,18 +226,16 @@ let xp: &mut i32 = &mut x;
         \end{column}
     \end{columns}
 \end{frame}
-\begin{frame}
-    \frametitle{The Borrow Checker}
-    \begin{enumerate}
-        \item Data has one owner
-        \item Data can have multiple readers, or one writer
-    \end{enumerate}
-\end{frame}
 
 \section{Safety}
 \begin{frame}
-    \includegraphics[scale=0.4]{images/rust-taxi.jpg}
-    \centering
+    \begin{center}
+        \includegraphics[scale=0.3]{images/rust-taxi.jpg} \\
+        \tiny \textit{https://leftoversalad.com/c/015\_programmingpeople/}
+    \end{center}
+\end{frame}
+\begin{frame}
+    \frametitle{Thank You}
 \end{frame}
 
 \end{document}
