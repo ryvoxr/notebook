@@ -1,8 +1,5 @@
 TODO
-- [ ] English essay
-- [ ] Physics missed HW
-- [ ] APES power of one project
-- [ ] Oceans e-waste population research
-- [X] APUSH Unit 11 Assignment 2
-
-
+- [ ] Into thin air diagram chapter 1, 2, 3
+- [ ] Physics HW Dump 6.2
+- [ ] APES progress check 9
+- [ ] APUSH Unit 11, Assignment 7
