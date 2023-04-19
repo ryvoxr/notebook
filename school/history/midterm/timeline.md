@@ -95,3 +95,19 @@
 1876 -> Reconstruction
 
 1890 -> Wounded Knee Massacre
+
+1898 -> Spanish American War
+
+1917-1919 -> World War One
+
+1929 -> Stock market crash
+
+1941-1945 -> World War Two
+
+1968 -> Nixon
+
+Watergate
+Kennedy dies
+
+1980 -> Reagan Election of 1980
+
