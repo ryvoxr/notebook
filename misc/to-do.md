@@ -1,5 +1,5 @@
 TODO
-- [ ] Into thin air diagram chapter 1, 2, 3
-- [ ] Physics HW Dump 6.2
-- [ ] APES progress check 9
-- [ ] APUSH Unit 11, Assignment 7
+- [ ] English Into Thin Air chapters 4, 5, 6, 7
+- [X] Physics take-home quiz
+- [X] Pre-calc wksht
+- [ ] APUSH DBQ Prep and Study

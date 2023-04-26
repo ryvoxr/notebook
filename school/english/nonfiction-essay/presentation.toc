@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{The stack and the heap}{4}{0}{2}
+\beamer@sectionintoc {3}{Variables and scope}{8}{0}{3}
+\beamer@sectionintoc {4}{References and The Borrow Checker}{9}{0}{4}
+\beamer@sectionintoc {5}{Safety}{16}{0}{5}

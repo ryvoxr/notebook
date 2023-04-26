@@ -21,6 +21,7 @@
 - [9-30](apush/classwork/9-30.md)
 - [Planning a Long Essay](apush/classwork/planning-leq)
 - [Follow election results](apush/classwork/follow-election-results.md)
+- [Final Paper](apush/classwork/final-paper/index.md)
 
 ### Midterm
 

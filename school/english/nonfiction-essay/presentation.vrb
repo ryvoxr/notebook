@@ -1,0 +1,16 @@
+\frametitle{Mutable references}
+    \begin{columns}
+        \begin{column}{0.5\textwidth}
+            \begin{itemize}
+                \item Variables and references are immutable by default
+                \item Mutable variables and references are defined with \textit{mut}
+            \end{itemize}
+        \end{column}
+        \begin{column}{0.5\textwidth}
+            \begin{verbatim}
+let mut x: i32 = 5;
+let xp: &mut i32 = &mut x;
+*xp += 1;
+            \end{verbatim}
+        \end{column}
+    \end{columns}
