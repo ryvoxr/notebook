@@ -12,7 +12,7 @@
 
 1789 -> Constitution & George Washington
 
-1800 -> Lousiana Purchase
+1800 -> Jefferson Presidency
 
 1812 -> War of 1812
 
@@ -25,3 +25,16 @@
 1876 -> Reconstruction
 
 1890 -> Wounded Knee Massacre
+
+1898 -> Spanish-American war
+
+1917-1919 -> World War One
+
+1929 -> Stock market crash
+
+1941-1945 -> World War Two
+
+1968 -> Nixon wins
+
+1980 -> Reagan and the rise of conservatism
+
