@@ -33,3 +33,11 @@ March, Allison. “In 1983, This Bell Labs Computer Was the First Machine to
 
 I realise that this topic is not heavily referenced in the textbook or our
 studies. If this topic is too offroad I have a backup topic prepared as well.
+
+------------------------------------------
+
+Topic: The 
+
+Question: To what extent did making computers mainstream affect computer
+design, security, and freedom?
+
