@@ -1,5 +1,10 @@
 # APES
 
+## Power of One
+
+- [Power of One](pow/index.md)
+- [Consumption Data](pow/energy-items.csv)
+
 ## Unit 1 - 6
 
 - [Biodiversity](biodiversity.md)

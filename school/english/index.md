@@ -7,4 +7,5 @@
 - [Educated Part One Writing](educated-part-one-writing.md)
 - [Vocab](vocab.md)
 - [Nonfiction-essay](nonfiction-essay/index.md)
+- [Into Thin Air Diagram Analysis](into-thin-air-diagram-analysis.md)
 
