@@ -5,8 +5,32 @@ Topic: Causes of the Great Depression
 Question: What are the major causes of the Great Depression and to what extent
 is each impactful
 
-## Great Depression Milton Friedman and Lord Keynes 
-https://fee.org/articles/the-great-depression-according-to-milton-friedman/
+## Basic Economics
+
+From 1929 to 1933, the total quantity of money in the US declined by 1/3.
+- The total number of banks went down by one third
+- It declined because the Federal Reserve system failed to prevent the decline
+- The Federal Reserve system could have prevented the decline at all times
+
+"The Great Depression was not produced by a failure of business. On the
+contrary it was produced by a failure of government and a failure of government
+in an area in which responsibility had been assigned to government since the
+founding of the country."
+
+Sequence of events:
+1. October 1929 Stock Market Crash
+2. 2 months later unemployment peaked at 9%
+3. Over the next several months unemployment began to subside irregularly
+4. June 1930 -> unemployment was 6.3%
+5. Government intervenes with the Smoot-Hawley Tariffs
+6. A thousand economists signed a public appeal not to pass the
+7. Double digit unemployment for the first time
+8. Never fell below double digits for the entire remainder of the 30s
+9. FDR comes in 1933
+10. National Recovery Act and Agricultural Adjustment Act and Wagner Act
+12. World War Two
+13. World War Two brought 12 million men out of the employment force
+14. Dr. New Deal was replaced by Dr. End the war
 
 ## What Caused the Great Depression
 https://fee.org/articles/what-caused-the-great-depression/
