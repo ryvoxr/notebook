@@ -109,17 +109,88 @@ Revenue Act of 1932:
 - "Earned income credit" was eliminated
 - Surtaxes were raised from 20% to 55%
 
-### The New Deal
-
-
 ## Revisiting the Great Depression
 https://www.jstor.org/stable/41484425?searchText=Causes+of+the+great+depression&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DCauses%2Bof%2Bthe%2Bgreat%2Bdepression&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A5aa02e95acce1458fc4f1c44cc1b5873
+
+Smoot-Hawley Tariff:
+- "became synonomous with an avalanche of protectionism that led to the
+  collapse of world trade and the Great Depression"
+
+### Friedman and Schwartz
+
+Argued that the Federal Reserve caused the Depression by failing to rescue the
+banking system
+- From 1929 to 1933 more thwn two-fifths of the nations banks had failed
+- Amount of money shrank by a third
+
+This steep decline drove prices and production down
+- The irony is that the Federal Government created the Fed in 1914 to prevent
+  this exact thing
 
 ## On the Origins of the Great Depression
 https://www.jstor.org/stable/1057202?searchText=Causes+of+the+great+depression&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DCauses%2Bof%2Bthe%2Bgreat%2Bdepression&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A5aa02e95acce1458fc4f1c44cc1b5873
 
+Questions:
+1. What were the underlying causes of the Great Depression of the nineteen-thirties?
+2. Why did the downturn in 1929 become so severe?
+3. Why was the depression so prolonged?
+4. Where did it originate?
+5. Why did it spread throughout the world?
+
+### Create of Excess Capacity in the United States
+
+Tendency of the American economy to generate capacity faster than demand
+- Speculative optimism in the 1920s prolonged the boom and deepened the
+  depression
+- Had the model alone been at work, the depression would have occurred sooner
+  and been milder
+
+Every boom represents a distortion away from an equilibrium (balanced)
+- This distortion is an unmaintainable rate of capital creation
+- Private gross domestic investment averaged 16.3% of gross national product
+  for seven years
+
+Difference between this depression from others was the monetary breakdown
+- Monetary guidance had failed not merely by a failure of policy, but by sheer
+  impotence
+
 ## The Great Depression as a Historical Problem
 https://www.jstor.org/stable/25163480?searchText=Causes+of+the+great+depression&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DCauses%2Bof%2Bthe%2Bgreat%2Bdepression&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A5aa02e95acce1458fc4f1c44cc1b5873
+
+## Textbook
+
+### Huey Long
+
+Democratic governor of Louisiana from 1928 to 1932
+- Achieved stunning popularity
+
+Increased taxes on corporations, lowered the utility bills of consumers, and
+built new highways, hospitals, and school
+
+Established a new movement
+- Inequalities in the distribution of wealth prohibited millions of ordinary
+  families from buying the goods that kept factories humming
+
+### "Roosevelt Recession"
+
+From 1933 to 1937, gross domestic product had grown at a yearly rate of about 10%
+- Brought industrial output back to 1929 levels
+- Unemployment went from 24 to 14 percent
+
+Acting on the assumption that "the emergency has passed" Roosevelt slashed the
+federal budget
+- Congress cut the WPA's funding in half causing layoffs of about 1.5 million
+  workers
+- The Federal reserve, fearing inflation , raised interest rates
+- Roosevelt once again began to spend his way out of the recession by boosting
+  funding for the WPA and resuming public works projects
+
+## Keyenes
+
+Keys "transformed" economic thinking in capitalist societies in the 1920s
+- Argued that government intervention could smooth out the highs and lows of
+  the business cycle through deficit spending and the manipulation of interest
+  rates
 
 ## Hoover Institute, Great Depression Exhibit
 https://hoover.archives.gov/exhibits/great-depression
@@ -171,4 +242,5 @@ A series of bank collapses in Europe affected the American economy
 - Hoovers attempt to promote local relief programs rather than asking Congress
   to create nationwide relief programs were viewed as callous disregard for the
   unemployed
+
 
