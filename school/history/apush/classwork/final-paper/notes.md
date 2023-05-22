@@ -181,7 +181,7 @@ Acting on the assumption that "the emergency has passed" Roosevelt slashed the
 federal budget
 - Congress cut the WPA's funding in half causing layoffs of about 1.5 million
   workers
-- The Federal reserve, fearing inflation , raised interest rates
+- The Federal reserve, fearing inflation, raised interest rates
 - Roosevelt once again began to spend his way out of the recession by boosting
   funding for the WPA and resuming public works projects
 
