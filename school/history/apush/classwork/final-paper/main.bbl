@@ -19,6 +19,22 @@
 
 \refsection{0}
   \datalist[entry]{cms/global//global/global}
+    \entry{economistssmoothawley}{article}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econ Journal Watch}
+      \field{title}{Economists Against Smoot-Hawley}
+      \field{year}{2007}
+    \endentry
+    \entry{nber}{article}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Federal Reserve Economic Data}
+      \field{title}{National Bureau of Economic Research}
+      \field{year}{1994}
+    \endentry
     \entry{fredmoneysupply}{misc}{}
       \name{author}{1}{}{%
         {{hash=ffb61f7d3dad0c9901007888548591f8}{%
@@ -37,6 +53,67 @@
       \field{labeltitlesource}{title}
       \field{title}{National Bureau of Economic Research, Total Money Supply for United States}
       \field{year}{2023}
+    \endentry
+    \entry{amonetaryhistory}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ed599767cda235bc9b7bb0e787374d60}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Milton},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5569a93e52e53a17c4d216ae538b77a1}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{f85c8e75a81ae6c1abbdb2bf9233bec7}
+      \strng{fullhash}{f85c8e75a81ae6c1abbdb2bf9233bec7}
+      \strng{bibnamehash}{f85c8e75a81ae6c1abbdb2bf9233bec7}
+      \strng{authorbibnamehash}{f85c8e75a81ae6c1abbdb2bf9233bec7}
+      \strng{authornamehash}{f85c8e75a81ae6c1abbdb2bf9233bec7}
+      \strng{authorfullhash}{f85c8e75a81ae6c1abbdb2bf9233bec7}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Monetary History of the United States 1867-1960}
+      \field{year}{1963}
+    \endentry
+    \entry{hhplm}{article}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Herbert Hoover Presidential Library and Museum}
+      \field{title}{The Great Depression}
+      \field{year}{2023}
+    \endentry
+    \entry{peddlingprotectionism}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ec642f45660b490d5ac50ba57e88e237}{%
+           family={Irwing},
+           familyi={I\bibinitperiod},
+           given={Douglas\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{ec642f45660b490d5ac50ba57e88e237}
+      \strng{fullhash}{ec642f45660b490d5ac50ba57e88e237}
+      \strng{bibnamehash}{ec642f45660b490d5ac50ba57e88e237}
+      \strng{authorbibnamehash}{ec642f45660b490d5ac50ba57e88e237}
+      \strng{authornamehash}{ec642f45660b490d5ac50ba57e88e237}
+      \strng{authorfullhash}{ec642f45660b490d5ac50ba57e88e237}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Peddling Protectionism: Smoot Hawley and the Great Depression}
+      \field{year}{2011}
     \endentry
     \entry{macrotrendsdow}{misc}{}
       \name{author}{1}{}{%
@@ -65,9 +142,6 @@
            given={Steven},
            giveni={S\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {The Gilder Lehrman Institute of American History}%
-      }
       \strng{namehash}{2d1b09f390303939eb7c93a73e46e409}
       \strng{fullhash}{2d1b09f390303939eb7c93a73e46e409}
       \strng{bibnamehash}{2d1b09f390303939eb7c93a73e46e409}
@@ -78,33 +152,8 @@
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{The Gilder Lehrman Institute of American History}
       \field{title}{The American Economy during the 1920s}
-    \endentry
-    \entry{revisitinggd}{article}{}
-      \name{author}{1}{}{%
-        {{hash=71c7de6ad868fb969481fffe38260ca4}{%
-           family={Samuelson},
-           familyi={S\bibinitperiod},
-           given={Robert\bibnamedelima J.},
-           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {[Wilson Quarterly, Woodrow Wilson International Center for Scholars]}%
-      }
-      \strng{namehash}{71c7de6ad868fb969481fffe38260ca4}
-      \strng{fullhash}{71c7de6ad868fb969481fffe38260ca4}
-      \strng{bibnamehash}{71c7de6ad868fb969481fffe38260ca4}
-      \strng{authorbibnamehash}{71c7de6ad868fb969481fffe38260ca4}
-      \strng{authornamehash}{71c7de6ad868fb969481fffe38260ca4}
-      \strng{authorfullhash}{71c7de6ad868fb969481fffe38260ca4}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{03633276, 2328529X}
-      \field{journaltitle}{The Wilson Quarterly (1976-)}
-      \field{title}{Revisiting the Great Depression}
-      \field{year}{2012}
     \endentry
   \enddatalist
 \endrefsection

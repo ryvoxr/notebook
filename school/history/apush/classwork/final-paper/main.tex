@@ -1,6 +1,17 @@
-\documentclass{article}
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage[notes,natbib,isbn=false,backend=biber]{biblatex-chicago}  
 
-\title{APUSH Final Paper}
+\doublespacing
+\geometry{
+    a4paper,
+    margin=1.1in,
+}
+\bibliography{refs.bib}
+
+
+\title{Causes of The Great Depression}
 \author{Henry Oehlrich}
 
 \begin{document}
@@ -32,41 +43,42 @@ One of the main causes of the boom of the 1920s was the expansionary monetary
 policies of Federal Reserve. The Fed’s decision to keep interest rates
 artificially low led to an increase in bank credit and the availability of
 money. For example, from 1921 to 1929, the money supply in the United States
-expanded by 60\%. This influx of easy credit, nicknamed ”Easy money”,
-stimulated economic activity and contributed to the appearance of a booming
-economy.
+expanded by 60\%\autocite{fredmoneysupply}. This influx of easy credit,
+nicknamed ”Easy money”, stimulated economic activity and contributed to the
+appearance of a booming economy.
 
 The availability of loans and the optimistic outlook of investors, due to a
 false boom, fueled speculative excesses, particularly in the stock market. This
 resulted in a rapid increase in stock prices and trading volumes, with the Dow
 Jones Industrial Average reaching unprecedented levels. For example, between
-1924 and 1929, the Dow rose by over 200\% This overspeculation created a bubble
-and set the stage for a massive stock market crash.
+1924 and 1929, the Dow rose by over 200\%\autocite{macrotrendsdow} This
+overspeculation created a bubble and set the stage for a massive stock market
+crash.
 
 The artificial boom of the 1920s was further propelled by excessive consumer
 spending and reliance on debt. Readily available loans and installment buying
 (going into debt to purchase something) allowed individuals to engage in higher
 levels of consumption. Because of the volume of credit, much of this spending
 was financed by credit rather than real savings. For example, consumer debt
-rose from \$1.8 billion in 1920 to \$7 billion in 1929.4 This unsustainable
-consumer debt burden left people and assets vulnerable when the economic
-downturn hit.
+rose from \$1.8 billion in 1920 to \$7 billion in
+1929\autocite{americaneconomy20s}. This unsustainable consumer debt burden left
+people and assets vulnerable when the economic downturn hit.
 
 \section{Interventionist response policies}
 
 In October of 1929, the stock market crashed. Although unemployment rose
 immediately after the crash, the unemployment rate peaked at 9\% two months
 after the crash, and then began to trend downward. By June of 1930, 8 months
-later, unemployment was down to 6\%. By recession standards for the time, this
-was not extraordinary. In 1920 there was a similar downturn and unemployment
-hit 11\% in 8 months before recovering quickly. The difference between these
-two downturns was government intervention. President Woodrow Wilson and
-Warren Harding shared the depression of the early 20s. Both Wilson and Harding
-did nothing to remedy the economy and it recovered quickly. On the other hand
-Presidents Hoover and Roosevelt engaged in large amounts of government spending
-in an attempt to stimulate the economy. After a series of unprecedented
-government interventions, unemployment rate shot to over 20\% for 3 years
-straight.
+later, unemployment was down to 6\%\autocite{nber}. By recession standards for
+the time, this was not extraordinary. In 1920 there was a similar downturn and
+unemployment hit 11\%\autocite{nber} in 8 months before recovering quickly. The
+difference between these two downturns was government intervention. President
+Woodrow Wilson and Warren Harding shared the depression of the early 20s. Both
+Wilson and Harding did nothing to remedy the economy and it recovered quickly.
+On the other hand Presidents Hoover and Roosevelt engaged in large amounts of
+government spending in an attempt to stimulate the economy. After a series of
+unprecedented government interventions, unemployment rate shot to over
+20\%\autocite{nber} for 3 years straight.
 
 In early June of 1930, unemployment was at 6\% and trending downward. The
 government, feeling compelled to do something, passed into law the Smoot-Hawley
@@ -74,16 +86,16 @@ Tariffs. The tariffs were designed to reduce unemployment by restricting
 imports to the United States so that more goods were produced domestically by
 American workers. Although well meaning, it had disastrous effects. 1008
 economists signed a public appeal to not pass the bill stating that the bill
-would not reduce unemployment [citation needed]. Instead, the economists
-argued, it would lead to retaliation that would make it harder for Americans to
-sell their goods in other countries. As predicted, by imposing large tariffs,
-the Act sparked retaliation from other nations, leading to a decline in
-international trade. Dartmouth economist Douglas Irwing wrote that the tariff
-has ”become synonymous with an avalanche of protectionism that led to the
-collapse of world trade and the Great Depression” [citation needed]. In the
-following four months after passing the tariffs, unemployment rose to 14\%.
-Unemployment stayed in the double digits until the end of the depression in
-1939.
+would not reduce unemployment\autocite{economistssmoothawley}. Instead, the
+economists argued, it would lead to retaliation that would make it harder for
+Americans to sell their goods in other countries. As predicted, by imposing
+large tariffs, the Act sparked retaliation from other nations, leading to a
+decline in international trade. Dartmouth economist Douglas Irwing wrote that
+the tariff has ”become synonymous with an avalanche of protectionism that led
+to the collapse of world trade and the Great Depression”
+\autocite{peddlingprotectionism}. In the following four months after passing
+the tariffs, unemployment rose to 14\%\autocite{nber}. Unemployment stayed in
+the double digits until the end of the depression in 1939.
 
 Herbert Hoover was president at the start of the Great Depression. Hoover,
 having previously been the Secretary of Commerce, believed that the stock
@@ -94,7 +106,7 @@ collected money from private business in order to stimulate the economy. He
 believed that financial losses should affect profits, not employment. His
 response was nearly entirely based on spending copious amounts of money in
 order to stimulate the economy. Government and business had spent more in the
-first six months of 1930 than in the entire previous year. [citation needed]
+first six months of 1930 than in the entire previous year.\autocite{hhplm} 
 Although the efficacy of Hoover’s numerous remedies was limited, Hoover’s
 defenders praise his attempts to fix the economy. The Herbert Hoover
 Presidential Library and Museum defends Hoover stating that ”no one in his
@@ -110,14 +122,15 @@ this by providing liquidity, or cash, to banks. The Fed was designed to
 stabilize the financial system and prevent widespread bank runs.
 
 In their book \textit{A Monetary History of the United States}, Milton Friedman
-and Anna Schwartz propose an explanation for the Great Depression. They
-determine that the Depression was ultimately caused by a deflation of the money
-supply from the failure of the Federal Reserve to save the banking system. From
-1929 to 1933, one third of the nations banks (around 7,500) closed due to
-failure or merger. Resulting from this, the nations money supply, defined as
-bank deposits combined with currency circulation, shrank by a third. The irony,
-Friedman and Schwartz argue, is that the Federal Reserve was created to serve
-the very purpose it declined to serve.
+and Anna Schwartz propose an explanation for the Great Depression
+\autocite{amonetaryhistory}. They determine that the Depression was ultimately
+caused by a deflation of the money supply from the failure of the Federal
+Reserve to save the banking system. From 1929 to 1933, one third of the nations
+banks (around 7,500) closed due to failure or merger \autocite{nber}. Resulting
+from this, the nations money supply, defined as bank deposits combined with
+currency circulation, shrank by a third. The irony, Friedman and Schwartz
+argue, is that the Federal Reserve was created to serve the very purpose it
+declined to serve.
 
 In the early years of the Great Depression, the Federal Reserve enacted policy
 that supported monetary contraction. Instead of providing sufficient money to
@@ -134,4 +147,6 @@ Federal Reserve, as the lender of last resort, had the authority, ability, and d
 provide emergency loans to troubled banks to prevent the crisis. However, the Fed’s
 response was inadequate; it did not provide sufficient money to overrun banks in need.
 
+\newpage
+\printbibliography
 \end{document}

@@ -3484,13 +3484,25 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">fredmoneysupply</bcf:citekey>
-    <bcf:citekey order="2">revisitinggd</bcf:citekey>
-    <bcf:citekey order="3">macrotrendsdow</bcf:citekey>
-    <bcf:citekey order="4">americaneconomy20s</bcf:citekey>
-    <bcf:citekey order="5">fredmoneysupply</bcf:citekey>
-    <bcf:citekey order="6">revisitinggd</bcf:citekey>
-    <bcf:citekey order="7">macrotrendsdow</bcf:citekey>
-    <bcf:citekey order="8">americaneconomy20s</bcf:citekey>
+    <bcf:citekey order="2">macrotrendsdow</bcf:citekey>
+    <bcf:citekey order="3">americaneconomy20s</bcf:citekey>
+    <bcf:citekey order="4">nber</bcf:citekey>
+    <bcf:citekey order="5">nber</bcf:citekey>
+    <bcf:citekey order="6">nber</bcf:citekey>
+    <bcf:citekey order="7">economistssmoothawley</bcf:citekey>
+    <bcf:citekey order="8">peddlingprotectionism</bcf:citekey>
+    <bcf:citekey order="9">nber</bcf:citekey>
+    <bcf:citekey order="10">hhplm</bcf:citekey>
+    <bcf:citekey order="11">amonetaryhistory</bcf:citekey>
+    <bcf:citekey order="12">nber</bcf:citekey>
+    <bcf:citekey order="13">fredmoneysupply</bcf:citekey>
+    <bcf:citekey order="14">macrotrendsdow</bcf:citekey>
+    <bcf:citekey order="15">americaneconomy20s</bcf:citekey>
+    <bcf:citekey order="16">nber</bcf:citekey>
+    <bcf:citekey order="17">economistssmoothawley</bcf:citekey>
+    <bcf:citekey order="18">peddlingprotectionism</bcf:citekey>
+    <bcf:citekey order="19">hhplm</bcf:citekey>
+    <bcf:citekey order="20">amonetaryhistory</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">
@@ -3527,4 +3539,13 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="cms/global//global/global"
+                type="entry"
+                sortingtemplatename="cms"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
 </bcf:controlfile>
