@@ -19,6 +19,28 @@
 
 \refsection{0}
   \datalist[entry]{cms/global//global/global}
+    \entry{stockmarketcrash}{article}{}
+      \name{author}{1}{}{%
+        {{hash=508e75de8dc33e0cee58ba9bc6c8c5e3}{%
+           family={Bryan},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{508e75de8dc33e0cee58ba9bc6c8c5e3}
+      \strng{fullhash}{508e75de8dc33e0cee58ba9bc6c8c5e3}
+      \strng{bibnamehash}{508e75de8dc33e0cee58ba9bc6c8c5e3}
+      \strng{authorbibnamehash}{508e75de8dc33e0cee58ba9bc6c8c5e3}
+      \strng{authornamehash}{508e75de8dc33e0cee58ba9bc6c8c5e3}
+      \strng{authorfullhash}{508e75de8dc33e0cee58ba9bc6c8c5e3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Federal Reserve History}
+      \field{title}{Stock Market Crash of 1929}
+      \field{year}{2013}
+    \endentry
     \entry{economistssmoothawley}{article}{}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}

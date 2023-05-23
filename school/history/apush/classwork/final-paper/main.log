@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.14)  23 MAY 2023 00:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.14)  23 MAY 2023 01:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -51,6 +51,17 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
 (/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(/usr/share/texmf-dist/tex/latex/nextpage/nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip49
+\afterepigraphskip=\skip50
+\epigraphwidth=\skip51
+\epigraphrule=\skip52
 )
 (/usr/share/texmf-dist/tex/latex/biblatex-chicago/biblatex-chicago.sty
 Package: biblatex-chicago 2021/06/30 v 3.16 biblatex style
@@ -157,14 +168,14 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \c@blx@sectionciteorder@0=\count306
 \blx@entrysetcounter=\count307
 \blx@biblioinstance=\count308
-\labelnumberwidth=\skip49
-\labelalphawidth=\skip50
-\biblabelsep=\skip51
-\bibitemsep=\skip52
-\bibnamesep=\skip53
-\bibinitsep=\skip54
-\bibparsep=\skip55
-\bibhang=\skip56
+\labelnumberwidth=\skip53
+\labelalphawidth=\skip54
+\biblabelsep=\skip55
+\bibitemsep=\skip56
+\bibnamesep=\skip57
+\bibinitsep=\skip58
+\bibparsep=\skip59
+\bibhang=\skip60
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language87
@@ -249,20 +260,20 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count377
 \c@pageref=\count378
 \c@savedpageref=\count379
-\shorthandwidth=\skip57
-\shortjournalwidth=\skip58
-\shortserieswidth=\skip59
-\shorttitlewidth=\skip60
-\shortauthorwidth=\skip61
-\shorteditorwidth=\skip62
-\locallabelnumberwidth=\skip63
-\locallabelalphawidth=\skip64
-\localshorthandwidth=\skip65
-\localshortjournalwidth=\skip66
-\localshortserieswidth=\skip67
-\localshorttitlewidth=\skip68
-\localshortauthorwidth=\skip69
-\localshorteditorwidth=\skip70
+\shorthandwidth=\skip61
+\shortjournalwidth=\skip62
+\shortserieswidth=\skip63
+\shorttitlewidth=\skip64
+\shortauthorwidth=\skip65
+\shorteditorwidth=\skip66
+\locallabelnumberwidth=\skip67
+\locallabelalphawidth=\skip68
+\localshorthandwidth=\skip69
+\localshortjournalwidth=\skip70
+\localshortserieswidth=\skip71
+\localshorttitlewidth=\skip72
+\localshortauthorwidth=\skip73
+\localshorteditorwidth=\skip74
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -301,7 +312,7 @@ Package biblatex Info: ... file 'chicago-notes.bbx' found.
 
 (/usr/share/texmf-dist/tex/latex/biblatex-chicago/chicago-notes.bbx
 File: chicago-notes.bbx 2021/06/30 v 3.16 biblatex bibliography style
-\lositemsep=\skip71
+\lositemsep=\skip75
 \cms@tempcnta=\count389
 \cms@tempcntb=\count390
 \c@bbx:relatedcount=\count391
@@ -454,18 +465,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 169.
+ [5] [6]
 (./main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11897 strings out of 478238
- 237321 string characters out of 5850456
- 1249241 words of memory out of 5000000
- 30072 multiletter control sequences out of 15000+600000
- 474843 words of font info for 46 fonts, out of 8000000 for 9000
+ 12003 strings out of 478238
+ 239621 string characters out of 5850456
+ 1250893 words of memory out of 5000000
+ 30170 multiletter control sequences out of 15000+600000
+ 476105 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,6n,90p,733b,3950s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/
@@ -476,7 +490,7 @@ r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/p
 ublic/cm-super/sfrm1200.pfb>
-Output written on main.pdf (6 pages, 128394 bytes).
+Output written on main.pdf (6 pages, 131175 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
