@@ -13,9 +13,8 @@
 ## Technologies
 
 - [Decent Ideas](technologies/decent-ideas/index.md)
-- [Vim](technologies/vim/index.md)
 - [Pandoc](technologies/index.md)
-- [Copmuter](technologies/computer)
+- [Computer](technologies/computer.md)
 - [Things i've done](misc/things.md)
 
 ## Misc

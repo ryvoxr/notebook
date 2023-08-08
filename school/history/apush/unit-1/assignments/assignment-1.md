@@ -6,7 +6,7 @@
 participants in the country's past in a single American "experience""
 - The master narrative was a national success story
     - Celebrated human triumphs
-    -  Society based on principles of liberty and equality
+    - Society based on principles of liberty and equality
 
 ## How does the story of Native Americans relate to that master narrative?
 

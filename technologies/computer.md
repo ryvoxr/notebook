@@ -4,7 +4,7 @@ Display server -> X11
 Window manager -> dwm
 Audio manager -> pulseaudio + alsa
 Text editor -> neovim
-Web browser -> Qutebrowser
+Web browser -> qutebrowser
 Email server -> henryoehlrich.xyz
 VPN -> henryoehlrich.xyz
 Music manager -> mpd and mpc

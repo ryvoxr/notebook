@@ -1,9 +1,7 @@
 # Things I've done
 
-Boy Scouts (2016 - Present) (Life scout)
-- Held leadership positions for several years (SPL and more)
-- So far achieved Life (close to Eagle)
-- Lots of community service projects
+Five Guys (June - August 2023)
+- Worked a full time job at a local Five Guys store
 
 FRC Robotics (2022 - Present)
 - Created the team with friends
@@ -16,6 +14,11 @@ Installed a new floor from scratch over the summer
 - Summer of Sophomore year
 - Went from unfinished boards and carpet to finished floor
 - Worked with grandfather
+
+Boy Scouts (2016 - Present) (Life scout)
+- Held leadership positions for several years (SPL and more)
+- So far achieved Life (close to Eagle)
+- Lots of community service projects
 
 Other Robotics
 - Mentored old middle school team
