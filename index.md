@@ -6,10 +6,6 @@
 - [Science](school/science/index.md)
 - [English](school/english/index.md)
 
-## Scouts
-
-- [Merit Badges](scouts/merit-badges/index.md)
- 
 ## Technologies
 
 - [Decent Ideas](technologies/decent-ideas/index.md)
@@ -17,10 +13,16 @@
 - [Computer](technologies/computer.md)
 - [Things i've done](misc/things.md)
 
+## Scouts
+
+- [Merit Badges](scouts/merit-badges/index.md)
+
 ## Misc
 
+- [Trains](trains/index.md)
 - [FRC](frc/index.md)
 - [D&D](dnd/index.md)
+
 
 ## The misciest misc
 

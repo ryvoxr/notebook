@@ -2,12 +2,12 @@
 
 ## Radio
 
-- https://radioreference.com -> general reference for frequencies
-- https://radioreference.com/db/aid/1845 -> North Carolina Railroad Frequencies
-- https://radioreference.com/db/aid/7747 -> AAR Frequencies
-- https://theantennafarm.com
+- [Radio Reference](https://radioreference.com)
+- [The Antenna Farm](https://theantennafarm.com)
 
 ## Trains
 
-- https://www.railfanguides.us/nc/raleigh/
+- [NC Railroad Frequencies](https://radioreference.com/db/aid/1845)
+- [AAR Frequencies](https://radioreference.com/db/aid/7747)
+- [Railfan Guide](https://www.railfanguides.us/nc/raleigh/)
 
