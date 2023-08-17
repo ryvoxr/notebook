@@ -1,9 +1,13 @@
 TODO
-- [ ] English reading chapter 18
-- [ ] Physics Rotation KE
-- [ ] Physics Rotational P
-- [ ] Physics Unit Review
-- [ ] Pre-calc wksht
-- [ ] APES POW
-- [ ] Oceanography project
-- [ ] APUSH decide on topic
+
+DONE
+- Stats CE #1
+- Health syllabus review
+- Physics Halliday chapter 1 problems
+- Econ The History of Economic Thought
+- Calc precalc review
+- Chem Safety Contract
+- Chem ap classroom
+- Chem getting to know you form
+- English Questionnaire
+

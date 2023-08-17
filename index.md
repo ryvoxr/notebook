@@ -5,6 +5,7 @@
 - [History](school/history/index.md)
 - [Science](school/science/index.md)
 - [English](school/english/index.md)
+- [Math](school/math/index.md)
 
 ## Technologies
 
@@ -22,7 +23,6 @@
 - [Trains](trains/index.md)
 - [FRC](frc/index.md)
 - [D&D](dnd/index.md)
-
 
 ## The misciest misc
 

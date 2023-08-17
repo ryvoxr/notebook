@@ -2,6 +2,8 @@
 
 ## Economics
 
+- [Unit 1](econ/unit-1/index.md)
+
 ## APUSH
 
 ### Units
