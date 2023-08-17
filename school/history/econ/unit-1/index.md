@@ -1,3 +1,4 @@
 # Unit 1: What is Economics
 
-- [Assignment 1](assignments/assignment-1.md)
+- [The History of Economic Thought](assignments/history-of-economic-thought.md)
+- [Econ All Around Us](assignments/econ-all-around-us.md)
