@@ -6,6 +6,7 @@
 - [Science](school/science/index.md)
 - [English](school/english/index.md)
 - [Math](school/math/index.md)
+- [College](school/college/index.md)
 
 ## Technologies
 
