@@ -1,11 +1,11 @@
 TODO
+- Chem - p. 108-109 53 and 55 (Friday)
+- Engl - Remebering Civil Rights
 
 DONE
-- Hlth - Study for quiz
-- Phys - Finish Halladay Ch 3
-- Econ - Ponder
-- Stat - More with Categorical
-- Calc - Limit of a Function, pt 2
-- Chem - p108: 45, 47, 49, 51
-- Engl - Imagery quiz Friday
+- Hlth - None
+- Phys - Halliday Ch 4
+- Econ - More contemplation
+- Stat - Display quantitative
+- Calc - Limit Laws
 
