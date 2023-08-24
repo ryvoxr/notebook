@@ -1,11 +1,11 @@
 TODO
-- Chem - p. 108-109 53 and 55 (Friday)
-- Engl - Remebering Civil Rights
 
 DONE
 - Hlth - None
-- Phys - Halliday Ch 4
-- Econ - More contemplation
-- Stat - Display quantitative
-- Calc - Limit Laws
+- Phys - None
+- Econ - Incentives in the News
+- Stat - More with Quant Dist
+- Calc - Wksht
+- Chem - p. 108-109 53 and 55
+- Engl - Discovering poetry
 
