@@ -1,8 +1,8 @@
-# Common App Essay
+# Common App Essay (600)
 
-Describe a topic, idea, or concept you find so engaging that it makes you lose
+**Describe a topic, idea, or concept you find so engaging that it makes you lose
 all track of time. Why does it captivate you? What or who do you turn to when
-you want to learn more?
+you want to learn more?**
 
 :e common-app-essay.md
 i
