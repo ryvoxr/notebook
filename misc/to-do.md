@@ -1,12 +1,11 @@
 TODO
 - Hlth - MyPlate meal (Thursday)
+- Chem - Lab presentation (Thursday)
 
 DONE
-- Hlth - None
-- Phys - None
-- Econ - Incentives and RCHS
-- Stat - Quant var graphs
-- Calc - Wksht prop of limits
-- Chem - p108-109 #57, 58
+- Phys - AP Classrom Unit 1 FRQ
+- Econ - Changes in demand
+- Stat - Box plots
+- Calc - Alg limits practice
 - Engl - None
 
