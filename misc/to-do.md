@@ -1,11 +1,12 @@
 TODO
+- Hlth - MyPlate meal (Thursday)
 
 DONE
 - Hlth - None
 - Phys - None
-- Econ - Incentives in the News
-- Stat - More with Quant Dist
-- Calc - Wksht
-- Chem - p. 108-109 53 and 55
-- Engl - Discovering poetry
+- Econ - Incentives and RCHS
+- Stat - Quant var graphs
+- Calc - Wksht prop of limits
+- Chem - p108-109 #57, 58
+- Engl - None
 
