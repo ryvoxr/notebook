@@ -1,11 +1,11 @@
 TODO
-- Hlth - MyPlate meal (Thursday)
-- Chem - Lab presentation (Thursday)
+- Chem - Lab presentation (Friday)
 
 DONE
-- Phys - AP Classrom Unit 1 FRQ
-- Econ - Changes in demand
-- Stat - Box plots
-- Calc - Alg limits practice
-- Engl - None
+- Hlth - MyPlate meal (Thursday)
+- Phys - None
+- Econ - Practicing Supply
+- Stat - Describing Numerically
+- Calc - Test tomorrow
+- Engl - Review "Love is not all" notes
 
