@@ -6,3 +6,6 @@
 - [Virginia Tech](virginia-tech.md)
 - [Colorado School of Mines](colorado-school-of-mines.md)
 - [Princeton](princeton.md)
+
+- [Deadlines](deadlines.md)
+- [Deadlines LaTeX](deadlines.tex)
