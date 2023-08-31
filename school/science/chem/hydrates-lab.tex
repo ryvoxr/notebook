@@ -1,9 +1,27 @@
 \documentclass{article}
 \usepackage{amsmath}
+\usepackage{booktabs}
 
 \begin{document}
 \begin{gather}
-    water_{exp} = \frac{0.69g}{2.26g} \times 100\% = 31\% \
-    water_{true} = \frac{5 \times 18.02}{63.55 + 32.07}
+    water_{exp} = \frac{0.69g}{2.26g} \times 100\% = 31\% \\
+    water_{true} = \frac{5H_2O_{mass}}{CuSO_4\cdot5H_2O_{mass}} = \frac{90.1g}{249.7g} = 36\% \\
+    error = \frac{water_{true} - water_{exp}}{water_{true}} \times 100\% = \frac{36\% - 31\%}{36\%} \times 100\% = 14\% \\
+    empirical\ formula = CuSO_4\cdot5H_2O
 \end{gather}
+\\
+Our error of 14\% was due to the fact the \(CuSO_4\) is hygroscopic and reabsorbed a portion of the water that was evaporated.
+\\\\
+\(Cu(II)SO_4\cdot5H_2O \to Cu(II)SO_4 + 5H_2O\)
+\\\\
+\centering
+\begin{tabular}{p{1.5cm}|p{4cm}|p{3cm}}
+    \toprule
+    Heating & Dish \& Product Mass (g) & Product Mass (g) \\
+    \midrule
+    0 & 46.84g & 2.26g \\
+    1 & 46.17g & 1.59g \\
+    2 & 46.15g & 1.57g \\
+    3 & 46.15g & 1.57g \\
+\end{tabular}
 \end{document}

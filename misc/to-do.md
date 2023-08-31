@@ -1,11 +1,11 @@
 TODO
-- Chem - Lab presentation (Friday)
 
 DONE
-- Hlth - MyPlate meal (Thursday)
+- Hlth - None
 - Phys - None
-- Econ - Practicing Supply
-- Stat - Describing Numerically
-- Calc - Test tomorrow
-- Engl - Review "Love is not all" notes
+- Econ - Supply/demand practice
+- Stat - Normal model
+- Calc - None
+- Chem - Lab presentation
+- Engl - "One Art" reading questions
 
