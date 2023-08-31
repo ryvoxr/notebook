@@ -14,17 +14,17 @@ desires and wield one with great power and speed. This idea is, of course, a
 computer.
 
 More specifically, I am fascinated by computer programming and software. The
-innumerable layers from low-level device drivers and the kernel all the way up
-to a graphical interface comes together to create the most widely used tool of
+innumerable layers from low-level device drivers and the kernel, all the way up
+to a graphical interface, comes together to create the most widely used tool of
 the 21st century. 
 
 Not all computers are created equally; some are basic Windows installations,
 others are Macs, most are graphic-less virtualised computers on servers. Mine
 is a finely tuned, half-custom, GNU/Linux based machine that can run on nearly
-any hardware. The design philosophy behind my machine, nicknamed Anton, is
-efficiency and speed. To that end, I use neovim (a modern variant of the
-legendary Vim) for all my text editing: school assignments, system
-configuration files, and most importantly, programming.
+any hardware. The design philosophy behind my machine is efficiency and speed.
+To that end, I use neovim (a modern variant of the legendary Vim) for all my
+text editing: school assignments, system configuration files, and most
+importantly, programming.
 
 The freedom and limitless possibilities of programming have kept me discovering
 and writing code for nearly a decade. While beating your head against the wall
