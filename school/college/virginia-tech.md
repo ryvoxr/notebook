@@ -7,6 +7,10 @@ you contribute to a community that is important to you. How long have you been
 involved? What have you learned and how would you like to share that with
 others at Virginia Tech? (120)**
 
+Scouts
+- Been with Scouts since I was 6
+- Importance of service, leadership, and community
+
 **Virginia Tech’s Principles of Community supports access and inclusion by
 affirming the dignity and value of every person, respecting differences,
 promoting mutual understanding and open expression, and strives to eliminate
@@ -20,6 +24,10 @@ experience? (120)**
 when you displayed your leadership. What specific skills did you contribute to
 the experience? How did others rely on you for guidance? What did you learn
 about yourself during this time? (120)**
+
+Stepping up to run the Robotics Phoenix Fest
+- Aryan was not there, he was working on a robot
+- I led a 45 minute session with no preparation for 30 people
 
 **Describe a goal that you have set and the steps you will take to achieve it.
 What made you set this goal for yourself? What is your timeline to achieve this
