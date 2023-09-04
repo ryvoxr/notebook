@@ -10,7 +10,7 @@ avoiding, Linux enjoying programmer. Some programmers will tell you with their
 words that they're a coder; fewer will tell you with their actions.
 
 For the last decade I have dedicated most of my free time towards programming,
-computers, and robotics. I was the sole programmer for the FRC  team that my
+computers, and robotics. I was the sole programmer for the FRC team that my
 friends and I founded and ran out of my garage my Junior year. My long-time
 hobby of speedcubing intersected with my chief interest of programming when I
 created a terminal interface in Rust for timing and tracking my Rubik's Cube
@@ -39,17 +39,15 @@ complete homework, and my grades plummeted.
 
 I graduated from a middle school with a class of just 60 kids into a high
 school with a class of 100, none of which I knew. The adjustment would have
-been difficult enough if school was in person, but being virtual and not being
-able to make friends for an entire year was devastating.
+been difficult enough if school was in person, but being virtual and unable to
+make friends for an entire year was devastating. I coped by spending my time
+with friends from middle school playing video games, digging a deeper hole for
+myself. I ended my freshman year with the worst grades of my life: a 2.8 GPA.
 
-It wasn't until the beginning of my Sophomore year that I saw the inside of the building.
-
-
-Freshman year of high school
-- Intro: My entire freshman year of high school revolved around COVID-19
-- Adjustment to high school
-- Trouble with virtual learning
-- Poor academic performance
+Entering Sophomore year in person was a breath of fresh air. I bounced back
+from my first year: I made new friends, did my homework, and started doing
+excellently on quizzes and tests again. My GPA from the beginning of Sophomore
+year until now is above a 3.9, over a whole point greater than my freshman GPA.
 
 **Critical and creative thinking are valuable skills in problem-solving. Tell
 us about a time in which you used one or both of these skills to address a
