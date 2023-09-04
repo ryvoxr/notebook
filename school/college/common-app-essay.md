@@ -33,10 +33,26 @@ contact. At 6pm I start working on my speedcubing timer, trying to get
 scrambles to generate properly, next thing I know scrambles are generating
 properly and it's 1am.
 
-This phenomena can come in handy:
-- 2 days to write, test, and debug all code for FRC
+This phenomena can come in handy. At the end of my Junior year, my friends and
+I were operating a FRC team out of my garage. The FRC season spans multiple
+months and is often a large and heavily organized operation. As a small group
+of just 6-7 guys with no adult leadership, we were behind schedule. We found
+ourself on Thursday afternoon 2 days before the first competition without any
+code and missing an entire subsystem. That night, and the entirety of the next
+day, while the other guys were working on getting the end effector attached to
+the arm, me, my rubber duck, and a box of animal crackers, wrote and tested all
+the code for our robot, finishing with time to spare.
+
+Something I find beautiful about programming is the openness of the whole
+discipline. If I find a method, trait, or feature of a language or library I
+don't understand, I can almost always simply read the documentation or look at
+the implementation and decipher for myself its purpose and use. More often than
+not, instead of deliberately searching for more things to learn, I find myself
+stumbling across new concepts and information when problem solving and working
+on projects.
 
 To me, the ability that programming gives you to create literally anything from
-nearly nothing is beautiful. 
+nearly nothing is beautiful.
 
 ZZ
+
