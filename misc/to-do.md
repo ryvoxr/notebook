@@ -3,9 +3,9 @@ TODO
 DONE
 - Hlth - None
 - Phys - None
-- Econ - Supply/demand practice
-- Stat - Normal model
-- Calc - None
-- Chem - Lab presentation
-- Engl - "One Art" reading questions
+- Econ - Gather your thoughts
+- Stat - Normal model pt 2
+- Calc - Infinity
+- Chem - None
+- Engl - Peril Sonnet
 
