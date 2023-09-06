@@ -1,11 +1,11 @@
 TODO
 
 DONE
-- Hlth - None
-- Phys - None
-- Econ - Gather your thoughts
-- Stat - Normal model pt 2
-- Calc - Infinity
-- Chem - None
-- Engl - Peril Sonnet
+- Hlth - Test tomorrow
+- Phys - Ch 5
+- Econ - Test tomorrow
+- Stat - More with Normal
+- Calc - Limits to Infinity
+- Chem - FRQ in packet & AP Progress Check
+- Engl - None
 
