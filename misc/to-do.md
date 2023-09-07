@@ -1,11 +1,11 @@
 TODO
+- Phys - Ch 6 (50%)
+- Calc - Limits to Infinity
+- Engl - "Lisa" Reading and Questions
 
 DONE
-- Hlth - Test tomorrow
-- Phys - Ch 5
-- Econ - Test tomorrow
-- Stat - More with Normal
-- Calc - Limits to Infinity
-- Chem - FRQ in packet & AP Progress Check
-- Engl - None
+- Hlth - None
+- Econ - None
+- Stat - Sample Test Unit 1
+- Chem - Grav Analysis Prelab
 
