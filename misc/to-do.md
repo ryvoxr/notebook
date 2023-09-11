@@ -3,9 +3,10 @@ TODO
 
 DONE
 - Hlth - None
-- Econ - None
-- Stat - Sample Test Unit 1
-- Chem - Grav Analysis Prelab
-- Calc - Limits to Infinity
-- Engl - "Lisa" Reading and Questions
+- Phys - None
+- Econ - Business structures
+- Stat - Student info surveys
+- Calc - Ex Day Challenge Wksht
+- Chem - None
+- Engl - None
 
