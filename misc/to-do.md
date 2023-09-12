@@ -4,9 +4,9 @@ TODO
 DONE
 - Hlth - None
 - Phys - None
-- Econ - Business structures
-- Stat - Student info surveys
-- Calc - Ex Day Challenge Wksht
-- Chem - None
+- Econ - Costs of production
+- Stat - Progress Checm MCQ1B
+- Calc - Wksht
+- Chem - Periodic trends HW
 - Engl - None
 
