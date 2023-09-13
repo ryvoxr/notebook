@@ -2,3 +2,4 @@
 
 - [Business Structure](assignments/business-structure.md)
 - [Costs of Production](assignments/costs-of-production.md)
+- [Opportuinty Costs](assignments/opportuinty-costs.md)

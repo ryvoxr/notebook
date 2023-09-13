@@ -4,9 +4,9 @@ TODO
 DONE
 - Hlth - None
 - Phys - None
-- Econ - Costs of production
-- Stat - Progress Checm MCQ1B
-- Calc - Wksht
-- Chem - Periodic trends HW
-- Engl - None
+- Econ - Opportunity cost
+- Stat - Test tomorrow
+- Calc - End of limits
+- Chem - AP Classroom Progress Check
+- Engl - Literary Elements Section 1
 
