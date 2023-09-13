@@ -1,11 +1,12 @@
 TODO
+- Phys - Ch 6 (50%)
 
 DONE
-- Hlth - Test tomorrow
-- Phys - Ch 5
-- Econ - Test tomorrow
-- Stat - More with Normal
-- Calc - Limits to Infinity
-- Chem - FRQ in packet & AP Progress Check
+- Hlth - None
+- Phys - None
+- Econ - Costs of production
+- Stat - Progress Checm MCQ1B
+- Calc - Wksht
+- Chem - Periodic trends HW
 - Engl - None
 
