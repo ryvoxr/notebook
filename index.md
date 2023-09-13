@@ -7,6 +7,7 @@
 - [English](school/english/index.md)
 - [Math](school/math/index.md)
 - [College](school/college/index.md)
+- [Science Olympiad](school/scioly/index.md)
 
 ## Technologies
 
