@@ -6,8 +6,8 @@
 - [Virginia Tech](virginia-tech.md)
 - [Colorado School of Mines](colorado-school-of-mines.md)
 - [Appalachian State](appalachian-state.md)
-- [UT Austin](ut-austin.md)
 - [Carnegie Mellon](carnegie-mellon.md)
+- [UT Austin](ut-austin.md)
 - [Princeton](princeton.md)
 
 - [Timeline](timeline.md)

@@ -7,7 +7,7 @@ At school I'm the kid with the thick laptop; the one who makes the fancy lab
 reports; the one who refuses to use Google Docs; the one they call a hacker.
 Guilty as charged! I'm a Lenovo X220 using, LaTeX writing, Google Docs
 avoiding, Linux enjoying programmer. Some programmers will tell you with their
-words that they're a coder; fewer will tell you with their actions.
+words that they're a coder, fewer will tell you with their actions.
 
 For the last decade I have dedicated most of my free time towards programming,
 computers, and robotics. I was the sole programmer for the FRC team that my

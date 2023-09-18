@@ -22,6 +22,6 @@ lumped in with their engineering program. Instead, the Computer Science program
 is contained inside of the College of Computing and Informatics. This
 separation of computing and engineering is exciting to me. At UNC Charlotte,
 instead of spending class hours learning engineering concepts not totally
-relevant to my major, I hope to be able deep dive into the CS topics that interest
-me most.
+relevant to my major, I hope to be able deep dive into the CS topics that
+interest me most.
 
