@@ -1,12 +1,11 @@
 TODO
-- Phys - Ch 6 (50%)
 
 DONE
 - Hlth - None
-- Phys - None
-- Econ - Cross something off
-- Stat - Scatterplots
-- Calc - Continuity and IVT
-- Chem - Lab report
-- Engl - None
+- Phys - Ch 6 (50%)
+- Econ - Types of unemployment
+- Stat - Ch 7 Correlation
+- Calc - Graph Rational Functions
+- Chem - Pogil on solids
+- Engl - "Chess" reading
 
