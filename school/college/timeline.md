@@ -1,12 +1,8 @@
 # Timeline
 
-Sept 4:
-- NC State #1
-- NC State #2
-- UNC Charlotte
+TODO
 
 Sept 10:
-- Common App RD
 - Virginia Tech #1
 - Virginia Tech #2
 - Virginia Tech #3
@@ -31,3 +27,10 @@ Oct 1:
 - Princeton #4
 - Princeton #5
 - Princeton #6
+
+DONE
+- NC State #1
+- NC State #2
+- UNC Charlotte
+- Common App RD
+

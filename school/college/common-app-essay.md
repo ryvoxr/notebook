@@ -30,8 +30,8 @@ coding, my hands never leaving the keyboard, I feel like a wizard, coconut oily
 smooth, gliding from file to file, refactoring on the fly. When I slip into the
 zone like that I can program for hours straight without food, sleep, or human
 contact. At 6pm I start working on a simulation and pathfinding program for my
-school's Science Olympiad team's robotics event. The next thing I know the
-simulation is running smoothly and paths are generating properly.
+school's Science Olympiad robotics event. The next thing I know the simulation
+is running smoothly and paths are generating properly.
 
 This phenomena can come in handy. At the end of my Junior year, my friends and
 I were operating a FRC team out of my garage. The FRC season spans multiple
@@ -50,6 +50,5 @@ the implementation and decipher for myself its purpose and use. More often than
 not, instead of deliberately searching for more things to learn, I find myself
 stumbling across new concepts and information when problem solving and working
 on projects.
-
 
 ZZ

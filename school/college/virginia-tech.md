@@ -7,9 +7,15 @@ you contribute to a community that is important to you. How long have you been
 involved? What have you learned and how would you like to share that with
 others at Virginia Tech? (120)**
 
-Scouts
-- Been with Scouts since I was 6
-- Importance of service, leadership, and community
+Scouts has been a major part of my life since I was 5 years old. Most people
+imagine Boy Scouts as a group of teenage boys going out into the woods and
+learning survival skills. While we certainly do that, any scout will tell you
+that the real point is leadership and service. The ever-stressed philosophy in
+my troop was one of servant leadership. The principles of which dictate that,
+no matter how high one's rank or position is, he leads by example and through
+acts of service.
+
+*need an explanation of how I would like to share that with others at VT*
 
 **Virginia Tech’s Principles of Community supports access and inclusion by
 affirming the dignity and value of every person, respecting differences,
@@ -33,4 +39,14 @@ Stepping up to run the Robotics Phoenix Fest
 What made you set this goal for yourself? What is your timeline to achieve this
 goal? Who do you seek encouragement or guidance from as you work on this goal?
 (120)**
+
+When school started in mid-August I knew I was going to have a packed schedule.
+The most dreaded and important part to me was doing my college applications. In
+order to ensure I had enough time to brainstorm, write, and review my essays, I
+set a goal to complete all the rough drafts by the first of October, a month
+before my first deadline.
+
+Goal -> Complete rough draft of all college essays by Oct 1
+Timeline -> Oct 1
+Encouragement and guidance -> Friends, parents
 
