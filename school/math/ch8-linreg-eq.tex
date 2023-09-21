@@ -1,0 +1,230 @@
+\documentclass{article}
+
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{bm}
+\usepackage{float} 
+\usepackage[margin=1.5in]{geometry}
+
+\newcolumntype{L}{>{$}l<{$}}
+
+\title{Stats Thursday 9-21}
+\author{Henry Oehlrich}
+
+\begin{document}
+\maketitle
+
+\section*{1. Regression equations}
+\centering
+\begin{tabular}{l|L|L|L|L|L|L}
+    \toprule
+    ? & \bar{x} & S_x & \bar{y} & S_y & r & \hat{y} = \beta_0 + \beta_1x \\
+    \midrule
+    a & 10 & 2 & 20 & 3 & 0.5 & \bm{\hat{y} = 12.5 + 0.75x} \\
+    b & 2 & 0.06 & 7.2 & 1.2 & -0.4 & \bm{\hat{y} = 23.2 -8x} \\
+    c & 12 & 6 & \bm{152} & \bm{30} & -0.8 & \hat{y} = 200 - 4x \\
+    d & 2.5 & 1.2 & \bm{25} & 100 & \bm{0.6} & \hat{y} = -100 + 50x \\
+\end{tabular}
+\raggedright
+
+\subsection*{a.}
+\begin{gather}
+    \hat{y} = \beta_0 + \beta_1x \\
+    \beta_1 = \frac{rs_y}{s_x} = \frac{0.5(3)}{2} = 0.75 \\
+    \bar{y} = \beta_0 + \beta_1\bar{x} \\
+    \beta_0 = \bar{y} - \beta_1\bar{x} = 20 - 0.75(10) = 12.5 \\
+    \hat{y} = 12.5 + 0.75x
+\end{gather}
+
+\subsection*{b.}
+\begin{gather}
+    \hat{y} = \beta_0 + \beta_1x \\
+    \beta_1 = \frac{rs_y}{s_x} = \frac{-0.4(1.2)}{0.06} = -8 \\
+    \bar{y} = \beta_0 + \beta_1\bar{x} \\
+    \beta_0 = \bar{y} - \beta_1\bar{x} = 7.2 - -8(2) = 23.2 \\
+    \hat{y} = 23.2 -8x
+\end{gather}
+
+\subsection*{c.}
+\begin{gather}
+    \bar{y} = \beta_0 + \beta_1\bar{x} = 200 - 4(12) = 152 \\
+    \beta_1 = \frac{rs_y}{s_x} \\
+    s_y = \frac{\beta_1s_x}{r} = \frac{-4(6)}{-0.8} = 30 
+\end{gather}
+
+\subsection*{d.}
+\begin{gather}
+    \bar{y} = \beta_0 + \beta_1\bar{x} = -100 + 50(2.5) = 25 \\
+    \beta_1 = \frac{rs_y}{s_x} \\
+    r = \frac{\beta_1s_x}{s_y} = \frac{50(1.2)}{100} = 0.6
+\end{gather}
+
+\section*{5. Least squares}
+\begin{table}[H]
+    \begin{minipage}{.3\textwidth}
+        \begin{tabular}{L|L|L|L}
+            \toprule
+            x & y & \hat{y} & SS \\
+            \midrule
+            10 & 10 & 18 & -8 \\
+            20 & 50 & 29 & 21 \\
+            40 & 20 & 51 & -31 \\
+            50 & 80 & 61 & 19 \\
+        \end{tabular}
+    \end{minipage}
+    \begin{minipage}{.7\textwidth}
+        "Least squares" specifies the line that minimizes the variance of the
+        residuals; that is, the line that minimizes the sum of the squared
+        residuals. Given these data, the line of least squares is $\hat{y} =
+        7.0 + 1.1x$. The general equation for the line of best fit is $\hat{y}
+        - \beta_0 + \beta_1x$. We can solve for $\beta_0$ by setting $\hat{y} =
+        \bar{y}$ and $x = \bar{x}$. The value of $\beta_1 = \frac{rs_y}{s_x}$
+    \end{minipage}
+\end{table}
+
+\section*{9. More real estate}
+$\widehat{price}=47.82+0.061size$
+
+\subsection*{a.}
+The slope of the line is 0.061. This means that for every square foot of space,
+the price of the house increases by \$0.061.
+
+\subsection*{b.}
+\begin{gather}
+    \widehat{price}=47.82+0.061size \\
+    \widehat{price}=47.82+0.061(3000) \\
+    \widehat{price}=47.82+183 \\
+    \widehat{price}=230.82
+\end{gather}
+
+\subsection*{c.}
+\begin{table}[H]
+    \begin{minipage}{.6\textwidth}
+        \begin{gather}
+            \widehat{price}=47.82+0.061size \\
+            \widehat{price}=47.82+0.061(1200) \\
+            \widehat{price}=47.82+73.2 \\
+            \widehat{price}=121.02 \\
+            price = \widehat{price} - 6 = 115.02
+        \end{gather}
+    \end{minipage}
+    \quad
+    \begin{minipage}{.3\textwidth}
+        The asking price is \$115,000. The predicted price is \$121,020. The
+        difference of \$6,020 is called the residual.
+    \end{minipage}
+\end{table}
+
+\section*{11. What slope?}
+The slope is most likely to be 300. The slope is the change in weight for every
+1 foot of length. A car's length in feet is likely to be in the range of 10-20.
+10-20 times 3 is 30-60. 10-20 times 30 is 300-600. 10-20 times 300 is
+3000-6000. 10-20 times 3000 is 30000-60000. The most reasonable of these ranges
+is 3000-6000 created by a slope of 300.
+
+\section*{17. SAT}
+
+\subsection*{a.}
+As the Verbal SAT score increases, the expected Math SAT score increases. The
+scatter plot shows a moderately strong positive linear correlation. The
+scatterplot shows moderate scatter and ~1 form outlier.
+
+\subsection*{b.}
+Yes, a student did perfectly on the Math section but did very poorly on the
+Verbal section.
+
+\subsection*{c.}
+The correlation coefficient $r$ is 0.685. This means that there is a moderately
+strong positive linear correlation between the Math and Verbal SAT scores.
+46.9\% of variation in the Math SAT scores can be explained by Verbal SAT
+scores.
+
+\subsection*{d.}
+\begin{table}[H]
+    \begin{minipage}{.3\textwidth}
+        \begin{tabular}{L|L}
+            \toprule
+            \midrule
+            r & 0.685 \\
+            \overline{verbal} & 596.3 \\
+            s_{verbal} & 99.5 \\
+            \overline{math} & 612.2 \\
+            s_{math} & 96.1
+        \end{tabular}
+    \end{minipage}
+    \begin{minipage}{.7\textwidth}
+        \begin{gather}
+            \widehat{math} = \beta_0 + \beta_1verbal \\
+            \beta_1 = \frac{rs_{math}}{s_{verbal}} = \frac{0.685(96.1)}{99.5} = 0.662 \\
+            \overline{math} = \beta_0 + \beta_1\overline{verbal} \\
+            \beta_0 = \overline{math} - \beta_1\overline{verbal} = 612.2 - 0.662(596.3) = 217.449 \\
+            \widehat{math} = 217.449 + 0.verbal
+        \end{gather}
+    \end{minipage}
+\end{table}
+
+\subsection*{e.}
+The slope of the line of best fit is $\widehat{math} = 217.449 + 0.662verbal$.
+This means that for every 1 point increase in the Verbal SAT score, the
+predicted Math SAT score increases by 0.662 points. 
+
+\subsection*{f.}
+\begin{gather}
+    \widehat{math} = 217.449 + 0.662verbal \\
+    \widehat{math} = 217.449 + 0.662(500) = 548.449
+\end{gather}
+
+\subsection*{g.}
+\begin{gather}
+    \widehat{math} = 217.449 + 0.662verbal \\
+    \widehat{math} = 217.449 + 0.662(800) = 747.049 \\
+    math - \widehat{math} = 800 - 747.049 = 52.951
+\end{gather}
+
+\section*{19. SAT, take 2}
+
+\subsection*{a.}
+There would be a moderately strong positive linear correlation. As the Math SAT
+score increases, the Verbal SAT score increases. The coefficient of correlation
+for these data are 0.685. The coefficient of correlation does not change
+because switching the explanatory and response variables does not change the
+strength of the linear relationship.
+
+\subsection*{b.}
+\begin{table}[H]
+    \begin{minipage}{.3\textwidth}
+        \begin{tabular}{L|L}
+            \toprule
+            \midrule
+            r & 0.685 \\
+            \overline{verbal} & 596.3 \\
+            s_{verbal} & 99.5 \\
+            \overline{math} & 612.2 \\
+            s_{math} & 96.1
+        \end{tabular}
+    \end{minipage}
+    \begin{minipage}{.7\textwidth}
+        \begin{gather}
+            \widehat{verbal} = \beta_0 + \beta_1math \\
+            \beta_1 = \frac{rs_{verbal}}{s_{math}} = \frac{0.685(99.5)}{96.1} = 0.709 \\
+            \overline{verbal} = \beta_0 + \beta_1\overline{math} \\
+            \beta_0 = \overline{verbal} - \beta_1\overline{math} = 596.3 - 0.709(612.2) = 162.392 \\
+            \widehat{verbal} = 162.392 + 0.709math
+        \end{gather}
+    \end{minipage}
+\end{table}
+
+\subsection*{c.}
+In this context, a positive residual would mean that a student scored higher on
+the Verbal SAT than predicted by the regression equation. A negative residual
+would mean that a student scored lower on the Verbal SAT than predicted by the
+regression equation.
+
+\subsection*{d.}
+\begin{gather}
+    \widehat{verbal} = 162.392 + 0.709math \\
+    \widehat{verbal} = 162.392 + 0.709(500) = 516.892
+\end{gather}
+\end{document}
+

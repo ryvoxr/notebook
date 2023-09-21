@@ -1,11 +1,11 @@
 TODO
-- Engl - Quiz literary devices tomorrow
+- Calc - Limits Smorg
+- Chem - None
+- Engl - None
 
 DONE
-- Hlth - Quiz tomorrow
-- Phys - None
-- Econ - None
-- Stat - Ch 7 Wrap up
-- Calc - Graph Rational functions pt 2
-- Chem - p324; #26, 41, 42
+- Hlth - None
+- Phys - Practice test MCQ
+- Econ - Alternative Measures
+- Stat - Ch 8 LinReg Eq
 
