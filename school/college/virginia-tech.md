@@ -31,9 +31,6 @@ when you displayed your leadership. What specific skills did you contribute to
 the experience? How did others rely on you for guidance? What did you learn
 about yourself during this time? (120)**
 
-Stepping up to run the Robotics Phoenix Fest
-- Aryan was not there, he was working on a robot
-- I led a 45 minute session with no preparation for 30 people
 
 **Describe a goal that you have set and the steps you will take to achieve it.
 What made you set this goal for yourself? What is your timeline to achieve this
@@ -45,6 +42,13 @@ The most dreaded and important part to me was doing my college applications. In
 order to ensure I had enough time to brainstorm, write, and review my essays, I
 set a goal to complete all the rough drafts by the first of October, a month
 before my first deadline.
+
+After writing out timeline of self-imposed deadlines, I got to work on my
+essays. Almost immediately I fell behind, missing two essays on the first
+check-in. Looking for motivation through a shared goal and situation, I reached
+out to friends and we scheduled time throughout each week we would dedicate to
+working on our essays together.
+
 
 Goal -> Complete rough draft of all college essays by Oct 1
 Timeline -> Oct 1
