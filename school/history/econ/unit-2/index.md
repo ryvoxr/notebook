@@ -7,4 +7,5 @@
 - [Types of Unemployment](assignments/types-of-unemployment.md)
 - [Inflation](classwork/inflation.md)
 - [Measuring economic and societal well-being](assignments/measuring-economic-and-societal-well-being.md)
+- [Assessing the Economy](assessing-the-economy.tex)
 
