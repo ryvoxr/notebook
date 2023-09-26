@@ -222,8 +222,10 @@ The histogram in Figure \ref{fig:toddlershist} shows the distribution of the
 number of evil toddlers students reported they could beat in a fight. The
 distribution is unimodal and skewed to the right. It's center is from 2 to 20,
 but the boxplot clearly shows that the data are most concentrated between 2 and
-5. Even after removing the most extreme outliers, the distribution still
-contains multiple outliers.
+5. Only 25\% of students reported that they could beat more than 20 evil
+toddlers in a fight. Even after removing the most extreme outliers (as shown in
+Figure \ref{fig:data}), the distribution still contains multiple high outliers
+(1 at 83 and 2 at 100).
 
 \begin{figure}[ht]
     \centering
@@ -231,7 +233,7 @@ contains multiple outliers.
     \label{fig:contingency}
     \begin{tabular}{l|l|l|l|l|l|l}
         \toprule
-        & Never watched & Uniqua & Pablo & Tyrone & Tasha & Total\\
+        Knows stone fruit & Never watched & Uniqua & Pablo & Tyrone & Tasha & Total\\
         \midrule
         Yes & 2 & 4 & 1 & 0 & 0 & 7 \\
         No & 10 & 5 & 6 & 5 & 2 & 28 \\
@@ -239,7 +241,45 @@ contains multiple outliers.
     \end{tabular}
 \end{figure}
 
-You guys let me know what to put here
+The segmented bar chart in Figure \ref{fig:stackedbar} is created from the data
+in the contingency table in Figure \ref{fig:contingency}. Because of the small
+sample size, it is difficult to prove dependence. The 100\% representation of
+those who do not know what a stone fruit is in the Tyrone and Tasha categories
+can most likely be attributed to their sample sizes of 5 and 2 students
+respectively.
+
+\begin{figure}[ht]
+    \centering
+    \caption{Stacked bar chart of stone fruit knowledge and favorite Backyardigan character}
+    \label{fig:stackedbar}
+    \begin{tikzpicture}
+        \begin{axis}[
+                ybar stacked,
+                legend style={at={(0.5,-0.20)},
+                anchor=north, legend columns=-1},
+                ylabel={\% of students},
+                symbolic x coords={Impartial, Uniqua, Pablo, Tyrone, Tasha},
+                xtick=data,
+                x tick label style={rotate=45,anchor=east},
+            ]
+            \addplot+ [ybar] coordinates {
+                (Impartial,16.667)
+                (Uniqua,44.444)
+                (Pablo,14.286)
+                (Tyrone,0)
+                (Tasha,0)
+            };
+            \addplot+ [ybar] coordinates {
+                (Impartial,83.333)
+                (Uniqua,55.556)
+                (Pablo,85.714)
+                (Tyrone,100)
+                (Tasha,100)
+            };
+            \legend{Yes, No}
+        \end{axis}
+    \end{tikzpicture}
+\end{figure}
 
 % Data
 \begin{figure}
