@@ -2,11 +2,10 @@ TODO
 
 DONE
 - Hlth - None
-- Phys - AP Classroom FRQ
-- Econ - Assessing the economy
-- Stat - Mini-project
-- Stat - Ch 8 Res and R2
-- Calc - Unit 2 sample test
-- Chem - Bonding Phet activity
-- Engl - Illiad chapter 1
+- Phys - None
+- Econ - Inequality
+- Stat - Ch 8 wrap up
+- Calc - Test tomorrow
+- Chem - None
+- Engl - None
 
