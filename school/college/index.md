@@ -14,3 +14,4 @@
 - [Deadlines](deadlines.md)
 - [Deadlines LaTeX](deadlines.tex)
 - [Questions](questions.md)
+- [Flex Day](flex-day.tex)

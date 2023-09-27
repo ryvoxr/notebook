@@ -9,16 +9,15 @@ Guilty as charged! I'm a Lenovo X220 using, LaTeX writing, Google Docs
 avoiding, Linux enjoying programmer. Some programmers will tell you with their
 words that they're a coder, fewer will tell you with their actions.
 
-For the last decade I have dedicated most of my free time towards programming,
-computers, and robotics. I was the sole programmer for the FRC team that my
-friends and I founded and ran out of my garage my Junior year. My long-time
-hobby of speedcubing intersected with my chief interest of programming when I
-created a terminal interface in Rust for timing and tracking my Rubik's Cube
-solves. I've also developed numerous other applications from tiling window
-managers to websites using Rust and Web Assembly. While I've significantly
-honed my skills, I have yet to partake in a formal and rigorous computer
-science curriculum. NC State's College of Engineering's Computer Science major
-offers the depth and breadth of programming instruction I yearn for.
+For the last decade I have dedicated nearly all of my free time towards
+programming, computers, and robotics. I was the sole programmer for the FRC
+team that my friends and I founded and ran out of my garage my Junior year. My
+school's prestigious Science Olympiad team recruited me to lead several of
+their building events. At school, teachers enlisted me to write programs to
+generate schedules for school-wide events. While I've significantly honed my
+skills, I have yet to partake in a formal and rigorous computer science
+curriculum. NC State's College of Engineering's Computer Science major offers
+the depth and breadth of programming instruction I yearn for.
 
 While I've learned an immense amount through my own experience of building
 things, I understand that there is a significant amount of underlying theory,
@@ -46,8 +45,8 @@ myself. I ended my freshman year with the worst grades of my life: a 2.8 GPA.
 
 Entering Sophomore year in person was a breath of fresh air. I bounced back
 from my first year: I made new friends, did my homework, and started doing
-excellently on quizzes and tests again. My GPA from the beginning of Sophomore
-year until now is above a 3.9, over a whole point greater than my freshman GPA.
+excellently on quizzes and tests again. Now, my GPA excluding freshman year is
+above a 3.9, over a whole point greater than my freshman GPA.
 
 **Critical and creative thinking are valuable skills in problem-solving. Tell
 us about a time in which you used one or both of these skills to address a
