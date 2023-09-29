@@ -2,10 +2,10 @@ TODO
 
 DONE
 - Hlth - None
-- Phys - Test tomorrow
-- Econ - Study pt 1
-- Stat - Ch 9 residuals
-- Calc - None
-- Chem - p325: 47, 48, 51, 55 57
+- Phys - None
+- Econ - Test tomorrow
+- Stat - Ch 9 interesting pointts
+- Calc - Rates of change w/ limits
+- Chem - AP progress check
 - Engl - None
 
