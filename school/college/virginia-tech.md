@@ -15,7 +15,9 @@ my troop was one of servant leadership. The principles of which dictate that,
 no matter how high one's rank or position is, he leads by example and through
 acts of service.
 
-*need an explanation of how I would like to share that with others at VT*
+At Virginia Tech, I will apply my philosoply servant leadership as well as
+share it with my peers. I believe that this will ultimately create a more
+respectful, empathetic, and thriving community.
 
 **Virginia Tech’s Principles of Community supports access and inclusion by
 affirming the dignity and value of every person, respecting differences,
@@ -26,16 +28,24 @@ person or group experience the same situation)? How did you respond or wish you
 would have responded? Did your viewpoint change in any way after this
 experience? (120)**
 
+Maybe talk about economics
+
 **Share a time when you were most proud of yourself either as a role model or
 when you displayed your leadership. What specific skills did you contribute to
 the experience? How did others rely on you for guidance? What did you learn
 about yourself during this time? (120)**
 
-
 **Describe a goal that you have set and the steps you will take to achieve it.
 What made you set this goal for yourself? What is your timeline to achieve this
 goal? Who do you seek encouragement or guidance from as you work on this goal?
 (120)**
+
+Goal:
+Timeline:
+Encouragement and guidance:
+
+--
+BACKUP:
 
 When school started in mid-August I knew I was going to have a packed schedule.
 The most dreaded and important part to me was doing my college applications. In
