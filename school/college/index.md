@@ -1,17 +1,22 @@
 # College
 
-- [Common App Essay](common-app-essay.md)
-- [NC State](nc-state.md)
-- [UNC Charlotte](unc-charlotte.md)
-- [Virginia Tech](virginia-tech.md)
-- [Colorado School of Mines](colorado-school-of-mines.md)
-- [Appalachian State](appalachian-state.md)
-- [Carnegie Mellon](carnegie-mellon.md)
-- [UT Austin](ut-austin.md)
-- [Princeton](princeton.md)
-
 - [Timeline](timeline.md)
-- [Deadlines](deadlines.md)
 - [Deadlines LaTeX](deadlines.tex)
-- [Questions](questions.md)
-- [Flex Day](flex-day.tex)
+
+NOT STARTED:
+- [Princeton](princeton.md) (Nov 1)
+- [Carnegie Mellon](carnegie-mellon.md) (Jan 3)
+- [Wisconsin-Madison](wisconsin-madison.md) (Jan 16)
+- [Washington at St. Louis](washington-at-st.-louis.md) (Jan 3)
+
+STARTED:
+- [Virginia Tech](virginia-tech.md) (Nov 1)
+- [Colorado School of Mines](colorado-school-of-mines.md) (Nov 1)
+
+RD DONE:
+- [Common App Essay](common-app-essay.md) (Nov 1)
+- [NC State](nc-state.md) (Nov 1)
+- [UNC Charlotte](unc-charlotte.md) (Nov 1)
+
+DONE:
+

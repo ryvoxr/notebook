@@ -15,13 +15,12 @@ managers to websites using Rust and Web Assembly. While I've significantly
 honed my skills, I have yet to partake in a formal and rigorous computer
 science curriculum. UNC Charlotte's College of Computing and Informatics'
 Computer Science major offers the depth and breadth of programming instruction
-I yearn for.
+that will prepare me for the future.
 
-Unlike many other colleges, UNC Charlotte's Computer Science degree is not
-lumped in with their engineering program. Instead, the Computer Science program
-is contained inside of the College of Computing and Informatics. This
-separation of computing and engineering is exciting to me. At UNC Charlotte,
-instead of spending class hours learning engineering concepts not totally
-relevant to my major, I hope to be able deep dive into the CS topics that
-interest me most.
+Unlike most other universities, UNC Charlotte's Computer Science degree is not
+part of their engineering college. Instead, the Computer Science program is
+contained inside of the College of Computing and Informatics. This separation
+of computing and engineering is exciting to me. At UNC Charlotte, instead of
+spending class hours learning engineering concepts tangential to my major, I
+look forward to focusing on Computer Science topics that interest me most.
 

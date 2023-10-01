@@ -1,36 +1,33 @@
 # Timeline
 
 TODO
-
-Sept 10:
-- Virginia Tech #1
-- Virginia Tech #2
-- Virginia Tech #3
-- Virginia Tech #4
-
-Sept 17:
-- Colorado School of Mines #1
-- Colorado School of Mines #2
-- Appalachian State #1
-- UT Austin #1
-- UT Austin #2
-
-Sept 24:
-- Illinois Urbana-Champaign #1
-- Illinois Urbana-Champaign #2
-- Illinois Urbana-Champaign #3
-- Princeton #1
-
 Oct 1:
-- Princeton #2
-- Princeton #3
-- Princeton #4
-- Princeton #5
-- Princeton #6
+- VT #2
+Oct 8:
+- CSM #1
+- CSM #2
+Oct 15:
+- PU #1
+- PU #2
+- PU #3
+- PU #4
+- PU #5
+- PU #6
+Oct 22:
+- Review and edit
+Oct 29:
+- Review and submit NCSU
+- Review and submit VT
+- Review and submit CSM
+- Review and submit UNCC
+- Review and submit PU
 
 DONE
-- NC State #1
-- NC State #2
-- UNC Charlotte
+- NCSU #1
+- NCSU #2
+- UNCC
 - Common App RD
+- VT #1
+- VT #3
+- VT #4
 

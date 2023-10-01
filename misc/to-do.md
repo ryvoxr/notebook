@@ -1,11 +1,14 @@
 TODO
+- Clge - VT essays
+- Optc - Finish lenses, thin lense approxamation, lens maker's equations
+- Optc - Practice tests
 
 DONE
-- Hlth - None
+- Hlth - Test tomorrow
 - Phys - None
-- Econ - Test tomorrow
-- Stat - Ch 9 interesting pointts
-- Calc - Rates of change w/ limits
-- Chem - AP progress check
-- Engl - None
+- Econ - None
+- Stat - LinReg Analysis Ch 7 to 9
+- Calc - Slope and Rate of Change
+- Chem - Learn molecular structures
+- Engl - Read prelude to the illiad (don't)
 
