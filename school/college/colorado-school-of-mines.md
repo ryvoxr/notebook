@@ -4,6 +4,19 @@
 backgrounds, experiences, or viewpoints. How did this experience impact your
 understanding of identity and the importance of inclusivity? (250)**
 
+At the end of my Junior year I was recruited by my school's elite Science
+Olympiad team for my technical expertise. I was asked to lead teams in three
+events: optics, robot tour, and wind power. Each event had three teams of
+varying skill levels. It was my job to lead all the teams as well as
+participate on each event's Varsity team.
+
+Throughout the beginning of the season, I worked closely with over thirty
+students. Each student, regardless of their experience level, brought their own
+ideas, skills, and commmitment.
+
+Importance of inclusivity: Giving people a chance to improve turns them into
+future experienced people and leaders
+
 **Please share a bit more about your academic interests. What do you hope to
 study at Mines? If you are undecided, what area(s) of study are you
 considering? What has inspired your interests in these areas? Think about your

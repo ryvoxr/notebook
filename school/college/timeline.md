@@ -1,11 +1,10 @@
 # Timeline
 
 TODO
-Oct 1:
-- VT #2
 Oct 8:
 - CSM #1
 - CSM #2
+- VT #2
 Oct 15:
 - PU #1
 - PU #2
