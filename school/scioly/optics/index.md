@@ -3,15 +3,16 @@
 - [Intro Notes](intro-notes.md)
 
 TODO
-- Lenses: convex, concave, plain; ray tracing; focal length; real,
-  virtual, erect, and inverted objects and images; magnification
-- Lens maker's equations & thin lense approxamation
+- Cameras
+- Telescopes
+- Human eye
 - Polarization: films & scattering, Brewster's angle
 - Color theory: additive & subtractive; primary & secondary colors; absorption
   & reflection
-- Structure and function of the human eye
 
 DONE
+- Structure and function of the human eye
+- Lens maker's equations & thin lense approxamation
 - Specular and diffuse reflection
 - Snell's law & critical angle
 - Index of refraction
@@ -22,6 +23,10 @@ DONE
 - Mirror focal length
 - Mirror virtual, erect, and inverted objects and images
 - Mirror magnification
+- Lens ray tracing
+- Lens focal length
+- Lens virtual, erect, and inverted objects and images
+- Lens magnification
 
 QUESTIONS
 - What is a "plain" mirror. I'm assuming it's a plane mirror

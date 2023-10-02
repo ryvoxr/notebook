@@ -1,14 +1,11 @@
 TODO
-- Clge - VT essays
-- Optc - Finish lenses, thin lense approxamation, lens maker's equations
-- Optc - Practice tests
+- Econ - What are Taxes?
+- Chem - Test Wednesday
+- Engl - None
 
 DONE
-- Hlth - Test tomorrow
+- Hlth - None
 - Phys - None
-- Econ - None
-- Stat - LinReg Analysis Ch 7 to 9
-- Calc - Slope and Rate of Change
-- Chem - Learn molecular structures
-- Engl - Read prelude to the illiad (don't)
+- Stat - Ch 9 Warpup
+- Calc - Derivative - Definition pt 1
 
