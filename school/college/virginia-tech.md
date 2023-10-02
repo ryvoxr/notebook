@@ -52,11 +52,11 @@ What made you set this goal for yourself? What is your timeline to achieve this
 goal? Who do you seek encouragement or guidance from as you work on this goal?
 (120)**
 
-At the end of my Junior year I was recruited by my school's elite Science
-Olympiad team for my technical expertise. I was asked to lead our multiple
-teams in three building events: optics, robot tour, and wind power. I set a
-personal goal at the beginning of the season: rank in the top five at States
-for each of the varsity teams I lead.
+I was recruited by my school's elite Science Olympiad team for my technical
+expertise. I was asked to lead our multiple teams in three building events:
+optics, robot tour, and wind power. I set a personal goal at the beginning of
+the season: rank in the top five at States for each of the varsity teams I
+lead.
 
 So far, I have held event meetings to organize information and start the design
 process. Before States, we will compete in several invitational tournaments to
