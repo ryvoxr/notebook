@@ -10,4 +10,5 @@
 - [Assessing the Economy](assessing-the-economy.tex)
 - [Inequality](inequality.md)
 - [Taxes](taxes.md)
+- [How many times is a dollar taxes](how-many-times-is-a-dollar-taxes.md)
 

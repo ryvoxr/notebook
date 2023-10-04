@@ -1,6 +1,6 @@
 # Optics
 
-- [Intro Notes](intro-notes.md)
+- [Notes](notes.tex)
 
 TODO
 - Cameras
