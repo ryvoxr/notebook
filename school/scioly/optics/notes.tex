@@ -8,7 +8,17 @@
 \usepackage[labelfont=bf]{caption}
 \usepackage[margin=1.25in]{geometry}
 
+\geometry{
+    a4paper,
+    left=3cm,
+    right=3cm,
+    top=3.5cm,
+    bottom=3.5cm,
+}
+
 \usetikzlibrary{arrows.meta}
+\definecolor{indigo}{RGB}{75,0,130}
+\definecolor{violet}{RGB}{148,0,211}
 
 \begin{document}
 \maketitle
@@ -139,24 +149,23 @@
 \end{figure}
 
 \begin{figure}[ht]
-    \begin{minipage}[b]{0.5\linewidth}
+    \begin{minipage}[t]{0.4\linewidth}
+        \subsubsection{Mirror Equation}
         \begin{gather}
             \frac{1}{f} = \frac{1}{d_o} + \frac{1}{d_i} \\
             f = \frac{d_o*d_i}{d_o + d_i} \\
             d_o = \frac{d_i*f}{d_i - f} \\
             d_i = \frac{d_o*f}{d_o - f}
         \end{gather}
-        \captionof{figure}{Mirror Equation}
-        \label{fig:mirror_eq}
     \end{minipage}
-    \begin{minipage}[b]{0.5\linewidth}
+    \hfill\vline\hfill
+    \begin{minipage}[t]{0.4\linewidth}
+        \subsubsection{Magnification Equation}
         \begin{gather}
             \frac{h_i}{h_o} = -\frac{d_i}{d_o} \\
             h_i = -\frac{d_i*h_o}{d_o} \\
             d_i = -\frac{h_i*d_o}{h_o}
         \end{gather}
-        \captionof{figure}{Magnification Equation}
-        \label{fig:mag_eq}
     \end{minipage}
 \end{figure}
 
@@ -167,7 +176,7 @@
         \centering
         \begin{tikzpicture}
             \draw (-2,0) -- (2,0);
-            \fill[ultra nearly transparent] (-2,0) rectangle (2,-2);
+            \fill[very nearly transparent] (-2,0) rectangle (2,-2);
             \fill[transparent] (-2,0) rectangle (2,2);
             \draw[dashed] (0,-2) -- (0,2);
             \path (1.5,0) node[above] {$n_1$} node[below] {$n_2$};
@@ -185,7 +194,7 @@
         \begin{tikzpicture}
             \draw (-2,0) -- (2,0);
             \fill[transparent] (-2,0) rectangle (2,-2);
-            \fill[ultra nearly transparent] (-2,0) rectangle (2,2);
+            \fill[very nearly transparent] (-2,0) rectangle (2,2);
             \draw[dashed] (0,-2) -- (0,2);
             \path (1.5,0) node[above] {$n_1$} node[below] {$n_2$};
 
@@ -198,5 +207,93 @@
         \label{fig:refraction2}
     \end{minipage}
 \end{figure}
+
+\newpage
+
+\begin{figure}[ht]
+    \begin{minipage}[t]{0.4\textwidth}
+        \subsection{Snell's Law}
+        \begin{gather}
+            n_1\sin\theta_1 = n_2\sin\theta_2 \\
+            \theta_2 = \sin^{-1}\left(\frac{n_1}{n_2}\sin\theta_2\right)
+        \end{gather}
+    \end{minipage}
+    \hfill\vline\hfill
+    \begin{minipage}[t]{0.4\textwidth}
+        \subsection{Index of Refraction}
+        \begin{gather}
+            n = \frac{c}{v} \\
+            v = \frac{c}{n}
+        \end{gather}
+    \end{minipage}
+\end{figure}
+
+\subsection{Total Internal Reflection}
+\begin{figure}[ht]
+    \begin{minipage}{0.6\linewidth}
+        \centering
+        \begin{tikzpicture}
+            \draw (-3,0) -- (3,0);
+            \fill[very nearly transparent] (-3,0) rectangle (3,-3);
+            \fill[transparent] (-3,0) rectangle (3,3);
+            \draw[dashed] (0,-3) -- (0,3);
+            \path (2.5,0) node[above] {$n_2$} node[below] {$n_1$};
+
+            \draw[dashed,-{Stealth[length=2mm]}] (0,0) ++(250:3.19) -- (0,0);
+            \draw (0,-1) arc [start angle=270, end angle=250, radius=1] ++(0.15,-0.3) node {$\theta_1$};
+            \draw[dashed,-{Stealth[length=2mm]}] (0,0) -- (50:3.92);
+            \draw (0,0.75) arc [start angle=90, end angle=50, radius=0.75] ++(-0.15,0.35) node {$\theta_2$};
+
+            \draw[line width=1pt,-{Stealth[length=2mm]}] (0,0) ++(238:3.54) -- (0,0);
+            \draw (0,-2) arc [start angle=270, end angle=238, radius=2] ++(0.6,-0.5) node {$\theta_c$};
+            \draw[line width=1pt,-{Stealth[length=2mm]}] (0,0) -- (3,0);
+        \end{tikzpicture}
+        \caption{Total Internal Reflection ($n_1 > n_2$)}
+        \label{fig:total_internal_reflection}
+    \end{minipage}%
+    \begin{minipage}{0.4\linewidth}
+        \begin{gather}
+            \theta_c = \sin^{-1}\left(\frac{n_2}{n_1}\right)
+        \end{gather}
+        \begin{itemize}
+            \item Critical angle ($\theta_c$) exists where angle of refraction is $90^\circ$
+            \item Ray does not leave initial medium
+            \item All $\theta_1$ greater than $\theta_c$ will result in total internal reflection
+        \end{itemize}
+    \end{minipage}
+\end{figure}
+
+\subsection{Dispersion}
+\begin{figure}[ht]
+    \begin{minipage}{0.6\linewidth}
+        \centering
+        \begin{tikzpicture}
+            \draw (-3,0) -- (3,0);
+            \fill[very nearly transparent] (-3,0) rectangle (3,-3);
+            \fill[transparent] (-3,0) rectangle (3,3);
+            \draw[dashed] (0,-3) -- (0,3);
+            \path (2.5,0) node[above] {$n_1$} node[below] {$n_2$};
+
+            \draw[-{Stealth[length=2mm]}] (0,0) ++(135:4.24) -- (0,0);
+            \draw[red,-{Stealth[length=2mm]}] (0,0) -- (-50:3.92);
+            \draw[orange,-{Stealth[length=2mm]}] (0,0) -- (-55:3.66);
+            \draw[yellow,-{Stealth[length=2mm]}] (0,0) -- (-60:3.46);
+            \draw[green,-{Stealth[length=2mm]}] (0,0) -- (-65:3.31);
+            \draw[blue,-{Stealth[length=2mm]}] (0,0) -- (-70:3.19);
+            \draw[indigo,-{Stealth[length=2mm]}] (0,0) -- (-75:3.11);
+            \draw[violet,-{Stealth[length=2mm]}] (0,0) -- (-80:3.05);
+        \end{tikzpicture}
+        \caption{Dispersion ($n_1 < n_2$)}
+    \end{minipage}%
+    \begin{minipage}{0.4\linewidth}
+        \begin{itemize}
+            \item $n$ is actuall a function of wavelength: $n(\lambda)$
+            \item as $\lambda$ increases, $n$ decreases
+            \item smaller $\lambda$ light refracts more than larger $\lambda$ light 
+        \end{itemize}
+    \end{minipage}
+\end{figure}
+
+
 
 \end{document}
