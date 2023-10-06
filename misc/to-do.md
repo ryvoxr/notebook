@@ -1,11 +1,11 @@
 TODO
-- Phys - Lab
-- Chem - Test tomorrow
-- Engl - Insults in Iliad
+- Engl - Illiad book 2
 
 DONE
 - Hlth - None
-- Econ - Find tax topic
-- Stat - Ladder of powers
-- Calc - Derivative definition
+- Phys - None
+- Econ - What is a shutdown?
+- Stat - Test tomorrow
+- Calc - What does f' tell us about f
+- Chem - IMF activity (Monday)
 

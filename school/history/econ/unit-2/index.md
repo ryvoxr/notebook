@@ -11,4 +11,6 @@
 - [Inequality](inequality.md)
 - [Taxes](taxes.md)
 - [How many times is a dollar taxes](how-many-times-is-a-dollar-taxes.md)
+- [Federal Spending](federal-spending.md)
+- [What is a Shutdown](what-is-a-shutdown.md)
 
