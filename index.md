@@ -22,6 +22,8 @@
 
 ## Misc
 
+- [Articles](articles/index.md)
+- [Recompositions](recompositions/index.md)
 - [Trains](trains/index.md)
 - [FRC](frc/index.md)
 - [D&D](dnd/index.md)
