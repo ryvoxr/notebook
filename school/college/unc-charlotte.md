@@ -1,3 +1,11 @@
+---
+geometry: margin=2cm
+header-includes:
+    - \usepackage{setspace}
+    - \doublespacing
+    - \usepackage{lineno}
+---
+
 # UNC Charlotte
 
 **Please describe why you are interested in attending UNC Charlotte. Your
@@ -22,5 +30,5 @@ part of their engineering college. Instead, the Computer Science program is
 contained inside of the College of Computing and Informatics. This separation
 of computing and engineering is exciting to me. At UNC Charlotte, instead of
 spending class hours learning engineering concepts tangential to my major, I
-look forward to focusing on Computer Science topics that interest me most.
+look forward to focusing on Computer Science topics that interest me the most.
 

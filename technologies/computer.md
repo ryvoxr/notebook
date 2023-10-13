@@ -2,7 +2,7 @@
 
 Display server -> X11
 Window manager -> dwm
-Audio manager -> pulseaudio + alsa
+Audio -> pulseaudio
 Text editor -> neovim
 Web browser -> qutebrowser
 Email server -> henryoehlrich.xyz

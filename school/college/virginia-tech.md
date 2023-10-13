@@ -1,3 +1,11 @@
+---
+geometry: margin=2cm
+header-includes:
+    - \usepackage{setspace}
+    - \doublespacing
+    - \usepackage{lineno}
+---
+
 # Virginia Tech
 
 [https://www.vt.edu/admissions/undergraduate/apply/freshman-checklist.html](https://www.vt.edu/admissions/undergraduate/apply/freshman-checklist.html.md)

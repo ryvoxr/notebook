@@ -1,3 +1,11 @@
+---
+geometry: margin=2cm
+header-includes:
+    - \usepackage{setspace}
+    - \doublespacing
+    - \usepackage{lineno}
+---
+
 # Common App Essay (600)
 
 **Describe a topic, idea, or concept you find so engaging that it makes you lose
@@ -7,11 +15,11 @@ you want to learn more?**
 One idea has captured my mind for the better part of my life: a system so
 complex that it's often associated with magic, yet so beautifully simple and
 modular that an experienced user can construct one to meet their exact needs
-and wield with great power and speed. A computer. More specifically, I am
-captivated by computer programming and software. The innumerable layers from
-low-level device drivers and the shell, to a graphical interface and
-user-facing applications, coming together to create the most widely used tool
-of the 21st century. 
+and wield one with great power and speed. That idea is a computer. More
+specifically, I am captivated by computer programming and software. The
+innumerable layers from low-level device drivers and the shell, to a graphical
+interface and user-facing applications, coming together to create the most
+widely used tool of the 21st century. 
 
 Not all computers are created equally; some are common Windows installations,
 others are Macs, most are graphic-less virtualised computers on servers. I've

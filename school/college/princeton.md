@@ -17,6 +17,8 @@ classmates learn from you? In short, how has your lived experience shaped you?
 to society through service and civic engagement. How does your own story
 intersect with these ideals? (250)**
 
+makeable
+
 **What is a new skill you would like to learn in college?**
 
 **What brings you joy?**

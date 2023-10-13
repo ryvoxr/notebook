@@ -1,3 +1,11 @@
+---
+geometry: margin=2cm
+header-includes:
+    - \usepackage{setspace}
+    - \doublespacing
+    - \usepackage{lineno}
+---
+
 # NC State
 
 **Explain why you selected the academic program(s) above and why you are
@@ -7,7 +15,7 @@ At school I'm the kid with the thick laptop; the one who makes the fancy lab
 reports; the one who refuses to use Google Docs; the one they call a hacker.
 Guilty as charged! I'm a Lenovo X220 using, LaTeX writing, Google Docs
 avoiding, Linux enjoying programmer. Some programmers will tell you with their
-words that they're a coder, fewer will tell you with their actions.
+words that they're a coder, fewer will show you with their actions.
 
 For the last decade I have dedicated nearly all of my free time towards
 programming, computers, and robotics. I was the sole programmer for the FRC
@@ -17,13 +25,14 @@ their building events. At school, teachers enlisted me to write programs to
 generate schedules for school-wide events. While I've significantly honed my
 skills, I have yet to partake in a formal and rigorous computer science
 curriculum. NC State's College of Engineering's Computer Science major offers
-the depth and breadth of programming instruction I yearn for.
+the depth and breadth of programming instruction that will prepare me for the
+future.
 
 While I've learned an immense amount through my own experience of building
 things, I understand that there is a significant amount of underlying theory,
 history, and knowledge that I've yet to be fully exposed to. At NC State I hope
-to foster my understanding of the foundations of Computer Science as well as
-dive deep into what interests me most.
+to foster my understanding of the foundations of Computer Science and dive deep
+into the things that interest me the most.
 
 **Discuss any other obstacles and/or hardships that you have encountered that
 have affected you personally or academically and how you dealt with them.
@@ -32,7 +41,7 @@ have affected you personally or academically and how you dealt with them.
 I struggled both academically and personally throughout my freshman year. I've
 been a strong student for my entire life: I do my homework, do well on quizzes
 and tests, and consistently place at the top of standardized assessments. My
-entire first year of high school revolved around COVID-19. During this year,
+entire first year of high school was impacted by COVID-19. During this year,
 for the first time ever in my life, I wasn't engaged in class, I failed to
 complete homework, and my grades plummeted.
 

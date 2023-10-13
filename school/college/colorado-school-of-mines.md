@@ -1,3 +1,11 @@
+---
+geometry: margin=2cm
+header-includes:
+    - \usepackage{setspace}
+    - \doublespacing
+    - \usepackage{lineno}
+---
+
 # Colorado School of Mines
 
 **Reflect on a time when you had to collaborate with individuals from diverse
@@ -12,7 +20,7 @@ participate on each event's Varsity team.
 
 Throughout the beginning of the season, I worked closely with over thirty
 students. Each student, regardless of their experience level, brought their own
-ideas, skills, and commmitment.
+ideas, skills, and commitment.
 
 Importance of inclusivity: Giving people a chance to improve turns them into
 future experienced people and leaders
