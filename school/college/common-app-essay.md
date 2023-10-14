@@ -3,7 +3,6 @@ geometry: margin=2cm
 header-includes:
     - \usepackage{setspace}
     - \doublespacing
-    - \usepackage{lineno}
 ---
 
 # Common App Essay (600)

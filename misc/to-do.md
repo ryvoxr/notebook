@@ -1,4 +1,5 @@
 TODO
+- Finish Common App Personal Statement
 
 DONE
 - Hlth - None
