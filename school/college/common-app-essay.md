@@ -11,6 +11,8 @@ header-includes:
 all track of time. Why does it captivate you? What or who do you turn to when
 you want to learn more?**
 
+:e common-app-essay.md
+
 One idea has captured my mind for the better part of my life: a system so
 complex that it's often associated with magic, yet so beautifully simple and
 modular that an experienced user can construct one to meet their exact needs
@@ -56,6 +58,11 @@ not, instead of deliberately searching for more things to learn, I find myself
 stumbling across new concepts and information when problem solving and working
 on projects.
 
-*need conclusion*
+When taken at face value, the computer seemed like an impossible feat of
+engineering. But, as I peeled back the layers over the years, the elegance,
+simplicity, and power became clear. Programming is how I connect with the
+computer in a deeper way. Programming allows me to interface with the very
+system that catapulted human progress forward. Most importantly, programming
+allows for me to create.
 
 ZZ
