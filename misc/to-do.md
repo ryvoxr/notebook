@@ -1,12 +1,11 @@
 TODO
-- Finish Common App Personal Statement
+- Chem - AP Classroom Video 3.3 and wksht
+- Engl - None
 
 DONE
 - Hlth - None
-- Phys - None
-- Econ - National Debt
-- Stat - Simulation Basics
-- Calc - Motion
-- Chem - None
-- Engl - None
+- Phys - Lab Report
+- Econ - None
+- Stat - Conduct simulation
+- Calc - Samle test (intro to deriv)
 

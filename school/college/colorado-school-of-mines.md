@@ -31,6 +31,8 @@ considering? What has inspired your interests in these areas? Think about your
 prior/current coursework, extracurricular activities, work/volunteer
 experiences, future goals, or anything else that has shaped your interests. (250)**
 
+*update after finalizing NCSU #1*
+
 At school I'm the kid with the thick laptop; the one who makes the fancy lab
 reports; the one who refuses to use Google Docs; the one they call a hacker.
 Guilty as charged! I'm a Lenovo X220 using, LaTeX writing, Google Docs

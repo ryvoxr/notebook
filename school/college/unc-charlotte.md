@@ -13,6 +13,8 @@ statement lets us get to know you beyond your coursework and test scores. Your
 response will distinguish you from other qualified candidates within the
 applicant pool. (250)**
 
+*update after finalizing NCSU #1*
+
 For the last decade I have dedicated most of my free time towards programming,
 computers, and robotics. I was the sole programmer for the FRC team that my
 friends and I founded and ran out of my garage my Junior year. My long-time
