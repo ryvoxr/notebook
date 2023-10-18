@@ -1,3 +1,11 @@
+---
+geometry: margin=2cm
+header-includes:
+    - \usepackage{setspace}
+    - \doublespacing
+    - \usepackage{lineno}
+---
+
 # Common App Activities Section
 
 ### Activity 1

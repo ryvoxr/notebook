@@ -1,11 +1,10 @@
 TODO
-- Chem - AP Classroom Video 3.3 and wksht
-- Engl - None
 
 DONE
-- Hlth - None
-- Phys - Lab Report
-- Econ - None
-- Stat - Conduct simulation
-- Calc - Samle test (intro to deriv)
-
+- Hlth - 
+- Phys - 
+- Econ - 
+- Stat - 
+- Calc - 
+- Chem - 
+- Engl - 
