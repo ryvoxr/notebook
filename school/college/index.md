@@ -14,7 +14,6 @@ STARTED:
 - [Colorado School of Mines](colorado-school-of-mines.md) (Nov 1)
 
 RD (NEED EDIT):
-- [UNC Charlotte](unc-charlotte.md) (Nov 1)
 
 RD (NEED REVIEW):
 - [Common App Activities](common-app-activities.md) (Nov 1)
@@ -22,4 +21,5 @@ RD (NEED REVIEW):
 DONE:
 - [Common App Essay](common-app-essay.md) (Nov 1)
 - [NC State](nc-state.md) (Nov 1)
+- [UNC Charlotte](unc-charlotte.md) (Nov 1)
 

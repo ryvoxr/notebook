@@ -13,19 +13,22 @@ statement lets us get to know you beyond your coursework and test scores. Your
 response will distinguish you from other qualified candidates within the
 applicant pool. (250)**
 
-*update after finalizing NCSU #1*
+I've lived my entire life in North Carolina. When I first heard of UNC
+Charlotte I was immediately impressed with its Computing program.
 
-For the last decade I have dedicated most of my free time towards programming,
-computers, and robotics. I was the sole programmer for the FRC team that my
-friends and I founded and ran out of my garage my Junior year. My long-time
-hobby of speedcubing intersected with my chief interest of programming when I
-created a terminal interface in Rust for timing and tracking my Rubik's Cube
-solves. I've also developed numerous other applications from tiling window
-managers to websites using Rust and Web Assembly. While I've significantly
-honed my skills, I have yet to partake in a formal and rigorous computer
-science curriculum. UNC Charlotte's College of Computing and Informatics'
-Computer Science major offers the depth and breadth of programming instruction
-that will prepare me for the future.
+My chief interest, and recipient of the largest portion of my time, is
+programming and computer science. My life inside and outside the classroom, in
+structured activities and in free time, revolves around programming and
+computers. I write my school assignments in LaTeX, and have programmatically
+streamlined the homework process. In extracurriculars that require programming,
+I stand out as the most experienced and skilled member; in extracurriculars not
+directly related to computer science, I bring a unique skill set and way of
+thinking to the table. The majority of my unstructured time is spent developing
+personal projects, messing around with Linux, and assisting peers and teachers.
+I'm even helping a current college Sophomore with her CS homework and enjoying
+the coursework. At Charlotte I believe that my love of programming complemented
+with a strong courseload will develop my passion, knowledge, and skill in the
+field.
 
 Unlike most other universities, UNC Charlotte's Computer Science degree is not
 part of their engineering college. Instead, the Computer Science program is
