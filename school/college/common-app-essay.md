@@ -11,24 +11,21 @@ header-includes:
 all track of time. Why does it captivate you? What or who do you turn to when
 you want to learn more?**
 
-:e common-app-essay.md
-
 One topic continues to captivate me: a system so complex that it's often
 associated with magic, yet so beautifully simple and modular that an
 experienced user can construct one to meet their exact needs. I am captivated
 by computers, more specifically computer programming and software. The
 innumerable layers from low-level device drivers and the shell, to a graphical
-interface and user-facing applications, comes together to create the most
-widely used tool of the 21st century. 
+interface and user-facing applications, come together to create the most widely
+used tool of the 21st century. 
 
-Not all computers are created equally. Some computers are basic Windows
-installations, others are Macs, most are graphic-less virtualised computers on
-servers. I created mine to be a finely tuned, brutally efficient, GNU/Linux
-based machine that can run on nearly any hardware. The design philosophy behind
-my software setup is efficiency and speed. To that end, I use a modern variant
-of the legendary Vim, neovim, for all my text editing. This includes working on
-school assignments, editing system configuration files, and most importantly,
-programming.
+Some computers are basic Windows installations, others are Macs, most are
+graphic-less virtualised computers on servers. I created mine to be a finely
+tuned, brutally efficient, GNU/Linux based machine that can run on nearly any
+hardware. The design philosophy behind my software setup is efficiency and
+speed. To that end, I use a modern variant of the legendary Vim, neovim, for
+all my text editing. This includes working on school assignments, editing
+system configuration files, and most importantly, programming.
 
 I'm neither a talented artist nor an experienced musician, and I'm certainly
 not a good singer. But when I'm in the zone, in front of my monitor, coding, my
@@ -64,4 +61,3 @@ computer in a deeper way. Programming allows me to interface with the very
 system that catapulted human progress forward. Most importantly, programming
 allows me to create.
 
-ZZ
