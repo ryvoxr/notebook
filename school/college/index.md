@@ -16,10 +16,12 @@ STARTED:
 RD (NEED EDIT):
 
 RD (NEED REVIEW):
-- [Common App Activities](common-app-activities.md) (Nov 1)
 
 DONE:
-- [Common App Essay](common-app-essay.md) (Nov 1)
 - [NC State](nc-state.md) (Nov 1)
+- [Common App Essay](common-app-essay.md) (Nov 1)
+- [Common App Activities](common-app-activities.md) (Nov 1)
+
+SUBMITTED:
 - [UNC Charlotte](unc-charlotte.md) (Nov 1)
 

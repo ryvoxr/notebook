@@ -10,7 +10,7 @@ header-includes:
 
 ### Activity 1
 
-**Position/Leadership description (50 characters):** Co-founder, Programming Head, Mechanical Head
+**Position/Leadership description (50 characters):** Co-founder, Programming Lead, Mechanical Lead
 
 **Organization name (100 characters):** The Fellowship of the Whale - First Robotics Competition Team #9032
 
@@ -26,9 +26,9 @@ garage (7 members). Working elevator, arm, and intake. Sole programmer.
 **Organization name (100 characters):** Scouts BSA Troop 352
 
 **Please describe this activity, including what you accomplished and any
-recognition you received, etc. (150 characters):**
-Kept the Troop running as Senior Patrol Leader (head honcho) during the first
-COVID term. Currently a Life Scout with plans to achieve Eagle.
+recognition you received, etc. (150 characters):** 
+Ran the Troop as Senior Patrol Leader during the first COVID term. Currently a
+Life Scout with plans to achieve Eagle.
 
 ### Activity 3
 
@@ -38,8 +38,7 @@ COVID term. Currently a Life Scout with plans to achieve Eagle.
 
 **Please describe this activity, including what you accomplished and any
 recognition you received, etc. (150 characters):**
-The teacher sponsor recruited me for my technical expertise to help run
-building events. Lead 3 teams in 3 events (27 students)
+The teacher sponsor recruited me for my technical expertise to lead building events. Lead 3 teams in 3 events (27 students)
 
 ### Activity 4
 
@@ -60,7 +59,7 @@ BBS emulator, LaTeX notebook. Languages: C, Rust, Lua, Java, OCaml
 
 **Please describe this activity, including what you accomplished and any
 recognition you received, etc. (150 characters):**
-Practiced as a competitive speedcuber. Proficient in CFOP and ZZ. 3x3 personal
+Trained as a competitive speedcuber. Proficient in CFOP and ZZ. 3x3 personal
 bests: 7.15s single, 11.83s avg of 5.
 
 ### Activity 6
@@ -73,4 +72,48 @@ bests: 7.15s single, 11.83s avg of 5.
 recognition you received, etc. (150 characters):**
 Worked full time my senior summer. Worked dress, fries, and register.
 Continuing to work part time during school.
+
+### Activity 7
+
+**Position/Leadership description (50 characters):** Railfan and HAM radio operator
+
+**Organization name (100 characters):**
+
+**Please describe this activity, including what you accomplished and any
+recognition you received, etc. (150 characters):**
+Licensed amateur radio operator at the Technician level. Built mobile field
+monitoring system for Advanced Train Control System (ATCS) infrastructure.
+
+### Activity 8
+
+**Position/Leadership description (50 characters):** Leader for Dungeons and Dragons and Board Game club
+
+**Organization name (100 characters):**
+
+**Please describe this activity, including what you accomplished and any
+recognition you received, etc. (150 characters):**
+Oversaw D&D club, 3 campaigns/year, DM'ed for a year. Co-founded and led board
+game club. Fostered a multi-grade community of like-minded students.
+
+### Activity 9
+
+**Position/Leadership description (50 characters):** Landscaping sole proprietor
+
+**Organization name (100 characters):**
+
+**Please describe this activity, including what you accomplished and any
+recognition you received, etc. (150 characters):**
+Ran a sole proprietorship landscaping business. Mowing, trimming, edging,
+blowing, mulching, weeding. Fully funded Roth IRA each year of High School.
+
+### Activity 10
+
+**Position/Leadership description (50 characters):** Star Wars Club Council Member (leader)
+
+**Organization name (100 characters):**
+
+**Please describe this activity, including what you accomplished and any
+recognition you received, etc. (150 characters):**
+Co-founded school Star Wars club in 10th grade. Held weekly meetings, debates,
+and watch parties.
 
