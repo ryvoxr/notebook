@@ -1,10 +1,9 @@
 TODO
+- Stat - More on Samples (Friday)
+- Stat - Mini-Project NC (Monday)
+- Calc - Polynomials (Monday)
+- Chem - Virtual Chromatography lab (Monday)
 
 DONE
-- Hlth - 
-- Phys - 
-- Econ - 
-- Stat - 
-- Calc - 
-- Chem - 
-- Engl - 
+- Econ - Fiscal and Monetary Policy
+
