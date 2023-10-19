@@ -20,7 +20,7 @@ interface and user-facing applications, come together to create the most widely
 used tool of the 21st century. 
 
 Some computers are basic Windows installations, others are Macs, most are
-graphic-less virtualised computers on servers. I created mine to be a finely
+graphic-less virtualized computers on servers. I created mine to be a finely
 tuned, brutally efficient, GNU/Linux based machine that can run on nearly any
 hardware. The design philosophy behind my software setup is efficiency and
 speed. To that end, I use a modern variant of the legendary Vim, neovim, for

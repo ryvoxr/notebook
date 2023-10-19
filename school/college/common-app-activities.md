@@ -10,7 +10,7 @@ header-includes:
 
 ### Activity 1
 
-**Position/Leadership description (50 characters):** Co-founder, Programming Head, Mechanical Head
+**Position/Leadership description (50 characters):** Co-founder, Programming Lead, Mechanical Lead
 
 **Organization name (100 characters):** The Fellowship of the Whale - First Robotics Competition Team #9032
 
