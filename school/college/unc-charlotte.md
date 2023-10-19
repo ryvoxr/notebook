@@ -26,8 +26,8 @@ directly related to computer science, I bring a unique skill set and way of
 thinking to the table. I spend most of my unstructured time developing personal
 projects, messing around with Linux, and assisting peers and teachers. I'm even
 helping a current college Sophomore with her CS homework and enjoying the
-coursework. At Charlotte, I believe that my love of programming complemented
-by a strong course load will develop my passion, knowledge, and skill in the
+coursework. At Charlotte, I believe that my love of programming complemented by
+a strong course load will develop my passion, knowledge, and skill in the
 field.
 
 Unlike most universities, UNC Charlotte's Computer Science degree is not part
