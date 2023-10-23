@@ -8,3 +8,4 @@
 - [Deficits Debt Interest](assignments/deficits-debt-interest.md)
 - [National Debt](assignments/national-debt.md)
 - [Fiscal and Monetary Policy](assignments/fiscal-and-monetary-policy.md)
+- [Public Goods](assignments/public-goods.md)

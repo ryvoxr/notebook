@@ -1,9 +1,12 @@
 TODO
-- Stat - Mini-Project NC (Monday)
-- Calc - Polynomials (Monday)
-- Chem - Virtual Chromatography lab (Monday)
+- Phys - Energy lab
+- Stat - Experiments basics (Tuesday)
+- Stat - Mini-Project NC (Wednesday)
 
 DONE
-- Econ - Fiscal and Monetary Policy
-- Stat - More on Samples (Friday)
+- Hlth - None
+- Econ - Public Goods
+- Calc - Polynomials
+- Chem - Virtual Chromatography lab
+- Engl - None
 
