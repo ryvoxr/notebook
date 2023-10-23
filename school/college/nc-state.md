@@ -64,5 +64,5 @@ now and will continue to be.
 us about a time in which you used one or both of these skills to address a
 problem or a need, in or out of the classroom. (600) (Honors College)**
 
-*ethanol*
+Ethanol
 
