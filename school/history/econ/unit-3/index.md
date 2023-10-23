@@ -7,5 +7,7 @@
 - [Spending and Happiness](assignments/spending-and-happiness.md)
 - [Deficits Debt Interest](assignments/deficits-debt-interest.md)
 - [National Debt](assignments/national-debt.md)
+- [Scenario #2](scenario-#2.md)
 - [Fiscal and Monetary Policy](assignments/fiscal-and-monetary-policy.md)
 - [Public Goods](assignments/public-goods.md)
+- [Externalities](assignments/externalities.md)
