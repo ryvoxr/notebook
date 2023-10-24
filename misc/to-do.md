@@ -1,12 +1,12 @@
 TODO
-- Phys - Energy lab
-- Stat - Experiments basics (Tuesday)
-- Stat - Mini-Project NC (Wednesday)
 
 DONE
 - Hlth - None
-- Econ - Public Goods
-- Calc - Polynomials
-- Chem - Virtual Chromatography lab
+- Econ - Externalities
+- Phys - Notebook paper
+- Stat - Mini-Project NC (Wednesday)
+- Stat - Experiments basics
+- Calc - Exponential Functions
+- Chem - Heating curve
 - Engl - None
 

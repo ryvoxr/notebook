@@ -15,28 +15,186 @@
 \usepgfplotslibrary{statistics}
 \captionsetup[figure]{labelfont={bf}}
 
+\pgfplotstableread{data.dat}\data
+\pgfplotstableread{resid.dat}\resid
+\pgfplotstableread{sample1.dat}\sampleone
+\pgfplotstableread{sample2.dat}\sampletwo
+\pgfplotstableread{sample3.dat}\samplethree
+\pgfplotstableread{sample4.dat}\samplefour
+\pgfplotstableread{sample5.dat}\samplefive
+
 \begin{document}
 \maketitle
 
-\begin{figure}
+\section{Regression Analysis}
+
+\begin{figure}[h]
     \centering
     \begin{tikzpicture}
         \begin{axis}[
-                xlabel={Median Income},
+                xlabel={Voter Turnout},
                 ylabel={SAT Score},
+                width=\textwidth,
             ]
             \addplot +[only marks,mark size=1.5pt] table
-                {dat.dat};
+            {\data};
             \addplot table [
-                y={create col/linear regression={y=force}},
+                y={create col/linear regression={y=sat}},
                 mark=none,
             ]
-                {dat.dat};
+            {\data};
+            \addlegendentry{SAT vs. Voter Turnout(t)}
+            \addlegendentry{$\widehat{SAT} = \pgfmathprintnumber{\pgfplotstableregressionb} + \pgfmathprintnumber{\pgfplotstableregressiona} \cdot t$}
         \end{axis}
     \end{tikzpicture}
-    \caption{Scatterplot of Linearized Data}
+    \caption{Scatterplot}
     \label{fig:scatter}
 \end{figure}
 
+\begin{figure}[h]
+    \begin{minipage}{0.7\textwidth}
+        The slope of the regression line is $675.26$, which means that for
+        every one percent increase in voter turnout, the predicted SAT score
+        increases by $\pgfmathprintnumber{\pgfplotstableregressiona}$ points.
+        The correlation coefficient is $0.386$, which shows that there is a
+        weak positive correlation between voter turnout and SAT score. The
+        coefficient of determination is $0.149$, which means that $14.9\%$ of
+        the variation in SAT score can be explained by voter turnout.
+    \end{minipage}%
+    \hspace{0.05\textwidth}
+    \begin{minipage}{0.2\textwidth}
+        \centering
+        \begin{tabular}{l|l}
+            \toprule
+            Statistic & Value \\
+            \midrule
+            $\beta_1$ & $\pgfmathprintnumber{\pgfplotstableregressiona}$ \\
+            $r$ & $0.386$ \\
+            $R^2$ & $0.149$ \\
+            $\bar{t}$ & $0.599$ \\
+            $\overline{SAT}$ & $1407.35$ \\
+            \bottomrule
+        \end{tabular}
+    \end{minipage}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h]
+        \centering
+        \begin{tikzpicture}
+            \begin{axis}[
+                    xlabel={Voter Turnout},
+                    ylabel={Residual},
+                    width=0.8\textwidth,
+                ]
+                \addplot +[only marks,mark size=1.5pt] table
+                {\resid};
+            \end{axis}
+        \end{tikzpicture}
+        \caption{Residual Plot}
+        \label{fig:resid}
+\end{figure}
+
+A linear model is appropriate for this data because the plot of the
+explanatory variable against the response variable is \textit{straight
+enough} (Figure \ref{fig:scatter}) and the residual plot is random and
+has no pattern (Figure \ref{fig:resid}).
+
+\newpage
+
+\section{Sample Simulation}
+
+Five samples of sample size 5 were collected from the data set. For each entry
+of each sample, one county was randomly selected from the data set. Individual
+regressions were performed on each sample, and the results are shown in Figure
+\ref{fig:samples}.
+
+\begin{figure}[h]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+                width=\textwidth,
+                height=0.55\textwidth,
+                xlabel={Voter Turnout},
+                xtick={0.3,0.4,...,0.7},
+                ylabel={SAT Score},
+                legend pos=south east,
+            ]
+            \pgfplotstablecreatecol[linear regression={y=sat},]{regression}{\sampleone}
+            \xdef\slopeone{\pgfplotstableregressiona}
+            \addplot[dashdotted,domain=0.3:0.6] {\pgfplotstableregressionb+\pgfplotstableregressiona*x};
+
+            \pgfplotstablecreatecol[linear regression={y=sat},]{regression}{\sampletwo}
+            \xdef\slopetwo{\pgfplotstableregressiona}
+            \addplot[dashdotted,domain=0.3:0.6] {\pgfplotstableregressionb+\pgfplotstableregressiona*x};
+
+            \pgfplotstablecreatecol[linear regression={y=sat},]{regression}{\samplethree}
+            \xdef\slopethree{\pgfplotstableregressiona}
+            \addplot[dashdotted,domain=0.3:0.6] {\pgfplotstableregressionb+\pgfplotstableregressiona*x};
+
+            \pgfplotstablecreatecol[linear regression={y=sat},]{regression}{\samplefour}
+            \xdef\slopefour{\pgfplotstableregressiona}
+            \addplot[dashdotted,domain=0.3:0.6] {\pgfplotstableregressionb+\pgfplotstableregressiona*x};
+
+            \pgfplotstablecreatecol[linear regression={y=sat},]{regression}{\samplefive}
+            \xdef\slopefive{\pgfplotstableregressiona}
+            \addplot[dashdotted,domain=0.3:0.6] {\pgfplotstableregressionb+\pgfplotstableregressiona*x};
+
+            \pgfplotstablecreatecol[linear regression={y=sat},]{regression}{\data}
+            \addplot[red,domain=0.3:0.6] {\pgfplotstableregressionb+\pgfplotstableregressiona*x};
+
+            \addlegendentry{Sample 1}
+            \addlegendentry{Sample 2}
+            \addlegendentry{Sample 3}
+            \addlegendentry{Sample 4}
+            \addlegendentry{Sample 5}
+            \addlegendentry{Population}
+        \end{axis}
+    \end{tikzpicture}
+    \caption{Plot of Sample Regressions}
+    \label{fig:samples}
+\end{figure}
+
+\begin{figure}[ht]
+    \begin{minipage}{0.4\textwidth}
+        Figure \ref{fig:samples} shows that the regression lines of the samples
+        are all similar to each other in slope and intercent. Variance in the
+        intercepts of the samples and the slope of the population is random (two
+        lines above, three lines below). The histogram in Figure \ref{fig:hist}
+        shows the distribution of the slopes of the sample regressions.
+        Although their is no clear center (due to the small sample size), the
+        slope of the population is in the center of the distrobution. 2 samples
+        are to the left and 3 are to the right.
+    \end{minipage}%
+    \hspace{0.05\textwidth}
+    \begin{minipage}{0.6\textwidth}
+        \centering
+        \begin{tikzpicture}
+            \begin{axis}[
+                    width=\textwidth,
+                    height=0.6\textwidth,
+                    xlabel={Slope},
+                    ylabel={Frequency},
+                    xtick=data,
+                    ymin=0,
+                    ybar,
+                    tick align=outside,
+                ]
+                \addplot+[hist={bins=6,data min=200, data max=1400}]
+                table [row sep=\\,y index=0] {
+                    data\\
+                    \slopeone\\
+                    \slopetwo\\
+                    \slopethree\\
+                    \slopefour\\
+                    \slopefive\\
+                };
+            \end{axis}
+        \end{tikzpicture}
+        \caption{Histogram of Slopes of Sample Regressions}
+        \label{fig:hist}
+    \end{minipage}
+\end{figure}
 
 \end{document}
