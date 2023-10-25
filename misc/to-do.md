@@ -1,12 +1,12 @@
 TODO
+- Phys - Energy lab
+- Chem - Gas Laws problems (Monday)
 
 DONE
 - Hlth - None
-- Econ - Externalities
-- Phys - Notebook paper
-- Stat - Mini-Project NC (Wednesday)
-- Stat - Experiments basics
-- Calc - Exponential Functions
-- Chem - Heating curve
-- Engl - None
+- Econ - Exploring externalities
+- Stat - Experiments
+- Stat - Mini-Project NC
+- Calc - Product Rule
+- Engl - Iliad book 4
 
