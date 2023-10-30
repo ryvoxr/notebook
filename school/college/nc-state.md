@@ -64,5 +64,57 @@ now and will continue to be.
 us about a time in which you used one or both of these skills to address a
 problem or a need, in or out of the classroom. (600) (Honors College)**
 
-Ethanol
+The Power of One project is the final for the AP Environmental Science class at
+my high school. The goal is to embark on a self-directed project in order to
+make a positive difference in the environment. I identified that the lawn mower
+I used to cut grass every week ran on gasoline, a dirty fuel. In class, we
+learned about alternative fuels and the food waste disaster. Combining these
+ideas, I decided to attempt to power my lawn mower using ethanol created from
+food waste.
+
+I set a reasonable goal for myself to create 1 gallon of ethanol. Assuming a
+50% yield, I would need 40lbs of rotten fruits and vegetables. From my research
+on food waste, I knew that supermarkets and other food retailers generate an
+estimated 10 million tons of food waste per year. My local supermarkets were
+more than happy to provide me with a generous quantity of rotten fruits of all
+kinds.
+
+The first step in turning my biomass into ethanol was to bring it into a
+fermentable, liquid, state. Not having access to a mill, I purchased a
+second-hand 40 gallon steel drum. After school one day, I recruited a dozen of
+my friends to assist me in pulverizing the raw materials. For two hours at the
+park next to our school, we mashed the rotten fruit in the barrel with PVC
+pipe, tool handles, and big sticks.
+
+I fermented the mash by sealing it in the barrel with yeast for a week. When
+not in the presence of oxygen, yeast converts sugars to ethanol and carbon
+dioxide. The large barrel offered adequate room for expansion so the added
+pressure from the carbon dioxide didn't make it explode.
+
+While the mixture was fermenting, I began work on designing and building a
+still. A still separates a substance from the mixture through distillation. By
+heating the mixture to 174 degrees, the ethanol will evaporate leaving the
+water and other bits behind. I needed a way to capture the ethanol vapor and
+cool it back into a liquid. My approach was to force the gas into a copper pipe
+via a hole in the top of the heating pot and coil that pipe through an ice
+filled bucket. I cut a hole at the bottom of the bucket for the pipe to stick
+out and deposit liquid ethanol. Building the still turned out to be the most
+difficult part of the entire project. I ran into countless issues: the sealant
+melted and cracked, vapor escaped from the fittings and lid, the coil kinked
+and snapped, and many other problems. Finally, after numerous redesigns and
+tests with water, the still worked.
+
+Using my homemade still, I distilled ethanol from the fermented mash. This
+proved to be an incredibly time consuming and laborious process. I was using a
+one gallon pot and had nearly ten gallons of material to go through. Throughout
+the entire process, I had to keep the temperature perfect, too high and I would
+pollute my distillate with water, too low and nothing would evaporate. For the
+first couple potfulls, I pushed down on the lid with my hands to prevent steam
+from escaping my makeshift lid; for the remaining loads, I sat two heavy rocks
+on the lid. After nearly a full day of work, I was rewarded with slightly less
+than a gallon of 140 proof ethanol.
+
+After learning about my classmates' projects and sharing my project details in
+school, my peers voted my project first place. More importantly, I could now
+power my lawn mower using ethanol created from food waste.
 

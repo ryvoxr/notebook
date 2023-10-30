@@ -1,11 +1,11 @@
 TODO
-- Chem - Gas Laws problems (Monday)
-- Engl - Iliad book 5
+- Phys - Progress Check Unit 3
 
 DONE
 - Hlth - None
-- Phys - Energy lab
-- Econ - Unit 3 Topic Guide
-- Stat - That worksheet from class
-- Calc - Quotient Rule
+- Econ - Study
+- Stat - Sample Test Unit 3
+- Calc - Linear Approx
+- Chem - Gas Laws problems
+- Engl - Iliad book 5
 
