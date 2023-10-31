@@ -1,9 +1,10 @@
 TODO
-- Stat - Mini-Project NC (Monday)
-- Calc - Polynomials (Monday)
-- Chem - Virtual Chromatography lab (Monday)
+- Phys - Unit 3 FRQ (Wednesday)
+- Calc - First and second deriv wksht
+- Engl - Book 5 retellings
 
 DONE
-- Econ - Fiscal and Monetary Policy
-- Stat - More on Samples (Friday)
+- Econ - None
+- Stat - AP Practice
+- Chem - Test tomorrow
 

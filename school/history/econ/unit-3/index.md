@@ -9,5 +9,6 @@
 - [National Debt](assignments/national-debt.md)
 - [Scenario #2](scenario-#2.md)
 - [Fiscal and Monetary Policy](assignments/fiscal-and-monetary-policy.md)
+- [Public Goods](assignments/public-goods.md)
 - [Externalities](assignments/externalities.md)
 - [Public Policy Hearings](public-policy-hearings/index.md)
