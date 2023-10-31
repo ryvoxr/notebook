@@ -16,11 +16,11 @@ RD (NEED EDIT):
 RD (NEED REVIEW):
 
 DONE:
-- [NC State](nc-state.md) (Nov 1)
-- [Colorado School of Mines](colorado-school-of-mines.md) (Nov 1)
-- [Common App Essay](common-app-essay.md) (Nov 1)
-- [Common App Activities](common-app-activities.md) (Nov 1)
 
 SUBMITTED:
+- [Common App Essay](common-app-essay.md) (Nov 1)
+- [Common App Activities](common-app-activities.md) (Nov 1)
 - [UNC Charlotte](unc-charlotte.md) (Nov 1)
+- [Colorado School of Mines](colorado-school-of-mines.md) (Nov 1)
+- [NC State](nc-state.md) (Nov 1)
 

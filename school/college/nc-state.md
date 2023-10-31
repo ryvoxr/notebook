@@ -14,7 +14,7 @@ interested in studying these at NC State. (250)**
 I've lived my entire life in Raleigh and go to high school just five minutes
 from NC State. I had my mind set on going to State since I was in elementary
 school. As I got older and my interests matured, I knew I wanted to be a part
-of the wolfpack. 
+of the Wolfpack. 
 
 My chief interest, and recipient of the largest portion of my time, is
 programming and computer science. My life inside and outside the classroom, in
@@ -109,7 +109,7 @@ proved to be an incredibly time consuming and laborious process. I was using a
 one gallon pot and had nearly ten gallons of material to go through. Throughout
 the entire process, I had to keep the temperature perfect, too high and I would
 pollute my distillate with water, too low and nothing would evaporate. For the
-first couple potfulls, I pushed down on the lid with my hands to prevent steam
+first couple pots, I pushed down on the lid with my hands to prevent steam
 from escaping my makeshift lid; for the remaining loads, I sat two heavy rocks
 on the lid. After nearly a full day of work, I was rewarded with slightly less
 than a gallon of 140 proof ethanol.

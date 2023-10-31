@@ -1,11 +1,10 @@
 TODO
-- Phys - Progress Check Unit 3
+- Phys - Unit 3 FRQ (Wednesday)
+- Calc - First and second deriv wksht
+- Engl - Book 5 retellings
 
 DONE
-- Hlth - None
-- Econ - Study
-- Stat - Sample Test Unit 3
-- Calc - Linear Approx
-- Chem - Gas Laws problems
-- Engl - Iliad book 5
+- Econ - None
+- Stat - AP Practice
+- Chem - Test tomorrow
 
