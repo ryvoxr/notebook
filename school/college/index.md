@@ -24,3 +24,5 @@ SUBMITTED:
 - [Colorado School of Mines](colorado-school-of-mines.md) (Nov 1)
 - [NC State](nc-state.md) (Nov 1)
 
+PORTALS:
+- [Colorado School of Mines](https://apply.mines.edu/apply/status)
