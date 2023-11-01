@@ -11,3 +11,4 @@
 - [Fiscal and Monetary Policy](assignments/fiscal-and-monetary-policy.md)
 - [Public Goods](assignments/public-goods.md)
 - [Externalities](assignments/externalities.md)
+- [Public Policy Hearings](public-policy-hearings/index.md)
