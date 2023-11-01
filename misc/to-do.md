@@ -1,10 +1,10 @@
 TODO
-- Phys - Unit 3 FRQ (Wednesday)
-- Calc - First and second deriv wksht
+- Phys - Unit 3 FRQ 
+- Econ - Notes
+- Stat - None
+- Chem - None
+- Calc - Rates of Change
 - Engl - Book 5 retellings
 
 DONE
-- Econ - None
-- Stat - AP Practice
-- Chem - Test tomorrow
 

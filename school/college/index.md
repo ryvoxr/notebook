@@ -8,12 +8,12 @@ NOT STARTED:
 
 STARTED:
 - [Virginia Tech](virginia-tech.md) (Nov 15)
-- [Wisconsin-Madison](wisconsin-madison.md) (Nov 1)
-- [Princeton](princeton.md) (Nov 1)
+- [Wisconsin-Madison](wisconsin-madison.md) ()
 
 RD (NEED EDIT):
 
 RD (NEED REVIEW):
+- [Princeton](princeton.md) (Nov 1)
 
 DONE:
 
