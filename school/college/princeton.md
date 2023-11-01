@@ -24,7 +24,7 @@ thinking to the table.
 I spend the majority of my unstructured time developing personal projects,
 messing around with Linux, and assisting peers and teachers. I'm even helping a
 current college sophomore with her CS homework and enjoying the coursework. At
-Princeton I believe that my love of programming complemented with a strong
+Princeton, I believe that my love of programming complemented with a strong
 courseload will develop my passion, knowledge, and skill in the field.
 
 I love programming from the ground up and dislike coding with abstraction I don't
@@ -61,15 +61,15 @@ why I use Linux. When I understand something at its most fundamental level, the
 more complex topics built upon it come naturally to me. In programming, my
 dedication to mastering the basics has allowed me to achieve expertise.
 
-At the end of my junior year, my twice teacher, Mr. Hames, recruited me to lend
-my programming and engineering expertise to our school's varsity Science
-Olympiad team. I learned that after sharing my skills and knowledge with
-younger teammates, I knew the material better myself. The process of teaching
-someone else requires you to form your ideas into simple coherent sentences
-forcing you to connect with the information deeply. My math teacher, Mr Wajima,
-will often ask students who have questions to fully explain themselves. More
-often than not, the act of completely speaking their question out loud makes
-them understand immediately.
+At the end of my junior year, my teacher, Mr. Hames, recruited me to lend my
+programming and engineering expertise to our school's varsity Science Olympiad
+team. I learned that by sharing my skills and knowledge with younger teammates,
+I understood the material better myself. The process of teaching someone else
+requires you to form your ideas into simple coherent sentences forcing you to
+connect with the information deeply. My math teacher, Mr Wajima, will often ask
+students who have questions to fully explain themselves. More often than not,
+the act of completely speaking their question out loud makes them understand
+immediately.
 
 When there is not one clear answer to a question I have, I attempt to formulate
 an opinion based on observation and fact. I test these opinions by discussing
@@ -79,9 +79,9 @@ they are indefensible.
 
 During my time in high school, I met, befriended, and spoke with countless
 people from all backgrounds and beliefs. In economics class, due to its
-inherently sensitive and political nature, some of these differences are
+inherently sensitive and political nature, some of these differences were
 plainly revealed. Even as teenagers, we have strong beliefs. Engaging in
-respectful discussion and debates allowed us to explore alternative viewpoints,
+respectful discussion and debate allowed us to explore alternative viewpoints,
 challenge our own opinions, and broaden our perspectives. Furthermore, sharing
 our beliefs helped us bridge gaps between diverse backgrounds. It humanized
 economic theories making them relatable and enabling us to connect on a
@@ -102,13 +102,12 @@ imagine Boy Scouts as a group of teenage boys going out into the woods and
 learning survival skills. While we certainly do that, any scout will tell you
 that the real point is leadership and service. The overarching philosophy of my
 troop is servant leadership. This concept dictates that, no matter how high
-one's rank or position, he leads by example and through acts of service.
-
-As Senior Patrol Leader of my troop, I embodied that philosophy. Throughout my
+one's rank or position, he leads by example and through acts of service. As
+Senior Patrol Leader of my troop, I embodied that philosophy. Throughout my
 tenure, I learned that acts of service, both as a community and as individuals,
 are conducive to societal well-being and personally self-fulfilling.
 
-I've also applied this methodology to my life outside of scouts. In school and
+I also apply this methodology to my life outside of scouts. In school and
 extracurricular settings, I find it most productive to communicate through
 action and lead by example. For instance, in my First Robotics Competition
 team, I found it easiest to get people to clean up the shop by simply starting
