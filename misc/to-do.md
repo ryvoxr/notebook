@@ -1,10 +1,10 @@
 TODO
-- Phys - Unit 3 FRQ 
-- Econ - Notes
-- Stat - None
+- Calc - Rates of Change 
 - Chem - None
-- Calc - Rates of Change (Thursday)
 - Engl - Book 5 retellings
 
 DONE
+- Phys - None
+- Econ - Notes
+- Stat - None
 
