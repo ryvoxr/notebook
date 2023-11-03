@@ -26,3 +26,6 @@ SUBMITTED:
 
 PORTALS:
 - [Colorado School of Mines](https://apply.mines.edu/apply/status)
+- [NC State](https://apply.ncsu.edu/apply/status)
+- [Princeton](https://apply.princeton.edu/apply/status)
+- [UNC Charlotte](https://future49er.charlotte.edu/apply/status)
