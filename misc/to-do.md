@@ -1,10 +1,10 @@
 TODO
-- Calc - Rates of Change 
-- Chem - None
-- Engl - Book 5 retellings
+- Stat - Ch 14 Problem Set (Tuesday)
+- Chem - p153: #71, 3, 75, 81a, 81b, 83 (Tuesday)
+- Engl - Chapter 6
 
 DONE
-- Phys - None
-- Econ - Notes
-- Stat - None
+- Phys - Energy lab
+- Econ - Policy memo
+- Calc - Sample test
 
