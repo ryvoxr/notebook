@@ -1,10 +1,10 @@
 TODO
-- Stat - Ch 14 Problem Set (Tuesday)
-- Chem - p153: #71, 3, 75, 81a, 81b, 83 (Tuesday)
-- Engl - Chapter 6
+- Chem - p153: #71, 3, 75, 81a, 81b, 83  (Wednesday Nov 8)
 
 DONE
-- Phys - Energy lab
-- Econ - Policy memo
-- Calc - Sample test
+- Phys - Test tomorrow
+- Econ - Policy 
+- Stat - Ch 14 Problem Set 
+- Calc - Test tomorrow
+- Engl - None
 

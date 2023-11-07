@@ -1,7 +1,20 @@
-\documentclass{article}
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{epigraph}
+\usepackage[notes,natbib,isbn=false,backend=biber]{biblatex-chicago}
+
+\doublespacing
+\geometry{
+    a4paper,
+    margin=1in,
+    top=1in,
+}
+\bibliography{refs.bib}
 
 \title{A Deficit-Neutral Tax Reform Proposal}
-\author{Henry Oehlrich}
+\author{Henry Oehlrich \and Laith Alia \and Sabe Harrison}
+\date{}
 
 \begin{document}
 
@@ -28,24 +41,25 @@ and more accessible.
 
 A common misconception about taxes is that the rich will pay more if tax rates
 are higher. This has been proven to be false. According to data from the
-Federal Reserve Bank of St. Louis, Federal tax revenue as a percentage of GDP
-has remained constant for the last 70 years. Throughout this time period, the
-highest marginal tax rate has reached as high as 90\% and has dipped as low as
-28\%. This phenomenon can largely be attributed to the fact that high taxes
-lower the incentive to make money. On the other hand, when tax rates are low,
-the incentive to innovate, take risks, and work hard is returned and the
-economy is more productive. By lowering tax rates, total tax revenue will not
-decrease significantly and all Americans will have more agency over their own
-money.
+Federal Reserve Bank of St Louis, Federal tax revenue as a percentage of GDP
+has remained constant for the last 70 years\autocite{revenueaspercentofgdp},
+the highest marginal tax rate has reached as high as 90\% and has dipped as low
+as 28\%\autocite{taxbrackets}. This phenomenon can largely be attributed to the
+fact that high taxes lower the incentive to make money. On the other hand, when
+tax rates are low, the incentive to innovate, take risks, and work hard is
+returned and the economy is more productive. By lowering tax rates, total tax
+revenue will not decrease significantly and all Americans will have more agency
+over their own money.
 
 During World War Two, America's 90\% tax bracket didn't bring in that much more
 money. Because the high rates discouraged work, President Kennedy backed a bill
-that lowered the top rate to 70\%. During this time, despite the 70\% rate, a
-millionaire on average paid 41\% of their income in taxes. Instead of investing
-in new innovation, the rich invested in tax shelters and accountants. Ronald
-Reagan collaborated with the Democrats to lower the tax rate in exchange for
-consolidating the tax code. Our proposal is similar to this bipartisan tax
-reform.
+that lowered the top rate to 70\%\autocite{revenueactof1964}. During this time,
+despite the 70\% rate, a millionaire on average paid 41\% of their income in
+taxes. Instead of investing in new innovation, the rich invested in tax
+shelters and accountants. Ronald Reagan collaborated with the Democrats to
+lower the tax rate in exchange for consolidating the tax
+code.\autocite{revenueactof1986} Our proposition is similar to that bipartisan
+tax reform.
 
 The reform proposed here is deficit-neutral. This means that the revenue gained
 from closing loopholes will outweigh the cuts to tax rates. Specifically, we
@@ -55,5 +69,17 @@ the mortgage interest deduction. In terms of tax rates, we suggest to cut the
 corporate tax rate from 21\% to 15\%, reform the income tax rates from a
 seven-rate structure to a bi-rate structure of 12\% and 25\%, and lessen the
 capital gains and dividends tax rate from 23.8\% to 20\%.
+
+Critics of this plan might argue that exemptions for environmentally friendly
+behavior should remain. We believe that although those exemptions have good
+intentions, the negative effects from artificially increasing demand in certain
+sectors is severely detrimental to the economy. Some exemptions are beneficial,
+though. For example, we plan to not change the charitable donation deduction.
+The charitable donation deduction allows for individuals and companies to
+support certified organizations. Unlike many other deductions, this is
+accessible to the average person.
+
+In conclusion, our plan will simplify the tax code, lower rates across the
+board, and put more power in the hands of the American people.
 
 \end{document}
