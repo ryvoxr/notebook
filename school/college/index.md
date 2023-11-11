@@ -7,12 +7,11 @@ NOT STARTED:
 - [Carnegie Mellon](carnegie-mellon.md) (Jan 3)
 
 STARTED:
-- [Wisconsin-Madison](wisconsin-madison.md) (Jan 3)
-- [Virginia Tech](virginia-tech.md) (Nov 15)
 
 RD (NEED EDIT):
 
 RD (NEED REVIEW):
+- [Virginia Tech](virginia-tech.md) (Nov 15)
 
 DONE:
 
@@ -29,3 +28,7 @@ PORTALS:
 - [NC State](https://apply.ncsu.edu/apply/status)
 - [Princeton](https://apply.princeton.edu/apply/status)
 - [UNC Charlotte](https://future49er.charlotte.edu/apply/status)
+
+INTERVIEW:
+- [Princeton Questions](princeton-questions.md)
+

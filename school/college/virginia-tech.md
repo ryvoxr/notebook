@@ -35,7 +35,18 @@ person or group experience the same situation)? How did you respond or wish you
 would have responded? Did your viewpoint change in any way after this
 experience? (120)**
 
-Maybe talk about economics
+Before the start of this year, I had done a considerable amount of reading on
+economics and had crafted my own opinion. The population of my school leans
+strongly one direction politically. In economics class, where the discussions
+are inherently political, I found that my opinion was contrary to the more
+popular one.
+
+I'm attempting to respectfully challenge the widely held opinion. While most of
+my peers hear me out and engage in productive open discourse with me, there
+have been times where I have been yelled at and told that I am wrong or what
+I'm saying simply isn't true. In response to this, I remained steadfast and
+presented my well-researched arguments, maintaining a commitment to civil
+discourse even in the face of nonproductive agression.
 
 **Share a time when you were most proud of yourself either as a role model or
 when you displayed your leadership. What specific skills did you contribute to
