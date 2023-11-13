@@ -1,10 +1,22 @@
-TODO
-- Phys - Haliday Problem Sets 9 & 10
-- Econ - Trade and peace
-- Stat - Formal Prob pt 1
-- Chem - submit ch 4 hw
+SCHOOL
+- Phys - Haliday Problem Set 9
 - Engl - Maybe keep reading
 
+COLLEGE
+- VT - Edit rough draft
+- PU - Write more questions for interview
+
+SCIOLY
+- Robot - Print v2 of the chassis
+- Optcs - Make le box
+
+PERSONAL
+- Get Lahari chapstick
+
 DONE
-- Calc - Chain rule
+- Turn the resignation letter in
+- Econ - Highly specialized jobs
+- Stat - Formal prob pt 2
+- Calc - Chain rule day 2
+- Chem - Photoelectric effect problems
 

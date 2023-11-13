@@ -11,7 +11,6 @@ STARTED:
 RD (NEED EDIT):
 
 RD (NEED REVIEW):
-- [Virginia Tech](virginia-tech.md) (Nov 15)
 
 DONE:
 
@@ -22,6 +21,7 @@ SUBMITTED:
 - [Colorado School of Mines](colorado-school-of-mines.md) (Nov 1)
 - [NC State](nc-state.md) (Nov 1)
 - [Princeton](princeton.md) (Nov 1)
+- [Virginia Tech](virginia-tech.md) (Nov 15)
 
 PORTALS:
 - [Colorado School of Mines](https://apply.mines.edu/apply/status)
