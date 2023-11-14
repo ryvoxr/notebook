@@ -35,16 +35,26 @@ person or group experience the same situation)? How did you respond or wish you
 would have responded? Did your viewpoint change in any way after this
 experience? (120)**
 
-Maybe talk about economics
+Before the start of school, I did a considerable amount of reading on economics
+and had crafted my own opinion. The population of my school leans strongly one
+direction politically. In economics class, where the discussions are inherently
+political, I found that my opinion was contrary to the more popular one.
+
+I'm attempting to respectfully challenge the widely held opinion. While most of
+my peers engage in productive open discourse with me, there have been times
+where I have been yelled at and told that I am wrong or what I'm saying simply
+isn't true. In response to this, I remained steadfast and presented my
+well-researched arguments, maintaining a commitment to civil discourse even in
+the face of nonproductive agression.
 
 **Share a time when you were most proud of yourself either as a role model or
 when you displayed your leadership. What specific skills did you contribute to
 the experience? How did others rely on you for guidance? What did you learn
 about yourself during this time? (120)**
 
-At the end of my Junior year, I helped run a First Robotics Competition team
-out of my garage. A FRC team is usually large and heavily organized, but my
-team consisted of just six other friends. 
+During my Junior year, I helped run a First Robotics Competition team out of my
+garage. A FRC team is usually large and heavily organized, but my team
+consisted of just six other friends. 
 
 At the first competition, as the one who had the most technical experience, I
 took the reigns and lead our team. I both delegated responsibility to others
@@ -53,7 +63,8 @@ collaborated with me to fix the problem. One time, when our robot's intake
 broke, I ensured everyone's opinion was heard and considered; then we decided
 on the best course of action.
 
-Throughout this experience I learned that I work better under stress.
+This experience taught me that I am an effective leader and work well under
+stress.
 
 **Describe a goal that you have set and the steps you will take to achieve it.
 What made you set this goal for yourself? What is your timeline to achieve this
@@ -67,8 +78,8 @@ the season: rank in the top five at States for each of the varsity teams I
 lead.
 
 So far, I have held event meetings to organize information and start the design
-process. Before States, we will compete in several invitational tournaments to
-track our improvement. For advice, encouragement, and feedback I will reach out
-to our teacher sponsor. For event-specific tips, I have connected to teachers
-with extensive knowledge in the subject.
+process. Before States, we will compete in several invitational tournaments for
+practice and to track our improvement. For advice, encouragement, and feedback
+I will reach out to our teacher sponsor. For event-specific tips, I have
+connected to teachers with extensive knowledge in the subject.
 

@@ -1,0 +1,4 @@
+#!/bin/bash
+pdflatex --output-directory /tmp essay.tex
+biber --input-directory /tmp --output-directory /tmp essay
+pdflatex --output-directory /tmp essay.tex
