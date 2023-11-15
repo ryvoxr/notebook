@@ -25,10 +25,9 @@ SUBMITTED:
 
 PORTALS:
 - [Colorado School of Mines](https://apply.mines.edu/apply/status)
-- [NC State](https://apply.ncsu.edu/apply/status)
-- [Princeton](https://apply.princeton.edu/apply/status)
+- [NC State](https://apply.ncsu.edu/apply/status) 
+- [Princeton](https://apply.princeton.edu/apply/status) (hoehlrich@raleighcharterhs.org)
 - [UNC Charlotte](https://future49er.charlotte.edu/apply/status)
 
 INTERVIEW:
 - [Princeton Questions](princeton-questions.md)
-
