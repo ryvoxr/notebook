@@ -1,5 +1,7 @@
 SCHOOL
-- Phys - Haliday Problem Set 9
+- Phys - Haliday Problem Set 10
+- Stat - Reversing Conditional
+- Chem - Photoelectric thingamabober FRQs
 - Engl - Maybe keep reading
 
 COLLEGE
@@ -15,8 +17,6 @@ PERSONAL
 
 DONE
 - Turn the resignation letter in
-- Econ - Highly specialized jobs
-- Stat - Formal prob pt 2
-- Calc - Chain rule day 2
-- Chem - Photoelectric effect problems
+- Econ - Absolute & Comparative ADvantage
+- Calc - wait nevermind i found it
 
