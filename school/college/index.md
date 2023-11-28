@@ -5,6 +5,7 @@
 NOT STARTED:
 - [Washington at St. Louis](washington-at-st.-louis.md) (Jan 3)
 - [Carnegie Mellon](carnegie-mellon.md) (Jan 3)
+- [Georgia Tech]
 
 STARTED:
 
@@ -24,6 +25,7 @@ SUBMITTED:
 - [Virginia Tech](virginia-tech.md) (Nov 15)
 
 PORTALS:
+- [Virginia Tech](https://login.vt.edu/profile/SAML2/Redirect/SSO?execution=e1s1#/)
 - [Colorado School of Mines](https://apply.mines.edu/apply/status)
 - [NC State](https://apply.ncsu.edu/apply/status) 
 - [Princeton](https://apply.princeton.edu/apply/status) (hoehlrich@raleighcharterhs.org)

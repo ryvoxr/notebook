@@ -1,22 +1,10 @@
 SCHOOL
-- Phys - Haliday Problem Set 10
-- Stat - Reversing Conditional
-- Chem - Photoelectric thingamabober FRQs
-- Engl - Maybe keep reading
-
-COLLEGE
-- VT - Edit rough draft
-- PU - Write more questions for interview
-
-SCIOLY
-- Robot - Print v2 of the chassis
-- Optcs - Make le box
-
-PERSONAL
-- Get Lahari chapstick
+- Calc - Related rates pt 1
+- Chem - pg 152: #49, 51, 52
+- Engl - Get A Christmas Carol
 
 DONE
-- Turn the resignation letter in
-- Econ - Absolute & Comparative ADvantage
-- Calc - wait nevermind i found it
+- Phys - Finish Progress Check
+- Econ - None
+- Stat - Geometric model
 
