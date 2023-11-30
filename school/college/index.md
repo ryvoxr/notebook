@@ -25,7 +25,7 @@ SUBMITTED:
 - [Virginia Tech](virginia-tech.md) (Nov 15)
 
 PORTALS:
-- [Virginia Tech](https://login.vt.edu/profile/SAML2/Redirect/SSO?execution=e1s1#/)
+- [Virginia Tech](https://admit.vt.edu/portal/status?tab=app)
 - [Colorado School of Mines](https://apply.mines.edu/apply/status)
 - [NC State](https://apply.ncsu.edu/apply/status) 
 - [Princeton](https://apply.princeton.edu/apply/status) (hoehlrich@raleighcharterhs.org)
