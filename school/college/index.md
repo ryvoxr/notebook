@@ -5,7 +5,7 @@
 NOT STARTED:
 - [Washington at St. Louis](washington-at-st.-louis.md) (Jan 3)
 - [Carnegie Mellon](carnegie-mellon.md) (Jan 3)
-- [Georgia Tech]
+- [Georgia Tech](georgia-tech.md) (Jan 4)
 
 STARTED:
 
