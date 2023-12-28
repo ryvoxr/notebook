@@ -11,7 +11,7 @@
 
 ### Misc
 
-- [Research Project](research-project/index.md)
+- [Research Project](econ/research-project/index.md)
 
 ## APUSH
 

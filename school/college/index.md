@@ -28,8 +28,8 @@ PORTALS:
 - [Virginia Tech](https://admit.vt.edu/portal/status?tab=app)
 - [Colorado School of Mines](https://apply.mines.edu/apply/status)
 - [NC State](https://apply.ncsu.edu/apply/status) 
-- [Princeton](https://apply.princeton.edu/apply/status) (hoehlrich@raleighcharterhs.org)
 - [UNC Charlotte](https://future49er.charlotte.edu/apply/status)
+- [Georgia Tech](https://application.gatech.edu/apply/status)
 
 INTERVIEW:
 - [Princeton Questions](princeton-questions.md)

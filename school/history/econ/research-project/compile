@@ -1,0 +1,6 @@
+#!/bin/bash
+
+pdflatex essay
+biber essay
+pdflatex essay
+pdflatex essay

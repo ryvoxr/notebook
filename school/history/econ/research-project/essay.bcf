@@ -3543,19 +3543,9 @@
     <bcf:datasource type="file" datatype="bibtex">refs.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">fredmoneysupply</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">macrotrendsdow</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">americaneconomy20s</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">stockmarketcrash</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">nber</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">nber</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">nber</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">economistssmoothawley</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">peddlingprotectionism</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">nber</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">hhplm</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">amonetaryhistory</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">nber</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">merton1936</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">hayek1945</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">econlib2023</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">

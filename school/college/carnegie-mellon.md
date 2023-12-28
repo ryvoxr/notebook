@@ -4,6 +4,20 @@
 or inspiration that’s developed over time – what passion or inspiration led you
 to choose this area of study? (300)**
 
+I'm seven years old and it's ten at night, way past my bedtime. I'm sitting on
+the edge of my bed, screwdriver in hand, with the pieces of my partially
+disassembled alarm clock neatly layed on my comforter. This isn't the first
+time I've taken apart my alarm clock tonight. Seven year-old me would tear
+apart Nerf guns, lightsabers, Rubik's cubes, anything of the sort trying to
+figure out how it worked.
+
+In fourth grade, my parents signed me up for a lego robotics camp at my school.
+Now instead of taking apart my toys, I was able to build contraptions of my own
+and design them to accomplish specific tasks. For the remainder of elementary
+and middle school, I competed on my schools First Lego League team at the
+highest level (in middle school 20 and 30 hour weeks were common). I loved the
+ability 
+
 1. Love to understand how things work
 2. Also love to make things
 3. The computer was a thinker. Very magical.
