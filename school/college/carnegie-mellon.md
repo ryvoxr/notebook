@@ -7,24 +7,29 @@ to choose this area of study? (300)**
 I'm seven years old and it's ten at night, way past my bedtime. I'm sitting on
 the edge of my bed, screwdriver in hand, with the pieces of my partially
 disassembled alarm clock neatly layed on my comforter. This isn't the first
-time I've taken apart my alarm clock tonight. Seven year-old me would tear
-apart Nerf guns, lightsabers, Rubik's cubes, anything of the sort trying to
-figure out how it worked.
+time I've taken apart my alarm clock tonight. Seven year-old me loved to tear
+apart Nerf guns, lightsabers, Rubik's cubes, and anything else of the sort
+to try and figure out how it worked.
 
-In fourth grade, my parents signed me up for a lego robotics camp at my school.
-Now instead of taking apart my toys, I was able to build contraptions of my own
-and design them to accomplish specific tasks. For the remainder of elementary
-and middle school, I competed on my schools First Lego League team at the
-highest level (in middle school 20 and 30 hour weeks were common). I loved the
-ability 
+In fourth grade, I joined a First Lego League team at my school. Now instead of
+taking apart my toys, I was able to design, build, and program contraptions of
+my own to accomplish specific tasks. For the remainder of elementary and middle
+school, I competed on my schools FLL team at the highest level: working 20 and
+30 hour weeks, dominating at state competitions, and competing at worlds.
 
-1. Love to understand how things work
-2. Also love to make things
-3. The computer was a thinker. Very magical.
-4. Programmed things
-5. Dug through the layers of abstraction
-6. Understood the computer
-7. Wrote things using this understanding at a variety of layers of abstraction
+In high school, stemming from my love of understanding how things work and my
+robotics experience, I specialized in programming. Programming perfectly fit
+the mold my earlier experiences created. In computer science, there is an
+immense amount of theory to learn and understanding to be gained. Now, instead
+of taking apart my clock, I was delving through the layers of how computers and
+software worked. My expanding knowledge and experience allowed me to tackle more
+difficult problems. Now I'm writing embedded systems code for my Science
+Olympiad team and the First Robotics Competition team I founded, helping peers
+and teachers with coding problems, and developing personal projects in a dozen
+languages.
+
+A combination of my love of understanding things and my passion for engineering
+fostered by committed experience ultimately led me to study Computer Science.
 
 **Many students pursue college for a specific degree, career opportunity or
 personal goal. Whichever it may be, learning will be critical to achieve your
