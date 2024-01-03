@@ -36,18 +36,28 @@ personal goal. Whichever it may be, learning will be critical to achieve your
 ultimate goal. As you think ahead to the process of learning during your
 college years, how will you define a successful college experience? (300)**
 
-Successful college experience:
-- Establish a group of friends consisting of both like-minded and different individuals
-- Narrow my studies on the thing that interests me most: computer science & distributed systems
-- Gain the skills, knowledge, and experience in order to enter the workforce
+Firstly, my successful college experience is one where I gain the skills,
+knowledge, and experience necessary to be successful in the field of
+programming and computer science. Unlike its alternatives, college, especially
+at Carnegie Mellon, emphasizes and ensures a deep and thorough understanding of
+the fundamentals; this is incredibly important for me. 
 
-My primary goal in college is to gain the skills, knowledge, and experience
-necessary to enter the workforce in the field of Computer Science. I have
-chosen college over its alternatives because college allows me to narrow my
-studies on the specific aspects of the larger field that interest me most. I
-would define a successful college experience as one that prepares me to enter
-the workforce, assists me in finding what engages me most, and provides me the
-opportunity to discover as much as possible about that.
+Secondly, to be successful, my college experience must allow me to focus my
+studies on the specific aspects of Computer Science that interest me most. I
+love programming from the ground up and dislike coding with abstraction I don't
+understand. I write in C and Rust, reinvent the wheel, and prefer good code
+over clean code. In my opinion, systems programming is the pinnacle of computer
+science. Carnegie Mellon's Software Systems electives combined with the core
+classes form a computer science curriculum that offers a surplus of room to
+find a niche and become an expert.
+
+In my successful college experience, I will broaden my perspective through
+lived experiences with my peers and my liberal arts classes. When talking to
+successful friends and relatives about their college experiences, the stories
+and impactful moments they share often occur outside of the classroom and are
+shared with others. I would argue that the interpersonal connections and
+expansion of worldview gained at college are as important as the knowledge and
+degree.
 
 **Consider your application as a whole. What do you personally want to
 emphasize about your application for the admission committee’s consideration?
