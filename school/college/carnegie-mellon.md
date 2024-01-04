@@ -4,21 +4,21 @@
 or inspiration that’s developed over time – what passion or inspiration led you
 to choose this area of study? (300)**
 
-I'm seven years old and it's ten at night, way past my bedtime. I'm sitting on
+I'm seven years old, and it's ten at night, way past my bedtime. I'm sitting on
 the edge of my bed, screwdriver in hand, with the pieces of my partially
-disassembled alarm clock neatly layed on my comforter. This isn't the first
-time I've taken apart my alarm clock tonight. Seven year-old me loved to tear
-apart Nerf guns, lightsabers, Rubik's cubes, and anything else of the sort to
-try and figure out how it worked.
+disassembled alarm clock neatly laid on my comforter. This isn't the first time
+I've taken apart my alarm clock tonight. Seven-year-old me loved to tear apart
+Nerf guns, lightsabers, Rubik's cubes, and anything else of the sort to try and
+figure out how it worked.
 
-In fourth grade, I joined a First Lego League team at my school. Now instead of
-taking apart my toys, I was able to design, build, and program contraptions of
-my own to accomplish specific tasks. For the remainder of elementary and middle
-school, I competed on my schools FLL team at the highest level, working 20 and
-30 hour weeks, dominating state competitions, and competing at worlds.
+In fourth grade, I joined a First Lego League team at my school. Now, instead
+of taking apart my toys, I was able to design, build, and program contraptions
+of my own to accomplish specific tasks. For the remainder of elementary and
+middle school, I competed on my school's FLL team at the highest level, working
+20 and 30 hour weeks, dominating state competitions, and competing at worlds.
 
 In high school, stemming from my love of understanding how things work and my
-robotics experience, I specialized in programming. Programming perfectly fit
+robotics experience, I specialized in programming. Programming perfectly fits
 the mold my earlier experiences created. In computer science, there is an
 immense amount of theory to learn. Now, instead of taking apart my clock, I was
 delving through the layers of how computers and software worked. My expanding
@@ -27,11 +27,11 @@ writing embedded systems code for my Science Olympiad team and the First
 Robotics Competition team I founded, helping peers and teachers with coding
 problems, and developing personal projects in a dozen programming languages.
 
-A combination of my love of understanding things and my passion for engineering
-fostered by committed experience ultimately led me to study Computer Science.
+Now I'm seventeen years old, and it's two in the morning. I'm sitting in my
+blue La-Z-Boy recliner with a Lenovo x220 in my lap. I'm delving into the code
+behind my window manager with the Xorg manual page pulled up on the side,
+trying to figure it out.
 
-[tie it back to your intro and talking about things to understand how they work]
- 
 **Many students pursue college for a specific degree, career opportunity or
 personal goal. Whichever it may be, learning will be critical to achieve your
 ultimate goal. As you think ahead to the process of learning during your
@@ -44,11 +44,11 @@ emphasizes and ensures a deep and thorough understanding of the fundamentals;
 this is incredibly important for me.
 
 To be a success, my college experience must allow me to focus my studies on the
-specific aspects of Computer Science that interest me most. I love programming
+specific aspects of computer science that interest me most. I love programming
 from the ground up and dislike coding with abstraction I don't understand. I
 write in C and Rust, reinvent the wheel, and prefer good code over clean code.
 In my opinion, systems programming is the pinnacle of computer science.
-Carnegie Mellon's Software Systems electives combined with the core classes
+Carnegie Mellon's Software Systems electives, combined with the core classes,
 form a computer science curriculum that offers a surplus of room to explore my
 niche and become an expert.
 
@@ -100,3 +100,4 @@ Ethically, I support free software and reject the use of non-free and
 privacy-invasive software. As the Free Software Foundation proclaims, "Free
 softwarre is a matter of liberty, not price." Nearly all of the software I use
 is free and I aim to spread this message of freedom with others.
+
