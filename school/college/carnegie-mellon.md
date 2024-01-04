@@ -8,64 +8,64 @@ I'm seven years old and it's ten at night, way past my bedtime. I'm sitting on
 the edge of my bed, screwdriver in hand, with the pieces of my partially
 disassembled alarm clock neatly layed on my comforter. This isn't the first
 time I've taken apart my alarm clock tonight. Seven year-old me loved to tear
-apart Nerf guns, lightsabers, Rubik's cubes, and anything else of the sort
-to try and figure out how it worked.
+apart Nerf guns, lightsabers, Rubik's cubes, and anything else of the sort to
+try and figure out how it worked.
 
 In fourth grade, I joined a First Lego League team at my school. Now instead of
 taking apart my toys, I was able to design, build, and program contraptions of
 my own to accomplish specific tasks. For the remainder of elementary and middle
-school, I competed on my schools FLL team at the highest level: working 20 and
-30 hour weeks, dominating at state competitions, and competing at worlds.
+school, I competed on my schools FLL team at the highest level, working 20 and
+30 hour weeks, dominating state competitions, and competing at worlds.
 
 In high school, stemming from my love of understanding how things work and my
 robotics experience, I specialized in programming. Programming perfectly fit
 the mold my earlier experiences created. In computer science, there is an
-immense amount of theory to learn and understanding to be gained. Now, instead
-of taking apart my clock, I was delving through the layers of how computers and
-software worked. My expanding knowledge and experience allowed me to tackle more
-difficult problems. Now I'm writing embedded systems code for my Science
-Olympiad team and the First Robotics Competition team I founded, helping peers
-and teachers with coding problems, and developing personal projects in a dozen
-languages.
+immense amount of theory to learn. Now, instead of taking apart my clock, I was
+delving through the layers of how computers and software worked. My expanding
+knowledge and experience allowed me to tackle more difficult problems. Now I'm
+writing embedded systems code for my Science Olympiad team and the First
+Robotics Competition team I founded, helping peers and teachers with coding
+problems, and developing personal projects in a dozen programming languages.
 
 A combination of my love of understanding things and my passion for engineering
 fostered by committed experience ultimately led me to study Computer Science.
 
+[tie it back to your intro and talking about things to understand how they work]
+ 
 **Many students pursue college for a specific degree, career opportunity or
 personal goal. Whichever it may be, learning will be critical to achieve your
 ultimate goal. As you think ahead to the process of learning during your
 college years, how will you define a successful college experience? (300)**
 
-Firstly, my successful college experience is one where I gain the skills,
-knowledge, and experience necessary to be successful in the field of
-programming and computer science. Unlike its alternatives, college, especially
-at Carnegie Mellon, emphasizes and ensures a deep and thorough understanding of
-the fundamentals; this is incredibly important for me. 
+My successful college experience is one where I gain the skills, knowledge, and
+experience necessary to be successful in the field of programming and computer
+science. Unlike its alternatives, college, especially at Carnegie Mellon,
+emphasizes and ensures a deep and thorough understanding of the fundamentals;
+this is incredibly important for me.
 
-Secondly, to be successful, my college experience must allow me to focus my
-studies on the specific aspects of Computer Science that interest me most. I
-love programming from the ground up and dislike coding with abstraction I don't
-understand. I write in C and Rust, reinvent the wheel, and prefer good code
-over clean code. In my opinion, systems programming is the pinnacle of computer
-science. Carnegie Mellon's Software Systems electives combined with the core
-classes form a computer science curriculum that offers a surplus of room to
-discover my niche and become an expert.
+To be a success, my college experience must allow me to focus my studies on the
+specific aspects of Computer Science that interest me most. I love programming
+from the ground up and dislike coding with abstraction I don't understand. I
+write in C and Rust, reinvent the wheel, and prefer good code over clean code.
+In my opinion, systems programming is the pinnacle of computer science.
+Carnegie Mellon's Software Systems electives combined with the core classes
+form a computer science curriculum that offers a surplus of room to explore my
+niche and become an expert.
 
-In my successful college experience, I will broaden my perspective through
-lived experiences with my peers. When talking to successful friends and
-relatives about their college experiences, the stories and impactful moments
-they share often occur outside of the classroom and are shared with others. I
-would argue that the interpersonal connections and expansion of worldview
-gained at college are as important as the knowledge and degree. CMU's rich
-culture of tradition, community, and service aligns with my personal beliefs
-and college goals. Inside the classroom, I plan to develop my perspective and
-societal awareness through CMU's strong liberal arts and general education
-classes.
+In my ideal college experience, I will broaden my perspective through lived
+experiences with my peers. When talking to successful friends and relatives
+about their college experiences, the stories and impactful moments they share
+often occur outside of the classroom and are shared with others. I would argue
+that the interpersonal connections and expansion of worldview gained at college
+are as important as the knowledge and degree. CMU's rich culture of tradition,
+community, and service aligns with my personal beliefs and college goals.
+Inside the classroom, I plan to develop my perspective and societal awareness
+through CMU's strong liberal arts and general education classes.
 
 My three pillars of a successful college experience are to gain a deep and
 fundamental knowledge of CS in order to be successful in the field, specialize
-in what interests me most and gain expertise in that area, and be exposed to
-new people, ideas, and experiences.
+in what interests me most to gain expertise in that area, and be exposed to new
+people, ideas, and experiences.
 
 **Consider your application as a whole. What do you personally want to
 emphasize about your application for the admission committee’s consideration?
@@ -83,8 +83,8 @@ simple, decades old programs (sed, awk, xargs, cat, jq, etc) an experienced
 user can create powerful and useful scripts in a matter of minutes. When I
 program, I write modular, reusable, and clear code as opposed to monolithic,
 obfuscated, or heavily abstracted code. I nearly always program in systems
-languages (like C, Rust, and Zig) because of the connection and control over
-the computer they grant.
+languages like C, Rust, and Zig because of the connection and control over the
+computer they provide.
 
 I strongly believe in the importance of understanding your software environment
 and tools. To that end, I decided to use Arch Linux and build my system from
@@ -97,7 +97,6 @@ appreciation and understanding for how software and computers work than I could
 have gained just by writing code.
 
 Ethically, I support free software and reject the use of non-free and
-privacy-invasive software. Free software, as the Free Software Foundation
-proclaims, is a matter of liberty, not price. Nearly all of the software I use
-is free and I share the message of freedom in technology with others.
-
+privacy-invasive software. As the Free Software Foundation proclaims, "Free
+softwarre is a matter of liberty, not price." Nearly all of the software I use
+is free and I aim to spread this message of freedom with others.
