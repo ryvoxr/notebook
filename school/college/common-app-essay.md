@@ -13,11 +13,11 @@ you want to learn more?**
 
 One topic continues to captivate me: a system so complex that it's often
 associated with magic, yet so beautifully simple and modular that an
-experienced user can construct one to meet their exact needs. I am
-captivated by computers, more specifically computer programming and
-software. The innumerable layers from low-level device drivers and the
-shell, to a graphical interface and user-facing applications, come
-together to create the most widely used tool of the 21st century. 
+experienced user can construct one to meet their exact needs. I am captivated
+by computers, more specifically computer programming and software. The
+innumerable layers from low-level device drivers and the shell, to a graphical
+interface and user-facing applications, come together to create the most widely
+used tool of the 21st century. 
 
 Some computers are basic Windows installations, others are Macs, most are
 graphic-less virtualized computers on servers. I created mine to be a finely

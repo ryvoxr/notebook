@@ -4,73 +4,100 @@
 or inspiration that’s developed over time – what passion or inspiration led you
 to choose this area of study? (300)**
 
-During my childhood, I was always curious and questioned everything around me.
-I would constantly ask 'why', and even after receiving an answer, I would
-persistently continue to inquire 'why' again and again. This cycle would only
-end when my parents grew weary or the line of questioning became circular. As I
-matured, my incessant questioning grew into a yearning of understanding the
-reasons behind things. I remeber as a kid sitting on my bed taking my alarm
-clock apart and putting it back together over and over again trying to figure
-out how it worked.
+I'm seven years old, and it's ten at night, way past my bedtime. I'm sitting on
+the edge of my bed, screwdriver in hand, with the pieces of my partially
+disassembled alarm clock neatly laid on my comforter. This isn't the first time
+I've taken apart my alarm clock tonight. Seven-year-old me loved to tear apart
+Nerf guns, lightsabers, Rubik's cubes, and anything else of the sort to try and
+figure out how it worked.
 
-When I started using Linux, I began to attempt to understand how a computer
-really works.
+In fourth grade, I joined a First Lego League team at my school. Now, instead
+of taking apart my toys, I was able to design, build, and program contraptions
+of my own to accomplish specific tasks. For the remainder of elementary and
+middle school, I competed on my school's FLL team at the highest level, working
+20 and 30 hour weeks, dominating state competitions, and competing at worlds.
 
-Computer is big clok
+In high school, stemming from my love of understanding how things work and my
+robotics experience, I specialized in programming. Programming perfectly fits
+the mold my earlier experiences created. In computer science, there is an
+immense amount of theory to learn. Now, instead of taking apart my clock, I was
+delving through the layers of how computers and software worked. My expanding
+knowledge and experience allowed me to tackle more difficult problems. Now I'm
+writing embedded systems code for my Science Olympiad team and the First
+Robotics Competition team I founded, helping peers and teachers with coding
+problems, and developing personal projects in a dozen programming languages.
 
-From a young age programming was very satisfying to me. The computer does
-exactly what I tell it to do, no more and no less. Every function or type from
-a library or language was written in code by someone else; code that I can run,
-look at, and understand. 
-
-To me, nothing is more beautiful than a piece of software, physical device, or
-other solution that does one thing and does it well; I appreciate good
-engineering. Throughout my experience, I've written over half a million lines
-of code (literally), led engineering of a First Robotics Competition Team, and
-competed at a national level in Science Olympiad building events. I know
-firsthand how difficult it is to create something that works well, let alone
-something that withstands the test of time. When I look at projects like
-GNU/Linux, git, vim, see a really good website, or read about all the crazy
-things people are doing with cache optimization, I am enamored. I chose
-Computer Science as my area of study because I'm in love with understanding how
-things work and want building great things.
+Now I'm seventeen years old, and it's two in the morning. I'm sitting in my
+blue La-Z-Boy recliner with a Lenovo x220 in my lap. I'm delving into the code
+behind my window manager with the Xorg manual page pulled up on the side,
+trying to figure it out.
 
 **Many students pursue college for a specific degree, career opportunity or
 personal goal. Whichever it may be, learning will be critical to achieve your
 ultimate goal. As you think ahead to the process of learning during your
 college years, how will you define a successful college experience? (300)**
 
-Successful college experience:
-- Establish a group of friends consisting of both like-minded and different individuals
-- Narrow my studies on the thing that interests me most: computer science & distributed systems
-- Gain the skills, knowledge, and experience in order to enter the workforce
+My successful college experience is one where I gain the skills, knowledge, and
+experience necessary to be successful in the field of programming and computer
+science. Unlike its alternatives, college, especially at Carnegie Mellon,
+emphasizes and ensures a deep and thorough understanding of the fundamentals;
+this is incredibly important for me.
 
-My primary goal in college is to gain the skills, knowledge, and experience
-necessary to enter the workforce in the field of Computer Science. I have
-chosen college over its alternatives because college allows me to narrow my
-studies on the specific aspects of the larger field that interest me most. I
-would define a successful college experience as one that prepares me to enter
-the workforce, assists me in finding what engages me most, and provides me the
-opportunity to discover as much as possible about that.
+To be a success, my college experience must allow me to focus my studies on the
+specific aspects of computer science that interest me most. I love programming
+from the ground up and dislike coding with abstraction I don't understand. I
+write in C and Rust, reinvent the wheel, and prefer good code over clean code.
+In my opinion, systems programming is the pinnacle of computer science.
+Carnegie Mellon's Software Systems electives, combined with the core classes,
+form a computer science curriculum that offers a surplus of room to explore my
+niche and become an expert.
+
+In my ideal college experience, I will broaden my perspective through lived
+experiences with my peers. When talking to successful friends and relatives
+about their college experiences, the stories and impactful moments they share
+often occur outside of the classroom and are shared with others. I would argue
+that the interpersonal connections and expansion of worldview gained at college
+are as important as the knowledge and degree. CMU's rich culture of tradition,
+community, and service aligns with my personal beliefs and college goals.
+Inside the classroom, I plan to develop my perspective and societal awareness
+through CMU's strong liberal arts and general education classes.
+
+My three pillars of a successful college experience are to gain a deep and
+fundamental knowledge of CS in order to be successful in the field, specialize
+in what interests me most to gain expertise in that area, and be exposed to new
+people, ideas, and experiences.
 
 **Consider your application as a whole. What do you personally want to
 emphasize about your application for the admission committee’s consideration?
 Highlight something that’s important to you or something you haven’t had a
 chance to share. Tell us, don’t show us (no websites please). (300)**
 
-Free software
-- understanding how it works
-- building it yourself
-- ethics
-- jaded with modern tech
+Throughout my application, I've spoken extensively on my love of programming
+and my experience thereof. Here, I would like to share a bit of my philosophy
+and ethics related to computers and software.
 
-Throughout my application, I have written extensively about my love of computer
-science and my programming experience. Here I wish to share a bit of my
-personal philosophy and ethical code related to computers, software, and the
-world.
+When writing code and choosing software to use, I follow the Unix philosophy. I
+use software that is built to "Do One Thing and Do It Well". I'm enamored with
+the core utils and their simple, yet powerful composability. By combining a few
+simple, decades old programs (sed, awk, xargs, cat, jq, etc) an experienced
+user can create powerful and useful scripts in a matter of minutes. When I
+program, I write modular, reusable, and clear code as opposed to monolithic,
+obfuscated, or heavily abstracted code. I nearly always program in systems
+languages like C, Rust, and Zig because of the connection and control over the
+computer they provide.
 
-Free software is important to me and to many others in my field. As defined by
-the Free Software Foundation, "free software means that users have the freedom
-to run, edit, contribute to, and share the software". Free software is "free as
-in speech, not free as in beer.
+I strongly believe in the importance of understanding your software environment
+and tools. To that end, I decided to use Arch Linux and build my system from
+scratch. I've handpicked, compiled, installed, and configured each and every
+component of the system I run; from the bootloader to the zsh profile to the
+screen compositor. For programming, I've meticulously configured neovim in Lua
+to meet my need for speed and power in a text editor. Configuring and using
+these tools and working primarily in the terminal has granted me a far deeper
+appreciation and understanding for how software and computers work than I could
+have gained just by writing code.
+
+Ethically, I support free software and reject the use of non-free and
+privacy-invasive software. As the Free Software Foundation proclaims, "Free
+softwarre is a matter of liberty, not price." Nearly all of the software I use
+is free and I aim to spread this message of freedom with others.
 

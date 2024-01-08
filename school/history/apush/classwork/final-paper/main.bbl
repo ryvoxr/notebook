@@ -21,11 +21,12 @@
   \datalist[entry]{cms/global//global/global}
     \entry{stockmarketcrash}{article}{}
       \name{author}{1}{}{%
-        {{hash=508e75de8dc33e0cee58ba9bc6c8c5e3}{%
+        {{un=0,uniquepart=base,hash=508e75de8dc33e0cee58ba9bc6c8c5e3}{%
            family={Bryan},
            familyi={B\bibinitperiod},
            given={Michael},
-           giveni={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{508e75de8dc33e0cee58ba9bc6c8c5e3}
       \strng{fullhash}{508e75de8dc33e0cee58ba9bc6c8c5e3}
@@ -59,7 +60,7 @@
     \endentry
     \entry{fredmoneysupply}{misc}{}
       \name{author}{1}{}{%
-        {{hash=ffb61f7d3dad0c9901007888548591f8}{%
+        {{un=0,uniquepart=base,hash=ffb61f7d3dad0c9901007888548591f8}{%
            family={FRED},
            familyi={F\bibinitperiod}}}%
       }
@@ -78,16 +79,18 @@
     \endentry
     \entry{amonetaryhistory}{book}{}
       \name{author}{2}{}{%
-        {{hash=ed599767cda235bc9b7bb0e787374d60}{%
+        {{un=0,uniquepart=base,hash=ed599767cda235bc9b7bb0e787374d60}{%
            family={Friedman},
            familyi={F\bibinitperiod},
            given={Milton},
-           giveni={M\bibinitperiod}}}%
-        {{hash=5569a93e52e53a17c4d216ae538b77a1}{%
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5569a93e52e53a17c4d216ae538b77a1}{%
            family={Schwartz},
            familyi={S\bibinitperiod},
            given={Anna},
-           giveni={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {Princeton University Press}%
@@ -115,11 +118,12 @@
     \endentry
     \entry{peddlingprotectionism}{book}{}
       \name{author}{1}{}{%
-        {{hash=ec642f45660b490d5ac50ba57e88e237}{%
+        {{un=0,uniquepart=base,hash=ec642f45660b490d5ac50ba57e88e237}{%
            family={Irwing},
            familyi={I\bibinitperiod},
            given={Douglas\bibnamedelima A.},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {Princeton University Press}%
@@ -139,7 +143,7 @@
     \endentry
     \entry{macrotrendsdow}{misc}{}
       \name{author}{1}{}{%
-        {{hash=4b2656a4d29d7376b682eb98b4c29df0}{%
+        {{un=0,uniquepart=base,hash=4b2656a4d29d7376b682eb98b4c29df0}{%
            family={MacroTrends},
            familyi={M\bibinitperiod}}}%
       }
@@ -158,11 +162,12 @@
     \endentry
     \entry{americaneconomy20s}{article}{}
       \name{author}{1}{}{%
-        {{hash=2d1b09f390303939eb7c93a73e46e409}{%
+        {{un=0,uniquepart=base,hash=2d1b09f390303939eb7c93a73e46e409}{%
            family={Mintz},
            familyi={M\bibinitperiod},
            given={Steven},
-           giveni={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{2d1b09f390303939eb7c93a73e46e409}
       \strng{fullhash}{2d1b09f390303939eb7c93a73e46e409}

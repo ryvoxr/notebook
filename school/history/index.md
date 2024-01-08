@@ -2,10 +2,16 @@
 
 ## Economics
 
+### Units
+
 - [Unit 1](econ/unit-1/index.md)
 - [Unit 2](econ/unit-2/index.md)
 - [Unit 3](econ/unit-3/index.md)
 - [Unit 4](econ/unit-4/index.md)
+
+### Misc
+
+- [Research Project](econ/research-project/index.md)
 
 ## APUSH
 
