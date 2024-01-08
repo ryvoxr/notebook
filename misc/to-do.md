@@ -1,10 +1,10 @@
 SCHOOL
-- Phys - AP classroom practice
-- Stat - Binomial and normal model
-- Calc - Related rates wksht
-- Chem - pg 152: #49, 51, 52
+- Phys - Halliday and Progress Check
+- Econ - Study
+- Stat - Midterm review lin reg and prob
+- Calc - Review problems #4
+- Chem - Maybe that packet we started in class
+- Engl - None
 
 DONE
-- Econ - NC and world trade
-- Engl - Stave 1 and questions
 

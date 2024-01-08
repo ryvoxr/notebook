@@ -9,7 +9,6 @@
 - [College](school/college/index.md)
 - [Science Olympiad](school/scioly/index.md)
 
-
 ## Technologies
 
 - [Decent Ideas](technologies/decent-ideas/index.md)

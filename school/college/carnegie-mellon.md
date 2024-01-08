@@ -4,13 +4,36 @@
 or inspiration that’s developed over time – what passion or inspiration led you
 to choose this area of study? (300)**
 
-1. Love to understand how things work
-2. Also love to make things
-3. The computer was a thinker. Very magical.
-4. Programmed things
-5. Dug through the layers of abstraction
-6. Understood the computer
-7. Wrote things using this understanding at a variety of layers of abstraction
+During my childhood, I was always curious and questioned everything around me.
+I would constantly ask 'why', and even after receiving an answer, I would
+persistently continue to inquire 'why' again and again. This cycle would only
+end when my parents grew weary or the line of questioning became circular. As I
+matured, my incessant questioning grew into a yearning of understanding the
+reasons behind things. I remeber as a kid sitting on my bed taking my alarm
+clock apart and putting it back together over and over again trying to figure
+out how it worked.
+
+When I started using Linux, I began to attempt to understand how a computer
+really works.
+
+Computer is big clok
+
+From a young age programming was very satisfying to me. The computer does
+exactly what I tell it to do, no more and no less. Every function or type from
+a library or language was written in code by someone else; code that I can run,
+look at, and understand. 
+
+To me, nothing is more beautiful than a piece of software, physical device, or
+other solution that does one thing and does it well; I appreciate good
+engineering. Throughout my experience, I've written over half a million lines
+of code (literally), led engineering of a First Robotics Competition Team, and
+competed at a national level in Science Olympiad building events. I know
+firsthand how difficult it is to create something that works well, let alone
+something that withstands the test of time. When I look at projects like
+GNU/Linux, git, vim, see a really good website, or read about all the crazy
+things people are doing with cache optimization, I am enamored. I chose
+Computer Science as my area of study because I'm in love with understanding how
+things work and want building great things.
 
 **Many students pursue college for a specific degree, career opportunity or
 personal goal. Whichever it may be, learning will be critical to achieve your
@@ -36,4 +59,18 @@ Highlight something that’s important to you or something you haven’t had a
 chance to share. Tell us, don’t show us (no websites please). (300)**
 
 Free software
+- understanding how it works
+- building it yourself
+- ethics
+- jaded with modern tech
+
+Throughout my application, I have written extensively about my love of computer
+science and my programming experience. Here I wish to share a bit of my
+personal philosophy and ethical code related to computers, software, and the
+world.
+
+Free software is important to me and to many others in my field. As defined by
+the Free Software Foundation, "free software means that users have the freedom
+to run, edit, contribute to, and share the software". Free software is "free as
+in speech, not free as in beer.
 
