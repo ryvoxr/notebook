@@ -16,7 +16,7 @@
 - Hope is these mandates will improve affordability and equity without costing
   taxpayer money
 
-Inclusionary zoing encourages developers to build more profitable but
+Inclusionary zoning encourages developers to build more profitable but
 harder-to-lease luxury buildings
 - Higher rents used to recoup the costs of the cheaper units they're forced to
   build
@@ -31,9 +31,69 @@ Inclusionary zoning acts as a tax on development
 
 [https://reason.com/2023/07/28/fda-commissioner-no-one-envisioned-the-consequences-of-new-sesame-seed-labeling-rule/](https://reason.com/2023/07/28/fda-commissioner-no-one-envisioned-the-consequences-of-new-sesame-seed-labeling-rule/)
 
+The Food and Drug Administration mandated warning labels for products
+containing sesame seeds
+- The result: suddenly everything contained sesame seeds
+
+Attempted to help those with sesame seed allergies
+- Added the ingredient to the list of items that have to be declared in food
+  (eggs, milk, shellfish, etc)
+- In response, food manufacturers added sesame seeds to products that
+  previously contained none
+
+The food producers were doing what made economic sense
+- The fines for not disclosing seeds were huge
+- It's much cheaper to add a few sesame seeds in rather than risk paying big
+  fines
+
+Now fewer sesame-seed-free products are available to those with the allergy
+
+[https://www.fda.gov/news-events/fda-voices/update-sesame-allergen-labeling-food-packages](https://www.fda.gov/news-events/fda-voices/update-sesame-allergen-labeling-food-packages)
+
+"I don’t think anyone envisioned there being a decrease in the availability of
+products that are safe choices for sesame allergic consumers."
+- Except, perhaps, the many food processing facilities that responded to the
+  FDA's new policy by doing exactly this
+- What he means is that nobody within the FDA could have predicted this outcome
+
 ### Empty Covid Planes
 
+[https://nymag.com/intelligencer/2020/04/heres-why-so-many-planes-are-still-flying-nearly-empty.html]
+
+The CARES Act gives airlines money
+- In order to receive the money, the airlines must continue serving nearly
+  everywhere they were before
+
+The intent: some travel is necessary and it's important for people to be able
+to get places by air
+
+The unintended consequence: airlines are now incentivized to fly planes in
+order to still qualify for federal aid
+- Huge environmental impact
+- No economic stimulus
+
+[https://www.wired.com/story/airplanes-empty-slots-covid/](https://www.wired.com/story/airplanes-empty-slots-covid/)
+[https://simpleflying.com/airport-slots/](https://simpleflying.com/airport-slots/)
+
+Airports use a slotting system to determine who gets to takeoff and land
+- Regulatory commissions are in charge of the rules related to slotting
+- Slots are managed worldwide by the International Air Transport Association
+- Locally in the US, its the Federal Aviation Administration
+
+At the start of the pandemic, most countries had a "use them or lose them" rule
+- If a slot has not been utilized 80% of the time one year, it must be given up
+  by the airline
+- This provides a strong incentive for airlines to fly planes, regardless of
+  how full they are
+- Losing a slot is disastrous
+
 ### CAFE Standards
+
+[https://reason.org/policy-brief/the-effect-of-corporate-average-fuel-economy-standards-on-consumers/](https://reason.org/policy-brief/the-effect-of-corporate-average-fuel-economy-standards-on-consumers/)
+[https://www.ft.com/content/1e4ae576-5ac4-11e8-b8b2-d6ceb45fa9d0](https://www.ft.com/content/1e4ae576-5ac4-11e8-b8b2-d6ceb45fa9d0)
+
+Corporate Average Fuel Economy (CAFE) standards
+- Require manufacturers to meet minimum fuel requirements for their vehicles
 
 ### Gun Buyback (Oakland, 2008)
 
