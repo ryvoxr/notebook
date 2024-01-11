@@ -89,11 +89,50 @@ At the start of the pandemic, most countries had a "use them or lose them" rule
 
 ### CAFE Standards
 
-[https://reason.org/policy-brief/the-effect-of-corporate-average-fuel-economy-standards-on-consumers/](https://reason.org/policy-brief/the-effect-of-corporate-average-fuel-economy-standards-on-consumers/)
-[https://www.ft.com/content/1e4ae576-5ac4-11e8-b8b2-d6ceb45fa9d0](https://www.ft.com/content/1e4ae576-5ac4-11e8-b8b2-d6ceb45fa9d0)
+[https://www.transportation.gov/mission/sustainability/corporate-average-fuel-economy-cafe-standards](https://www.transportation.gov/mission/sustainability/corporate-average-fuel-economy-cafe-standards)
+
+First enacted in 1975
+- Intended to reduce energy consumption by increasing the fuel economy of cars
+  and light trucks
+
+CAFE standards are fleet-wide averages that must be met by automakers
 
 Corporate Average Fuel Economy (CAFE) standards
 - Require manufacturers to meet minimum fuel requirements for their vehicles
 
-### Gun Buyback (Oakland, 2008)
+[https://reason.org/policy-brief/the-effect-of-corporate-average-fuel-economy-standards-on-consumers/](https://reason.org/policy-brief/the-effect-of-corporate-average-fuel-economy-standards-on-consumers/)
+
+Penalize automakers who fail to meet efficiency standards
+- Categorized by vehicle size; more stringent targets for passenger cars than
+  for trucks
+- Instead of hitting the more difficult standards for cars, car manufacturers
+  switched to producing larger, fuel-guzzling SUV's that classify as trucks in
+  order to more easily meet the standard
+- Now, 80% of all new vehicles sold are considered "light trucks"
+
+### Window Tax
+
+Property tax based on the number of windows in a house
+- Introduced in 1696
+- Designed to impose a tax relative to the prosperity of the taxpayer before
+  the income tax was a thing
+
+The tax:
+- Flat-rate house tax of two shillings
+- Variable tax for houses with more than ten windows
+- 10-20 payed four shillings
+- more than 20 payed 8 shillings
+- Seen as a tax on "light and air"
+
+Adam Smith was like: you can count the windows from the outside
+- Got the thumbs up from Adam Smith
+
+The result:
+- Although wealthier people tend to have more windows, the poorest people in
+  England lived in tenements with lots of windows
+- Tenement landlords, to avoid the tax, bricked up windows in their buildings
+- This drastically reduced the quality, safety, and health of tenements
+
+Dickens was pissed
+
 
