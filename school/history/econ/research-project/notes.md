@@ -6,6 +6,26 @@
 
 ## Case Studies (for video)
 
+### Price Gouging
+
+Hurricane Katrina, 2005
+
+Anti-price gouging laws were implemented in various affected areas to prevent
+excessive price increases for essential goods
+
+Hotels were prohibited from significantly increasing room rates
+- Establishments faced challenges in covering their increased operating costs
+  due to the surge in demand for accommodations
+
+There was a reduction in the incentive for hotels to operate during the crisis
+- With prices capped, hotels found it financially unsustainable to provide
+  lodging, especially because of the increased costs due to emergency
+  preparations and potential property damage
+
+Hotels closed their doors or reduced their services
+- Created a even bigger shortage of available accommodations for displaced
+  individuals
+
 ### Affordable Housing
 
 [https://reason.com/2019/10/07/when-mandating-affordable-housing-makes-housing-less-affordable/](https://reason.com/2019/10/07/when-mandating-affordable-housing-makes-housing-less-affordable/)
