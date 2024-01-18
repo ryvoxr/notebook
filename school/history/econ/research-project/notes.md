@@ -4,6 +4,8 @@
 
 "The Use of Knowledge in Society" - Friedrich Hayek
 
+## Case Studies (for video)
+
 ### Affordable Housing
 
 [https://reason.com/2019/10/07/when-mandating-affordable-housing-makes-housing-less-affordable/](https://reason.com/2019/10/07/when-mandating-affordable-housing-makes-housing-less-affordable/)
@@ -134,4 +136,79 @@ The result:
 - This drastically reduced the quality, safety, and health of tenements
 
 Dickens was pissed
+
+### Billboards
+
+[https://www.econlib.org/library/Enc1/UnintendedConsequences.html](https://www.econlib.org/library/Enc1/UnintendedConsequences.html)
+
+In 1968, Vermont outlawed roadside billboards and large signs in order to
+protect the state's pastoral vistas
+- Instead of billboards, large, bizarre "sculptures" started to appear next to
+  businesses
+- A car dealership built a 12 foot sixteen ton gorilla clutching a real
+  Volkswagen Beetle
+- A carpet store had a nineteen-foot genie holding aloft a rolled carpet as he
+  emerges from a smoking teapot
+- There was also a horse, a rooster, and a squirrel in red suspenders
+
+### Prohibition
+
+Nationwide ban on the production and sale of alcohol in the United States
+- Cam eon the heels of a similar ban in Russia
+
+Temperance
+- Believed that alcohol was the fundamental reason behind problems like
+  poverty and domestic violence
+- Tried to convince governments of this
+- Wanted alcohol to be banned entirely
+
+Maine and several other states banned to sale and production of liquor in the 1850s
+
+In 1919, the 18th amendment banned the manufacture, sale, and transfer of all
+alcoholic beverages
+- Rich people stockpiled beer and liquor because it only prevented the sale,
+  manufacturing, and transfer of it not the consumption
+- Breweries and distilleries tried to sell all of their alcohol
+
+Organized crime groups established a lucrative black market in producing,
+smuggling, and selling illicit liquor
+- Worked side by side with corrupt policemen and government officials
+- Illegal bars, known as speakeasies began serving alcohol
+- People tried to make it at home for their own consumption
+- People obtained it legally with a doctor's prescription or for religious
+  purposes
+- Government required industrial manufactures to add methanol and poison the
+  alcohol they produced
+
+## Other notes
+
+### Law of Unintended Consequences
+
+[https://www.econlib.org/library/Enc1/UnintendedConsequences.html](https://www.econlib.org/library/Enc1/UnintendedConsequences.html)
+
+The actions of people and government always have effects that are unanticipated
+or unintended
+
+Adam Smith
+- "invisible hand"
+- Each individual, seeking only his own gain, "is led by an invisible hand to
+  promote an end which was no part of his intention"
+- "It is not from the benevolence of the butcher, or the baker, that we expect
+  our dinner, but from regard to their own self interest."
+
+Unanticipated effects of legislation and regulation
+
+John Locke urged the removal of a parliamentary bill designed to cut the
+maximum permissible rate of interest from 6% to 4%
+- Instead of benefiting borrowers, as intended, it would hurt them
+
+Sources of unanticipated consequences
+1. Ignorance
+2. Error
+3. "imperious immediacy of interest" (willful ignorance)
+
+Law of unintended consequences provides the basis for criticisms of government
+programs
+- Unintended consequences can add so much to the costs of some programs that
+  they make the programs a bad decision
 

@@ -1,11 +1,10 @@
 SCHOOL
-- Hlth - Anti-tobacco advertisement
 - Phys - Halliday Ch 14 & 16
-- Econ - Work on script
-- Stat - Confidence intervals and ME
-- Calc - Economic applications
+- Econ - Finish project rough draft (Friday)
+- Calc - Optimization pt 2 (Friday)
 - Chem - Test tomorrow
-- Engl - None
+- Engl - Questions "AD" and "Buttons" (Friday)
 
 DONE
+- Stat - Critical values
 
