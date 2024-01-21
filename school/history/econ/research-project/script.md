@@ -1,16 +1,10 @@
 # Script
 
-Great Moments in Unintended Consequences!
-
-(from the perspective of a sentient alien space-station that's been studying
-humans for the last millennia)
-
 ### Case one: Sesame Seed Shenanigans
 
 ```
 Year: 2021
 Location: The United States of America
-Confidence level in human decision making: 
 ```
 
 The problem: People are allergic to sesame seeds and need to know what products
@@ -39,7 +33,6 @@ the FDA could have predicted this outcome.
 ```
 Year: 2020
 Location: Most developed nations
-Confidence level in human decision making:
 ```
 
 Airports use a slotting system to determine how many flights airlines are
@@ -61,14 +54,13 @@ capacity in order to keep their slots. This resulted in countless "ghost
 flights" where planes would take off, fly, and land at their destination
 carrying few or zero passengers.
 
-### Case three: CAFE Standards Oopsie
+### Case three: The CAFE Standards Oopsie
 
 ```
 Year: 1975
 Location: The United States of America
-Confidence level in human decision making:
 ```
-The problem: cars use too much fossil fuels and the resulting carbon emissions
+The problem: cars are using too much fossil fuels and the resulting carbon emissions
 are probably killing the planet
 
 The solution: Enact fleet-wide energy consumption average requirements called
@@ -93,4 +85,32 @@ It turns out, manufacturers don't like paying fines.
 Instead of designing and manufacturing more expensive and fuel efficient cars,
 manufacturers simply switched to producing larger fuel-guzzling SUV's that meet
 the legal definition for a "light truck".
+
+### Case four: Prohibition
+
+```
+Year: 1919
+Location: The United States of America
+```
+
+The problem: alcohol is ruining the moral fiber of America and is the
+fundamental reason behind problems like poverty and domestic violence.
+
+The solution: pass the 18th Amendment to the Constitution banning the
+manufacture, sale, and transfer of all alcoholic beverages.
+
+```People cheering with Milton Friedman shaking his head with that one quote```
+
+It turns out, everybody still wanted alcohol. Instead of rolling over and
+staying sober, Americans found new ways to get booze.
+
+Organized crime groups established a lucrative black market in producing,
+smuggling, and selling illicit liquor. These crime groups worked side-by-side
+with corrupt policemen and government officials. Thousands of illegal bars,
+known as speakeasies began serving alcohol.
+
+Some people tried to make it it at home for their own consumption. This had the
+disastrous consequence of poorly made, home-brewed alcohol that contained the
+poison methanol. Thousands of Americans died during prohibition from methanol
+poisoning alone.
 
