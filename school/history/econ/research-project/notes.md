@@ -80,7 +80,7 @@ products that are safe choices for sesame allergic consumers."
 
 ### Empty Covid Planes
 
-[https://nymag.com/intelligencer/2020/04/heres-why-so-many-planes-are-still-flying-nearly-empty.html]
+[https://nymag.com/intelligencer/2020/04/heres-why-so-many-planes-are-still-flying-nearly-empty.html](https://nymag.com/intelligencer/2020/04/heres-why-so-many-planes-are-still-flying-nearly-empty.html)]
 
 The CARES Act gives airlines money
 - In order to receive the money, the airlines must continue serving nearly

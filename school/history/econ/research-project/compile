@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pdflatex essay
-biber essay
-pdflatex essay
-pdflatex essay
+pdflatex final-product
+biber final-product
+pdflatex final-product
+pdflatex final-product

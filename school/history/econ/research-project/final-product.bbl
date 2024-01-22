@@ -1,0 +1,285 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{intelligencer2020}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cefd04942a7b934ceab7899d53caccb8}{%
+           family={Barro},
+           familyi={B\bibinitperiod},
+           given={Josh},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cefd04942a7b934ceab7899d53caccb8}
+      \strng{fullhash}{cefd04942a7b934ceab7899d53caccb8}
+      \strng{bibnamehash}{cefd04942a7b934ceab7899d53caccb8}
+      \strng{authorbibnamehash}{cefd04942a7b934ceab7899d53caccb8}
+      \strng{authornamehash}{cefd04942a7b934ceab7899d53caccb8}
+      \strng{authorfullhash}{cefd04942a7b934ceab7899d53caccb8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://nymag.com/intelligencer/2020/04/heres-why-so-many-planes-are-still-flying-nearly-empty.html}}
+      \field{title}{Here's Why so Many Planes Are Still Flying, Nearly Empty}
+      \field{year}{2020}
+    \endentry
+    \entry{reason2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3fe084c76995b6e22f15e5870583310}{%
+           family={Boehm},
+           familyi={B\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e3fe084c76995b6e22f15e5870583310}
+      \strng{fullhash}{e3fe084c76995b6e22f15e5870583310}
+      \strng{bibnamehash}{e3fe084c76995b6e22f15e5870583310}
+      \strng{authorbibnamehash}{e3fe084c76995b6e22f15e5870583310}
+      \strng{authornamehash}{e3fe084c76995b6e22f15e5870583310}
+      \strng{authorfullhash}{e3fe084c76995b6e22f15e5870583310}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://reason.com/2023/07/28/fda-commissioner-no-one-envisioned-the-consequences-of-new-sesame-seed-labeling-rule/}}
+      \field{title}{FDA Commisioner: No One 'Envisioned" the Consequences of New Sesame Seed Labeling Rule}
+      \field{year}{2023}
+    \endentry
+    \entry{reason2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7f562e939aa98b11131c01ad0e4a8738}{%
+           family={Britschgi},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7f562e939aa98b11131c01ad0e4a8738}
+      \strng{fullhash}{7f562e939aa98b11131c01ad0e4a8738}
+      \strng{bibnamehash}{7f562e939aa98b11131c01ad0e4a8738}
+      \strng{authorbibnamehash}{7f562e939aa98b11131c01ad0e4a8738}
+      \strng{authornamehash}{7f562e939aa98b11131c01ad0e4a8738}
+      \strng{authorfullhash}{7f562e939aa98b11131c01ad0e4a8738}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://reason.com/2019/03/25/when-mandating-affordable-housing-makes-housing-less-affordable/}}
+      \field{title}{When Mandating Affordable Housing Makes Housing Less Affordable}
+      \field{year}{2019}
+    \endentry
+    \entry{fda2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=640d5bc793962877d7e7098907821599}{%
+           family={Califf},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{640d5bc793962877d7e7098907821599}
+      \strng{fullhash}{640d5bc793962877d7e7098907821599}
+      \strng{bibnamehash}{640d5bc793962877d7e7098907821599}
+      \strng{authorbibnamehash}{640d5bc793962877d7e7098907821599}
+      \strng{authornamehash}{640d5bc793962877d7e7098907821599}
+      \strng{authorfullhash}{640d5bc793962877d7e7098907821599}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.fda.gov/news-events/fda-voices/update-sesame-allergen-labeling-food-packages}}
+      \field{title}{An Update on Sesame Allergen Labeling on Food Packages}
+      \field{year}{2023}
+    \endentry
+    \entry{hayek1945}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=98e46b1dddd71a1b8786b9778e4ea675}{%
+           family={Hayek},
+           familyi={H\bibinitperiod},
+           given={Friedrich\bibnamedelima A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{fullhash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{bibnamehash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{authorbibnamehash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{authornamehash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \strng{authorfullhash}{98e46b1dddd71a1b8786b9778e4ea675}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{title}{The Use of Knowledge in Society}
+      \field{year}{1945}
+      \field{pages}{519\bibrangedash 530}
+      \range{pages}{12}
+    \endentry
+    \entry{simpleflying2020}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3335a44d277fa40769f56fc8839ce664}{%
+           family={Hayward},
+           familyi={H\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3335a44d277fa40769f56fc8839ce664}
+      \strng{fullhash}{3335a44d277fa40769f56fc8839ce664}
+      \strng{bibnamehash}{3335a44d277fa40769f56fc8839ce664}
+      \strng{authorbibnamehash}{3335a44d277fa40769f56fc8839ce664}
+      \strng{authornamehash}{3335a44d277fa40769f56fc8839ce664}
+      \strng{authorfullhash}{3335a44d277fa40769f56fc8839ce664}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://simpleflying.com/airport-slots/}}
+      \field{title}{How Airlines Get Airport Slots \& Why They Cost So Much}
+      \field{year}{2020}
+    \endentry
+    \entry{merton1936}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8318e8d342197624a4718acdef951686}{%
+           family={Merton},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8318e8d342197624a4718acdef951686}
+      \strng{fullhash}{8318e8d342197624a4718acdef951686}
+      \strng{bibnamehash}{8318e8d342197624a4718acdef951686}
+      \strng{authorbibnamehash}{8318e8d342197624a4718acdef951686}
+      \strng{authornamehash}{8318e8d342197624a4718acdef951686}
+      \strng{authorfullhash}{8318e8d342197624a4718acdef951686}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Sociological Review}
+      \field{title}{The Unanticipated Consequences of Purposive Social Action}
+      \field{year}{1936}
+      \field{pages}{894\bibrangedash 904}
+      \range{pages}{11}
+    \endentry
+    \entry{reason2018}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d17acb04f2717b0021d7e813b5003f93}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d17acb04f2717b0021d7e813b5003f93}
+      \strng{fullhash}{d17acb04f2717b0021d7e813b5003f93}
+      \strng{bibnamehash}{d17acb04f2717b0021d7e813b5003f93}
+      \strng{authorbibnamehash}{d17acb04f2717b0021d7e813b5003f93}
+      \strng{authornamehash}{d17acb04f2717b0021d7e813b5003f93}
+      \strng{authorfullhash}{d17acb04f2717b0021d7e813b5003f93}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://reason.org/policy-brief/the-effect-of-corporate-average-fuel-economy-standards-on-consumers/}}
+      \field{title}{The Effect Of Corporate Average Fuel Economy Standards On Consumers}
+      \field{year}{2018}
+    \endentry
+    \entry{econlib2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df2104330a4de84c1de6555465cd0657}{%
+           family={Norton},
+           familyi={N\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df2104330a4de84c1de6555465cd0657}
+      \strng{fullhash}{df2104330a4de84c1de6555465cd0657}
+      \strng{bibnamehash}{df2104330a4de84c1de6555465cd0657}
+      \strng{authorbibnamehash}{df2104330a4de84c1de6555465cd0657}
+      \strng{authornamehash}{df2104330a4de84c1de6555465cd0657}
+      \strng{authorfullhash}{df2104330a4de84c1de6555465cd0657}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.econlib.org/library/Enc/UnintendedConsequences.html}}
+      \field{title}{Unintended Consequences}
+      \field{year}{2023}
+    \endentry
+    \entry{wired2022}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e6a96745e88995eeb01341c79f972182}{%
+           family={Stokel-Walker},
+           familyi={S\bibinithyphendelim W\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e6a96745e88995eeb01341c79f972182}
+      \strng{fullhash}{e6a96745e88995eeb01341c79f972182}
+      \strng{bibnamehash}{e6a96745e88995eeb01341c79f972182}
+      \strng{authorbibnamehash}{e6a96745e88995eeb01341c79f972182}
+      \strng{authornamehash}{e6a96745e88995eeb01341c79f972182}
+      \strng{authorfullhash}{e6a96745e88995eeb01341c79f972182}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.wired.com/story/airplanes-empty-slots-covid/}}
+      \field{title}{Thousands of Planes Are Flying Empty and No One Can Stop Them}
+      \field{year}{2022}
+    \endentry
+    \entry{usdot2014}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18d42f8a06ab38e660d879aeff6c2580}{%
+           family={Transportation},
+           familyi={T\bibinitperiod},
+           given={U.S.\bibnamedelimi Department},
+           giveni={U\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{18d42f8a06ab38e660d879aeff6c2580}
+      \strng{fullhash}{18d42f8a06ab38e660d879aeff6c2580}
+      \strng{bibnamehash}{18d42f8a06ab38e660d879aeff6c2580}
+      \strng{authorbibnamehash}{18d42f8a06ab38e660d879aeff6c2580}
+      \strng{authornamehash}{18d42f8a06ab38e660d879aeff6c2580}
+      \strng{authorfullhash}{18d42f8a06ab38e660d879aeff6c2580}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.transportation.gov/mission/sustainability/corporate-average-fuel-economy-cafe-standards}}
+      \field{title}{Corporate Average Fuel Economy (CAFE) Standards}
+      \field{year}{2014}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
