@@ -1,16 +1,10 @@
 # Script
 
-Great Moments in Unintended Consequences!
-
-(from the perspective of a sentient alien space-station that's been studying
-humans for the last millennia)
-
 ### Case one: Sesame Seed Shenanigans
 
 ```
 Year: 2021
 Location: The United States of America
-Confidence level in human decision making: 
 ```
 
 The problem: People are allergic to sesame seeds and need to know what products
@@ -39,7 +33,6 @@ the FDA could have predicted this outcome.
 ```
 Year: 2020
 Location: Most developed nations
-Confidence level in human decision making:
 ```
 
 Airports use a slotting system to determine how many flights airlines are
@@ -66,10 +59,9 @@ carrying few or zero passengers.
 ```
 Year: 1975
 Location: The United States of America
-Confidence level in human decision making:
 ```
-The problem: cars use too much fossil fuels and the resulting carbon emissions
-are probably killing the planet
+The problem: cars are using too much fossil fuels and the resulting carbon
+emissions are probably killing the planet
 
 The solution: Enact fleet-wide energy consumption average requirements called
 the CAFE Standards.
@@ -93,4 +85,51 @@ It turns out, manufacturers don't like paying fines.
 Instead of designing and manufacturing more expensive and fuel efficient cars,
 manufacturers simply switched to producing larger fuel-guzzling SUV's that meet
 the legal definition for a "light truck".
+
+### Case Three: Hurricane Havoc Hospitality
+
+```
+Year: 2005
+Location: Gulf Coast, United States
+```
+The problem: Hurricane Katrina devastates the Gulf Coast, displacing countless
+residents in need of shelter
+
+The solution: Enact price gouging laws to protect consumers from exorbitant
+hotel rates during times of crisis
+
+```People cheering with Milton Friedman shaking his head with that one quote```
+
+This regulation posed unforeseen challenges for hotels. Faced with the surge in
+demand for accommodations, establishments struggled to cover their increased
+operations costs. The cap on room rates, coupled with the increased expenses
+due to emergency preparations and potential property damage created a financial
+dilemma for hotels.
+
+The reduced incentive for hotels to operate during the crisis led to closures
+and reduction of services. As a result, the shortage of available shelter for
+displaced people grew even larger.
+
+### Case Four: Taxing Light and Air
+
+```
+Year: 1696
+Location: Great Britain
+```
+
+The problem: Britain needs money
+
+The solution Introduce a property tax based on the number of windows in a
+house. This tax aimed to be a non-intrusive way to tax wealthier people more.
+
+Adam Smith even approved of the Window Tax saying that it was "inoffensive
+because its assessment did not require the assessor to enter the residence".
+
+```People cheering with Milton Friedman shaking his head with that one quote```
+
+While wealthier individuals tended to have more windows, the tax actually had
+more impact on the poorest people living in tenements with numerous windows. To
+evade the tax, tenement landlords bricked up windows in their buildings. This
+led to a drastic reduction in the already poor safety, hygiene, and quality of
+living of tenements.
 

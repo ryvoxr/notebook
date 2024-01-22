@@ -1,10 +1,10 @@
 SCHOOL
-- Phys - Halliday Ch 14 & 16
-- Econ - Finish project rough draft (Friday)
-- Calc - Optimization pt 2 (Friday)
-- Chem - Test tomorrow
-- Engl - Questions "AD" and "Buttons" (Friday)
+- Phys - Halliday Ch 14 & 16 & lab
+- Econ - Finish project
 
 DONE
-- Stat - Critical values
+- Stat - More with Conf Int
+- Calc - None
+- Chem - None
+- Engl - None
 
