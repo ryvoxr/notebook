@@ -1,10 +1,10 @@
 SCHOOL
 - Phys - Halliday Ch 14 & 16 & lab
-- Econ - Finish project
+- Econ - Presentation
 
 DONE
-- Stat - More with Conf Int
 - Calc - None
-- Chem - None
-- Engl - None
+- Engl - Test tomorrow
+- Stat - 2 sided hypothesis test
+- Chem - p200: #55, 56
 
