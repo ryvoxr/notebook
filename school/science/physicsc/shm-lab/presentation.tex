@@ -1,4 +1,5 @@
-\documentclass{beamer}
+\documentclass[10pt]{beamer}
+
 \usepackage{tikz}
 \usepackage[labelfont=bf]{caption}
 \usepackage{booktabs}
@@ -21,6 +22,7 @@
 \begin{frame}
     \frametitle{Experiment Setup}
     \begin{minipage}{0.5\textwidth}
+        \centering
         \begin{tikzpicture}
             \draw (-2,0) -- (2,0);
             \draw[dashed] (0,0) -- ++(0, -3);
@@ -32,11 +34,13 @@
             \toprule
             Variable & Description \\
             \midrule
-            $l$ & measured length \\
+            $L$ & measured length \\
             $m$ & varied mass \\
             $\theta$ & small angle ($<$ \ang{15}) \\
         \end{tabular}
     \end{minipage}%
+    \begin{minipage}{0.5\textwidth}
+        \centering
         \begin{tabular}{l|l}
             \toprule
             Variable & Description \\
@@ -44,7 +48,8 @@
             $m$ & varied mass \\
             $x$ & measured displacement \\
             $x_0$ & initial displacement \\
-        \end{tabular}
+        \end{tabular}%
+        \vspace{1cm}
         \begin{tikzpicture}
             \draw (-2,0) -- (2,0);
             \draw (-0.5,0) rectangle ++(1, -1) node [midway] {\footnotesize sensor};
@@ -53,7 +58,6 @@
             \draw[dashed] (0.75,-1) -- ++(0, -2) node [midway, right] {\footnotesize $x$};
             \draw[dashed] (-0.75,-1) -- ++(0, -1.5) node [midway, left] {\footnotesize $x_0$};
         \end{tikzpicture}
-    \begin{minipage}{0.5\textwidth}
     \end{minipage}
 \end{frame}
 
@@ -66,7 +70,70 @@
 \end{frame}
 
 \begin{frame}
-    \frametitle{Energy Relationship Graph}
+    \frametitle{Calculations}
+    \begin{minipage}{0.5\textwidth}
+        \begin{gather}
+            a = -\omega^2x \\
+            -\omega = \sqrt{\frac{a}{x}} \\
+            \omega = \sqrt{\frac{g}{l}} = \frac{2\pi}{T} \\
+            T = 2\pi\sqrt{\frac{l}{g}} \\
+        \end{gather}
+    \end{minipage}%
+    \begin{minipage}
+        \begin{gather}
+            F = -kx
+        \end{gather}
+    \end{minipage}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Pendulum Graphical Relationship}
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+                xlabel={$\frac{1}{l}$ (\si{\per\meter})},
+                ylabel={$\frac{4\pi^2}{T^2}$ (\si{\newton})},
+                tick label style={/pgf/number format/fixed},
+                scaled ticks=false,
+                width=0.8\textwidth,
+                legend pos=south east,
+            ]
+            \addplot +[only marks,mark size=1.5pt] table
+            {pendulum.dat};
+            \addplot table [
+                y={create col/linear regression={y=y}},
+                mark=none,
+            ]
+            {pendulum.dat};
+            \addlegendentry{$\frac{4\pi^2}{T^2} = g\frac{1}{L}$}
+            \addlegendentry{$\hat{\frac{4\pi^2}{T^2}} = \pgfmathprintnumber{\pgfplotstableregressiona}(\frac{1}{L})$}
+        \end{axis}
+    \end{tikzpicture}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Spring Graphical Relationship}
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+                xlabel={$m$ (\si{\meter})},
+                ylabel={$kx$ (\si{\newton})},
+                tick label style={/pgf/number format/fixed},
+                scaled ticks=false,
+                width=0.8\textwidth,
+                legend pos=south east,
+            ]
+            \addplot +[only marks,mark size=1.5pt] table
+            {spring.dat};
+            \addplot table [
+                y={create col/linear regression={y=kx}},
+                mark=none,
+            ]
+            {spring.dat};
+            \addlegendentry{$mg = kx$}
+            \addlegendentry{$\hat{kx} = \pgfmathprintnumber{\pgfplotstableregressiona}{m}$}
+        \end{axis}
+    \end{tikzpicture}
 \end{frame}
 
 \begin{frame}

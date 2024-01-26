@@ -1,0 +1,29 @@
+\documentclass{article}
+
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{siunitx}
+
+\begin{document}
+
+\begin{tabular}{l|l|l|l}
+    \toprule
+    Mass of Ionic Solid & Mass of Water & Initial Temperature & Final Temperature \\
+    \midrule
+    0.5g & 44.44g & 23\textdegree C & 17.1\textdegree C \\
+    0.5g & 39.24g & 21.9\textdegree C & 15.4\textdegree C \\
+\end{tabular}
+
+\begin{gather}
+    q = mc\Delta T \\
+    q_1 = (44.44\si{\gram} + 5\si{\gram})(4.184\frac{J}{g\cdot\si{\degreeCelsius}})(17.1\si{\degreeCelsius} - 23\si{\degreeCelsius}) = -1.22\si{\kilo\joule} \\
+    q_2 = (39.24\si{\gram} + 5\si{\gram})(4.184\frac{J}{g\cdot\si{\degreeCelsius}})(15.4\si{\degreeCelsius} - 21.9\si{\degreeCelsius}) = -1.20\si{\kilo\joule} \\
+    \Delta H = \frac{-q}{mol_{rxn}} \\
+    mol_{rxn} = \frac{1\si{\mol}\; CO(N\!H_2)_2}{60.06\si{\gram}\; CO(N\!H_2)_2} \cdot 5.0\si{\gram}\; CO(N\!H_2)_2 = 0.0833\si{\mol} \\
+    \Delta H_1 = \frac{q_1}{mol_{rxn}} = \frac{1.22\si{\kilo\joule}}{0.0833\si{\mol}\; CO(N\!H_2)_2} = 14.65\si{\kilo\joule\per\mol} \\
+    \Delta H_2 = \frac{q_1}{mol_{rxn}} = \frac{1.20\si{\kilo\joule}}{0.0833\si{\mol}\; CO(N\!H_2)_2} = 14.41\si{\kilo\joule\per\mol} \\
+    \Delta H = \frac{H_1 + H_2}{2} = \frac{14.65 + 14.41}{2} = 14.53\si{\kilo\joule\per\mole} \\
+    \delta = \frac{|V - V_m|}{V} = \frac{15.39 - 14.53}{15.39} \cdot 100\% = 5.6\%
+\end{gather}
+
+\end{document}
