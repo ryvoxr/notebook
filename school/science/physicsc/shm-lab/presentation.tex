@@ -48,6 +48,8 @@
             $m$ & varied mass \\
             $x$ & measured displacement \\
             $x_0$ & initial displacement \\
+            $F$ & measured force \\
+            $k$ & spring constant (23.79) \\
         \end{tabular}%
         \vspace{1cm}
         \begin{tikzpicture}
@@ -63,10 +65,14 @@
 
 \begin{frame}
     \frametitle{Materials and Methods}
-\end{frame}
-
-\begin{frame} 
-    \frametitle{Results} 
+    Length $L$ and displacement $x$ were measured using a meter stick. The mass
+    $m$ was given on the mass itself. The force $F$ was measured using a force
+    sensor. The angle $\theta$ was ensured to be less than \ang{15} using a
+    protractor. The period $T$ was measured using a stopwatch. For the
+    pendulum, four masses were tested for five trials each. For each trial,
+    five periods were measured and averaged to reduce error. For the spring,
+    four masses were tested for one trial each. For each trial, the initial and
+    final displacement were measured.
 \end{frame}
 
 \begin{frame}
@@ -79,7 +85,7 @@
             T = 2\pi\sqrt{\frac{l}{g}} \\
         \end{gather}
     \end{minipage}%
-    \begin{minipage}
+    \begin{minipage}{0.5\textwidth}
         \begin{gather}
             F = -kx
         \end{gather}
@@ -130,7 +136,7 @@
                 mark=none,
             ]
             {spring.dat};
-            \addlegendentry{$mg = kx$}
+            \addlegendentry{$F = kx$}
             \addlegendentry{$\hat{kx} = \pgfmathprintnumber{\pgfplotstableregressiona}{m}$}
         \end{axis}
     \end{tikzpicture}
@@ -138,6 +144,7 @@
 
 \begin{frame}
     \frametitle{Discussion}
+
 \end{frame}
 
 \end{document}
