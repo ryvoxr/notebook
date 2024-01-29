@@ -77,18 +77,42 @@
 
 \begin{frame}
     \frametitle{Calculations}
-    \begin{minipage}{0.5\textwidth}
+    \begin{minipage}{0.35\textwidth}
+        Pendulum:
         \begin{gather}
             a = -\omega^2x \\
             -\omega = \sqrt{\frac{a}{x}} \\
-            \omega = \sqrt{\frac{g}{l}} = \frac{2\pi}{T} \\
-            T = 2\pi\sqrt{\frac{l}{g}} \\
+            \omega = \sqrt{\frac{g}{L}} = \frac{2\pi}{T} \\
+            T = 2\pi\sqrt{\frac{L}{g}} \\
+            T^2 = \frac{4\pi^2}{g}L \\
+            \frac{4\pi^2}{T^2} = g\frac{1}{L}
+        \end{gather}
+        Spring:
+        \begin{gather}
+            F = kx \\
+            kx = mg 
         \end{gather}
     \end{minipage}%
-    \begin{minipage}{0.5\textwidth}
-        \begin{gather}
-            F = -kx
-        \end{gather}
+    \hspace{0.04\textwidth}%
+    \begin{minipage}{0.6\textwidth}
+        \centering
+        \captionof{table}{Pendulum Example Calculations}
+        \begin{tabular}{c|c|c|c}
+            \toprule
+            $L$ & $T$ & $\frac{1}{L}$ & $\frac{4\pi^2}{T^2}$ \\
+            \midrule
+            $0.58\si{\meter}$ & $1.46\si{\second}$ & $1.72\si{\per\meter}$ & $18.5\si{\newton}$ \\
+            $0.36\si{\meter}$ & $1.18\si{\second}$ & $2.78\si{\per\meter}$ & $28.4\si{\newton}$ \\
+        \end{tabular}
+        \vspace{1cm}
+        \captionof{table}{Spring Example Calculations}
+        \begin{tabular}{c|c|c}
+            \toprule
+            $m$ & $x$ & $k \cdot x$ \\
+            \midrule
+            $0.1\si{\kilogram}$ & $0.043\si{\meter}$ & $1.00\si{\newton}$ \\
+            $0.2\si{\kilogram}$ & $0.085\si{\meter}$ & $1.98\si{\newton}$ \\
+        \end{tabular}
     \end{minipage}
 \end{frame}
 
@@ -122,7 +146,7 @@
     \centering
     \begin{tikzpicture}
         \begin{axis}[
-                xlabel={$m$ (\si{\meter})},
+                xlabel={$m$ (\si{\kilogram})},
                 ylabel={$kx$ (\si{\newton})},
                 tick label style={/pgf/number format/fixed},
                 scaled ticks=false,
@@ -136,8 +160,8 @@
                 mark=none,
             ]
             {spring.dat};
-            \addlegendentry{$F = kx$}
-            \addlegendentry{$\hat{kx} = \pgfmathprintnumber{\pgfplotstableregressiona}{m}$}
+            \addlegendentry{$kx = m \cdot g$}
+            \addlegendentry{$\hat{kx} = {m} \cdot \pgfmathprintnumber{\pgfplotstableregressiona}$}
         \end{axis}
     \end{tikzpicture}
 \end{frame}
