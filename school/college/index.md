@@ -30,4 +30,6 @@ PORTALS:
 - [NC State](https://apply.ncsu.edu/apply/status) 
 - [UNC Charlotte](https://future49er.charlotte.edu/apply/status)
 - [Georgia Tech](https://application.gatech.edu/apply/status)
+- [Carnegie Mellon](https://admission.cmu.edu/account/login?r=https%3A%2F%2Fadmission.cmu.edu%2Fapply%2Fstatus&cookie=1)
+- [WashU](https://pathway.wustl.edu/account/login?r=https%3A%2F%2Fpathway.wustl.edu%2Fapply%2F&cookie=1)
 
