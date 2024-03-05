@@ -1,11 +1,10 @@
 SCHOOL
-- Phys - Halliday Ch 14 & 16
-- Engl - "The Necklace" Comic (Monday)
-- Hlth - Drug chart (Thursday night)
+- Phys - FRQ
+- Stat - Wksht - compare means
+- Chem - pg 697: #43, 45
 
 DONE
-- Econ - Bank fees
-- Stat - Wrap up Proportions
-- Calc - Def Integral and Riemann
-- Chem - Progress check Unit 6 AP Classroom
+- Econ - Investment risk
+- Engl - Reread Larry and Jack's First Meeting
+- Calc - Average Value
 
