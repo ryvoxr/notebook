@@ -10,6 +10,7 @@
 - [Unit 4](econ/unit-4/index.md)
 - [Mini-Unit 1](econ/mini-unit-1/index.md)
 - [Mini-Unit 2](econ/mini-unit-2/index.md)
+- [Mini-Unit 3](econ/mini-unit-3/index.md)
 
 ### Misc
 

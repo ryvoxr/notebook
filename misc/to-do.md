@@ -1,10 +1,10 @@
 SCHOOL
-- Phys - FRQ
-- Stat - Wksht - compare means
-- Chem - pg 697: #43, 45
+- Phys - MCQ
+- Calc - Volumes pt 1b
+- Chem - 2 & 4
 
 DONE
-- Econ - Investment risk
-- Engl - Reread Larry and Jack's First Meeting
-- Calc - Average Value
+- Engl - None
+- Econ - Name pronounciation
+- Stat - Homogeneity
 
