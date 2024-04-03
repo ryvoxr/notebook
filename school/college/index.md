@@ -8,6 +8,7 @@ NOT STARTED:
 - [Georgia Tech](georgia-tech.md) (Jan 4)
 
 STARTED:
+- [Zen of Wajima](zen-of-wajima.md)
 
 RD (NEED EDIT):
 

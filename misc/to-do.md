@@ -1,11 +1,12 @@
 SCHOOL
-- Phys - Halliday Ch 14 & 16
+- Phys - Halliday Ch 14
+- Phys - Project check
+- Chem - Finish HW for test tomorrow
 - Engl - "The Necklace" Comic (Monday)
-- Hlth - Drug chart (Thursday night)
 
 DONE
-- Econ - Bank fees
-- Stat - Wrap up Proportions
-- Calc - Def Integral and Riemann
-- Chem - Progress check Unit 6 AP Classroom
+- Hlth - Drug chart (Thursday night)
+- Calc - Finish Def Integral and Riemann
+- Econ - Being unbanked
+- Stat - Stat proportions FRQ
 
