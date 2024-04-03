@@ -3,9 +3,6 @@
 - [Deadlines LaTeX](deadlines.tex)
 
 NOT STARTED:
-- [Washington at St. Louis](washington-at-st.-louis.md) (Jan 3)
-- [Carnegie Mellon](carnegie-mellon.md) (Jan 3)
-- [Georgia Tech](georgia-tech.md) (Jan 4)
 
 STARTED:
 - [Zen of Wajima](zen-of-wajima.md)
@@ -24,6 +21,9 @@ SUBMITTED:
 - [NC State](nc-state.md) (Nov 1)
 - [Princeton](princeton.md) (Nov 1)
 - [Virginia Tech](virginia-tech.md) (Nov 15)
+- [Washington at St. Louis](washington-at-st.-louis.md) (Jan 3)
+- [Carnegie Mellon](carnegie-mellon.md) (Jan 3)
+- [Georgia Tech](georgia-tech.md) (Jan 4)
 
 PORTALS:
 - [Virginia Tech](https://admit.vt.edu/portal/status?tab=app)
