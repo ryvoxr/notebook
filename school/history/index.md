@@ -11,6 +11,7 @@
 - [Mini-Unit 1](econ/mini-unit-1/index.md)
 - [Mini-Unit 2](econ/mini-unit-2/index.md)
 - [Mini-Unit 3](econ/mini-unit-3/index.md)
+- [Paying for College and Carrer Exploration](paying-for-college-and-carrer-exploration.md)
 
 ### Misc
 

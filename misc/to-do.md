@@ -1,10 +1,10 @@
 SCHOOL
-- Phys - MCQ
-- Calc - Volumes pt 1b
-- Chem - 2 & 4
+- Phys - Maybe learn shit
 
 DONE
-- Engl - None
-- Econ - Name pronounciation
-- Stat - Homogeneity
+- Econ - Linkedin
+- Stat - Ch 27 pt 2
+- Calc - Sample Test - Int 3
+- Chem - Textbook
+- Engl - 42 discussion questions
 
