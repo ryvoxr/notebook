@@ -5,6 +5,7 @@
 NOT STARTED:
 
 STARTED:
+- [Zen of Wajima](zen-of-wajima.md)
 
 RD (NEED EDIT):
 

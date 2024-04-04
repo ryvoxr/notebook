@@ -1,4 +1,4 @@
-SCHOOL
+TODO
 - Phys - Maybe learn shit
 
 DONE
