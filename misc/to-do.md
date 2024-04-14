@@ -1,10 +1,13 @@
 TODO
-- Phys - Maybe learn shit
+- Engl - Finish essay
 
 DONE
-- Econ - Linkedin
-- Stat - Ch 27 pt 2
-- Calc - Sample Test - Int 3
-- Chem - Textbook
-- Engl - 42 discussion questions
+- Phys - Maybe learn shit
+- Econ - None
+- Stat - AP Inf Rev
+- Stat - Research proposal
+- Calc - Separation of variables (makeup)
+- Calc - Slope Fields pt 1
+- Chem - FRQ Practice
+- Chem - Electrochem FRQ Practice
 

@@ -62,15 +62,32 @@ career as a programmer.
 Although I'm a programmer at heart, I developed a deep interest in other fields
 of engineering: mechanical and electrical through robotics, optical through
 Science Olympiad, and many fields of physics through classwork and clubs.
-Mines' broad engineering curriculum will empower me to explore additional
+Mines' broad engineering curriculum will empowerwired me to explore additional
 engineering topics alongside my chief interest in computer science.
+
+### General Scholarship Application
 
 **The core values of Colorado School of Mines include: inquiry and innovation,
 inspiration, challenge, openness, respect, diversity, compassion and
 collaboration. Describe how you would build on these values and bring them into
 your everyday life, both personally and academically. (300)**
 
+I connect deeply with one of the core values of Mines: respect. To me, respect
+is twofold. 
 
+Each and every person deserves a base level of respect by virtue of being
+human. Every person deserves to be listened to and have their opinions heard.
+Every person deserves to be treated politely and with kindness from the start.
+Every person deserves to make their own choices. This is the kind of respect I
+have with everybody.
+
+Deep respect, on the other hand, is earned through one's actions and character,
+not demanded by their position. One who commands deep respect is a person of
+great moral fiber. One who commands deep respect is selfless, thinking not what
+others can do for them, but what they can do for others and the community. One
+who commands deep respect genuinely listens and responds thoughtfully to
+others. Deep respect is mutual: showing deep respect in part commands it. I
+plan to command and show deep respect.
 
 **Imagine you're writing the opening chapter of your autobiography. Share the
 key experiences that define who you are.  From exciting adventures to personal
@@ -100,15 +117,3 @@ students who have questions to fully explain themselves. More often than not,
 the act of completely speaking their question out loud makes them understand
 immediately.
 
-During my time in high school, I met, befriended, and spoke with countless
-people from all backgrounds and beliefs. In economics class, due to its
-inherently sensitive and political nature, some of these differences were
-plainly revealed. Even as teenagers, we have strong beliefs. Engaging in
-respectful discussion and debate allowed us to explore alternative viewpoints,
-challenge our own opinions, and broaden our perspectives. Furthermore, sharing
-our beliefs helped us bridge gaps between diverse backgrounds. It humanized
-economic theories making them relatable and enabling us to connect on a
-personal level. From these interactions, I learned the importance of
-challenging beliefs and the necessity of open debate. I believe that by
-engaging in civil, uncensored discussion we can reach mutual understanding and
-come closer to the truth.
