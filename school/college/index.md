@@ -6,6 +6,7 @@ NOT STARTED:
 
 STARTED:
 - [Zen of Wajima](zen-of-wajima.md)
+- [Todo Mines](todo-mines.md)
 
 RD (NEED EDIT):
 

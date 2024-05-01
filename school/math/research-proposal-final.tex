@@ -1,0 +1,79 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{caption}
+
+\captionsetup[figure]{labelfont=bf}
+
+\author{Henry Oehlirch \and Lahari Jaligama}
+\title{Difference between mean typing speeds of STEM and humanities students}
+
+\begin{document}
+\maketitle{}
+
+\section{Question, Hypothesis, \& Data Schema}
+
+Is there a statistically significant difference between the mean typing speed
+for students who consider themselves more STEM-oriented and those who consider
+themselves more humanities-oriented?
+
+\begin{gather}
+    H_0: \overline{STEM} = \overline{Humanities} \\
+    H_a: \overline{STEM} \neq \overline{Humanities}
+\end{gather} 
+
+\begin{figure}[h]
+    \centering
+    \begin{tabular}{lllll}
+        \toprule
+        i & Field & Test 1 & Test 2 & Test 3 \\
+        \midrule
+        1 & $field_1$ & $speed1_1$ & $speed2_1$ & $speed3_1$ \\
+        ... & ... & ... & ... & ... \\
+        1 & $field_n$ & $speed1_n$ & $speed2_n$ & $speed3_n$ \\
+    \end{tabular}
+    \caption{Data schema}
+\end{figure}
+
+\section{Data Collection \& Analysis}
+
+We will collect data from a random sample of seniors at Raleigh Charter. A
+survey will be sent out to 50 seniors, asking them to take three predetermined,
+30-word typing tests and report their words per minute for each test. The
+survey will also ask for the student to self-report their field of interest:
+STEM or humanities.
+
+We predict a sampling bias in the data, as students who are more confident in
+their typing speed may be more likely to respond to the survey. It is
+reasonable to assume that this bias will be present in both groups, so we do
+not expect it to affect the results of the analysis.
+
+The survey will be sent out during the earliest stats class that doesn't
+coincide with a major senior AP test (so hopefully Thursday).
+
+\subsection{Questions}
+
+This survey is anonymous. For each test below, attempt the test once and record
+the speed in words per minute (WPM) in the corresponding field. \\
+
+\noindent
+\verb|Words per minute (WPM) on test one {link}: _ | \\\\
+\verb|Words per minute (WPM) on test two {link}: _ | \\\\
+\verb|Words per minute (WPM) on test three {link}: _ | \\\\
+\verb|Field of interest: STEM or humanities? {link}: {STEM/humanities} | \\
+
+We do not expect any bias in the survey responses. Each question is objective
+and, because the form is anonymous, there is no incentive for students to
+misreport their typing speed or field of interest.
+
+\subsection{Analysis}
+
+We will use a two-sample t-test to determine if there is evidence to conclude
+that the mean typing speed of STEM students is different from the mean typing
+speed of humanities students. The validity of the t-test is contingent on the
+sizes of the two samples. Because there are only 120 seniors at Raleigh
+Charter, it is likely that we will break the 10\% condition for the t-test.
+This can only be determined after the data is collected because we do not know
+the response rate or the distribution of responses between the fields.
+
+\end{document}

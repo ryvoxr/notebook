@@ -8,4 +8,5 @@
 - [Ch8 LinReg Eq](ch8-linreg-eq.tex)
 - [CE Means](ce-means.md)
 - [Research Ideas](research-ideas.md)
+- [Research Proposal Final](research-proposal-final.tex)
 

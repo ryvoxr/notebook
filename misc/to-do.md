@@ -1,10 +1,10 @@
 TODO
-- Phys - Maybe learn shit
+- Phys - Would be cool to actually learn magnetism
+- Stat - Project proposal
+- Engl - Questions "Shiloh" (Thursday)
 
 DONE
-- Econ - Linkedin
-- Stat - Ch 27 pt 2
-- Calc - Sample Test - Int 3
-- Chem - Textbook
-- Engl - 42 discussion questions
+- Econ - Types of Budgeting
+- Calc - FRQs (maybe)
+- Chem - None
 
