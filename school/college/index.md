@@ -10,13 +10,11 @@
 
 [Undergraduate Admissions Portal](https://apply.mines.edu/apply/status)
 
-<<<<<<< HEAD
 STARTED:
 - [Zen of Wajima](zen-of-wajima.md)
-- [Todo Mines](todo-mines.md)
-=======
+- [Roomate Bio](roomate-bio.md)
+
 ### Four year plan
->>>>>>> 06b394c1a0916c9761b9fc6b3074ec8d12f84062
 
 Freshman Fall
 - HASS 100 - Nature and Human Values (3)
