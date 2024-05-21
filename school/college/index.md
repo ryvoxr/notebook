@@ -12,6 +12,7 @@
 
 STARTED:
 - [Zen of Wajima](zen-of-wajima.md)
+- [Roomate Bio](roomate-bio.md)
 
 ### Four year plan
 

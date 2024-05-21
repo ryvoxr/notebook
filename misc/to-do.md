@@ -1,10 +1,10 @@
 TODO
-- Econ - Consumption lessons
-- Stat - Research project (Monday)
+- Phys - 
+- Econ - 
+- Stat - 
+- Calc - 
+- Chem - 
+- Engl -
 
 DONE
-- Phys - None
-- Chem - None
-- Engl - Nouns and pronouns practice
-- Calc - Mixing problem
 
