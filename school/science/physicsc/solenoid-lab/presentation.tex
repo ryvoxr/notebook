@@ -1,0 +1,67 @@
+\documentclass{article}
+
+\usepackage{tikz}
+\usepackage[labelfont=bf]{caption}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{siunitx}
+\usepackage{amsmath}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+
+\title{The Magnetic Moment of a Permanent Magnet}
+\author{Henry Oehlrich\and Sravya Potluru\and Suhani Taylor\and Chelsea Liao}
+
+\begin{document}
+\maketitle
+
+\section{Abstract}
+
+\section{Procedure}
+
+\begin{itemize}
+\end{itemize}
+
+\section{Calculations and Graph}
+
+\setlength{\jot}{15pt}
+\begin{gather}
+    B_{axis} = \frac{\mu_0}{4\pi} \frac{2\mu}{d^3} \\
+    \hat{B_{axis}} = a \cdot d^{b} = 4.39e-6 \cdot d^{-3.499} \\
+    a = \frac{\mu_0 2 \mu (10^3)}{4\pi} \\
+    \mu =
+    \frac{\SI{4.39e-6}{\ampere\tesla\meter\cubed}}{\SI{10e-7}{\tesla\meter\per\ampere}(10^3)} = \SI{4.39e-3}{\ampere\meter\squared}
+\end{gather}
+
+\begin{center}
+\begin{tikzpicture}
+    \begin{axis}[
+            xlabel={Distance (\si{\meter})},
+            ylabel={Magnetic Field (\si{\milli\tesla})},
+            width=\textwidth,
+        ]
+        \addplot +[only marks,mark size=1.5pt] table
+        {data.dat};
+        \addplot gnuplot [raw gnuplot, id=fit, no marks]{
+            f(x) = a*x^(-b);
+            a = 4.388e-6;
+            b = 3.499;
+            fit f(x) 'data.dat' using 1:2 via a,b;
+            plot [x=0.0325:0.07] f(x);
+        };
+        \addlegendentry{$\hat{B_{axis}} = \num{2.942e-6} \cdot d^{-3.63}$}
+    \end{axis}
+\end{tikzpicture}
+\end{center}
+
+\section{Discussion}
+
+We found that the magnetic field strength varied inversely with the 3.63 power.
+This is 21\% off from the expected power for a true dipole of 3. We used the
+power fit to find the magnetic moment of the magnet to be
+\SI{4.39e-3}{\ampere\meter\squared}. When setting up the experiment, we found
+that the magnets rolled off the meter stick. We remedied this by putting the
+magnets on either side of the protractor. The perpendicular face of the
+protractor prevented the magnets from rolling away.
+
+\end{document}
