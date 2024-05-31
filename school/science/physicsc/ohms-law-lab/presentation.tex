@@ -1,0 +1,240 @@
+\documentclass{article}
+
+\usepackage{tikz}
+\usepackage{circuitikz}
+\usepackage[labelfont=bf]{caption}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{siunitx}
+\usepackage{amsmath}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{subcaption}
+\usepackage[margin=1.5in]{geometry}
+
+\title{Proving Ohm's Law using a Parallel and Series Circuit}
+\author{Henry Oehlrich\and Sravya Potluru\and Chelsea Liao\and Owen Yao}
+
+\begin{document}
+\maketitle
+
+\section{Abstract}
+
+The purpose of this experiment is to prove Ohm's Law using a parallel and
+series circuit. This was done by varying the voltage and measuring the current.
+This procedure was done independently for both circuits. This data can then be
+used to calculate the experimental equivalent resistances of the circuits. We
+proved Ohm's Law by showing that current varied with voltage in a manner
+consistent with Ohm's law and the resistance of the circuit.
+
+\section{Materials and Methods}
+
+\subsection{Materials}
+\begin{itemize}
+    \item Variable power supply (with current and voltage meters built in). We
+        chose this because it allowed us to vary the voltage while
+        automatically measuring the current in the circuit. This allowed us to
+        reduce the complexity of the experiment setup and focus on data
+        collection.
+    \item 2 \SI{10}{\ohm} resistors. We chose \SI{10}{\ohm} resistors because
+        they produced a current that was within the measurement range of the
+        ammeter.
+    \item Alligator clips. We chose these because we found that these were the
+        easiest way to connect the circuit components.
+\end{itemize}
+
+
+\subsection{Part One (Series Circuit)}
+\begin{enumerate}
+    \item Connect the circuit components as shown in Figure 1 using
+        alligator clips.
+    \item Set the power supply to \SI{2}{\volt} and record the current in the
+        circuit.
+    \item Increase the voltage by \SI{0.5}{\volt} and record the current.
+        Repeat this step until the voltage reaches \SI{5}{\volt}. 
+\end{enumerate}
+
+This circuit was simple enough that there was no need to use a breadboard.  We
+chose the data collection range of \SI{2}{\volt} to \SI{5}{\volt} because the
+current created was within the measurement range of the ammeter.
+
+\subsection{Part Two (Parallel Circuit)}
+\begin{enumerate}
+    \item Connect the circuit components as shown in Figure 2 using
+        alligator clips
+    \item Set the power supply to \SI{0.5}{\volt} and record the current in the
+        circuit.
+    \item Increase the voltage by \SI{0.5}{\volt} and record the current. Repeat
+        this step until the voltage reaches \SI{3.5}{\volt}.
+\end{enumerate}
+
+We chose the data collection range of \SI{0.5}{\volt} to \SI{3.5}{\volt} in
+order to create currents that within the measurement range of the ammeter and
+were similar to the currents created in the series circuit.
+
+% Circuit diagram here
+\begin{figure}[h]
+    \centering
+    \begin{minipage}[b]{0.4\textwidth}
+        \begin{circuitikz}
+            \draw (0,0)
+            to[battery, l=$V$, invert] (0,2)
+            to[ammeter] (4,2)
+            to[short] (4,0)
+            to[R, l=$R$] (2,0)
+            to[R, l=$R$] (0,0);
+        \end{circuitikz}
+        \label{fig:series}
+        \caption{Series Circuit}
+    \end{minipage}%
+    \begin{minipage}[b]{0.4\textwidth}
+        \begin{circuitikz}
+            \draw (0,0)
+            to[battery, l=$V$, invert] (0,2)
+            to[ammeter] (2,2)
+            to[R, l=$R$] (2,0)
+            to[short] (0,0)
+            (2,2) to[short] (4,2)
+            to[R, l=$R$] (4,0)
+            to[short] (2,0);
+        \end{circuitikz}
+        \label{fig:parallel}
+        \caption{Parallel Circuit}
+    \end{minipage}
+\end{figure}
+
+\section{Data Collected}
+
+\begin{figure}[h]
+    \centering
+    \begin{subfigure}{0.4\textwidth}
+        \begin{tabular}{ll}
+            \toprule
+            {Voltage (\si{\volt})} & {Current (\si{\ampere})} \\
+            \midrule
+            2.0 & 0.1 \\
+            2.5 & 0.12 \\
+            3.0 & 0.15 \\
+            3.5 & 0.18 \\
+            4.0 & 0.2 \\
+            4.5 & 0.23 \\
+            5.0 & 0.25 \\
+            \bottomrule
+        \end{tabular}
+        \caption{Series Circuit}
+    \end{subfigure}%
+    \begin{subfigure}{0.4\textwidth}
+        \begin{tabular}{ll}
+            \toprule
+            {Voltage (\si{\volt})} & {Current (\si{\ampere})} \\
+            \midrule
+            0.5 & 0.09 \\
+            1.0 & 0.18 \\
+            1.5 & 0.27 \\
+            2.0 & 0.37 \\
+            2.5 & 0.46 \\
+            3.0 & 0.56 \\
+            3.5 & 0.66 \\
+            \bottomrule
+        \end{tabular}
+        \caption{Parallel Circuit}
+    \end{subfigure}
+    \caption{Data tables}
+\end{figure}
+
+We chose to collect data in the range of \SI{2}{\volt} to \SI{5}{\volt} for the
+series circuit because the current was within the measurement range of the
+ammeter. We chose to collect data in the range of \SI{0.5}{\volt} to
+\SI{3.5}{\volt} for the parallel circuit because the current was within the
+measurement range of the ammeter and was similar to the current created in the
+series circuit. We chose to collect in increments of \SI{0.5}{\volt} because it
+allowed us to collect a sufficient amount of data while keeping the experiment
+time reasonable.
+
+\newpage
+
+\section{Graphs}
+
+\begin{figure}[h]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+                xlabel={Current (\si{\ampere})},
+                ylabel={Voltage (\si{\volt})},
+                width=0.7\textwidth,
+                xmin=0.05,xmax=0.7,
+                ymax=5.75,
+                domain=0.1:0.25,
+                legend style={at={(0.98,0.24)},anchor=north east}
+            ]
+            \addplot +[only marks,mark size=1.5pt] table
+            {partone.dat};
+            \addplot table [
+                y={create col/linear regression={y=V}},
+                mark=none,
+            ]
+            {partone.dat};
+            \addlegendentry{$\widehat{V_{series}} = \pgfmathprintnumber{\pgfplotstableregressiona}I + \pgfmathprintnumber{\pgfplotstableregressionb}$}
+        \end{axis}
+        \begin{axis}[
+                xlabel={Current (\si{\ampere})},
+                ylabel={Voltage (\si{\volt})},
+                width=0.7\textwidth,
+                xmin=0.05,xmax=0.7,
+                ymax=4,
+                domain=0.09:0.66,
+                legend style={at={(0.98,0.12)},anchor=north east}
+            ]
+            \addplot +[only marks,mark size=1.5pt,mark options={fill=green}] table
+            {parttwo.dat};
+            \addplot table [
+                y={create col/linear regression={y=V}},
+                mark=none,
+            ]
+            {parttwo.dat};
+            \addlegendentry{$\widehat{V_{Parallel}} = \pgfmathprintnumber{\pgfplotstableregressiona}I + \pgfmathprintnumber{\pgfplotstableregressionb}$}
+        \end{axis}
+    \end{tikzpicture}
+    \caption{Graph of Voltage vs. Current for Series and Parallel Circuits}
+\end{figure}
+
+\setlength{\jot}{10pt}
+\begin{figure}
+    \begin{gather}
+        R_{eq} = R + R = \SI{10}{\ohm} + \SI{10}{\ohm} = \SI{20}{\ohm} \\
+        V = I \cdot R_{exp} \\
+        m = R_{exp} = \SI{19.38}{\ohm} \\
+        error = \frac{R_{exp} - R_{eq}}{R_{eq}} \times 100 = \frac{19.38 - 20}{20} \times 100 = 3.1\%
+    \end{gather}
+    \caption{Series Circuit Calculations}
+\end{figure}
+\begin{figure}
+    \begin{gather}
+        R_{eq} = \frac{1}{\frac{1}{R} + \frac{1}{R}} = \frac{1}{\frac{1}{10} + \frac{1}{10}} = \SI{5}{\ohm} \\
+        V = I \cdot R_{exp} \\
+        m = R_{exp} = \SI{5.26}{\ohm} \\
+        error = \frac{R_{exp} - R_{eq}}{R_{eq}} \times 100 = \frac{5.26 - 5}{5} \times 100 = 5.2\%
+    \end{gather}
+    \caption{Parallel Circuit Calculations}
+\end{figure}
+
+From Ohm's law, we know that the slope of the line of I plotted against V is
+the equivalent resistance of the circuit. From the regressions on the data, we
+found that the experimental resistance for the series circuit was
+\SI{19.38}{\ohm} and the experimental resistance for the parallel circuit was
+\SI{5.26}{\ohm}. The percent error for the series circuit was 3.1\% and the percent error for
+the parallel circuit was 5.2\%. Because the percent error was less than 10\%
+(the maximum tolerance of the resistors), we can conclude that Ohm's law is valid.
+
+\section{Discussion}
+
+We achieved our goal of proving Ohm's law using a parallel and series circuit.
+Initially, we started with a \SI{100}{\kilo\ohm} resistor, but we found that
+the current produced was not measurable. After further experimentation, we
+found that a \SI{10}{\ohm} resistor produced a current that was within the
+measurement range of the ammeter. We would improve this experiment by using a
+more precise ammeter to reduce the error in our measurements. We would also
+take the data three times (with three different resistors) in order to reduce
+the variability caused by resistor tolerance.
+
+\end{document}

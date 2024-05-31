@@ -1,0 +1,76 @@
+\documentclass{article}
+
+\usepackage{tikz}
+\usepackage[labelfont=bf]{caption}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{siunitx}
+\usepackage{amsmath}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage[bottom=1in]{geometry}
+
+\title{Modeling the Time Constant of an RC Circuit}
+\author{Henry Oehlrich\and Grace Jiang\and Jacob Wison\and Akhil Surapaneni}
+
+\begin{document}
+\maketitle
+
+\section{Abstract}
+
+\section{Procedure}
+
+\begin{itemize}
+    \item Insert the magnetic field sensor inside center of the solenoid with
+        the white dot facing down the solenoid's long axis.
+    \item Zero the magnetic field sensor.
+    \item Measure the magnetic field at the center of the solenoid for currents
+        \SI{0.0}{\ampere} to \SI{2.0}{\ampere} in \SI{0.5}{\ampere} increments.
+    \item Plot the graph of magnetic field versus current
+\end{itemize}
+
+\section{Calculations and Graph}
+
+\begin{tikzpicture}
+    \begin{axis}[
+            xlabel={Time (\si{\second})},
+            ylabel={Potential (\si{\volt})},
+            width=\textwidth,
+            xmin=0, xmax=0.3,
+            domain=0:0.3,
+        ]
+        \addplot{1.736^{-1.997*x}+4.496e-2};
+    \end{axis}
+\end{tikzpicture}
+
+\setlength{\jot}{10pt}
+\begin{gather}
+    B = \mu_0 n I \\
+    y = mx + b \\
+    m = \mu_0 I \\
+    \mu_0 = \frac{m}{I} \\
+    m = \frac{\SI{1.6e-3}{\milli\tesla\cdot\meter}}{1.0}
+    \left(\frac{\SI{1}{\tesla}}{\SI{1000}{\milli\tesla}}\right) = \SI{1.6e-3}{\tesla\cdot\meter} \\
+    I = \SI{2}{\ampere} \\
+    \mu_0 = \frac{\SI{1.6e-6}{\tesla\cdot\meter}}{\SI{2}{\ampere}} = \SI{8.0e-7}{\tesla\meter\per\ampere} \\
+    err = \frac{4\pi \times 10^{-7}-8.0\times 10^{-7}}{4\pi \times 10^{-7}} \times 100\% = 36.3\%
+\end{gather}
+
+\newpage
+
+\section{Discussion}
+
+From our data, we calculated that the permeability of free space is
+\SI{8.0e-7}{\tesla\meter\per\ampere}. This value is 36.3\% off from the
+accepted value of $4\pi\times$\SI{e-7}{\tesla\meter\per\ampere}.
+
+During the experiment, we encountered some difficulties. The final few coils of
+the slinky were touching and shorting out the circuit. We fixed this by taping
+the last few coils on both sides together. Additionally, when stretching the
+coil to a length of \SI{1}{\meter} or greater, the tape holding the coil failed
+and the coil retracted back to its original length. We adressed this by holding
+onto the ends of the tape while stretching the coil (making sure not to touch
+the coil itself and interfere with the data collection).
+
+\end{document}
+

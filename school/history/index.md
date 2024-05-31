@@ -16,6 +16,7 @@
 ### Misc
 
 - [Research Project](econ/research-project/index.md)
+- [Chicken](econ/chicken.md)
 
 ## APUSH
 

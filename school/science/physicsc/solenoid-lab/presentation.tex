@@ -8,6 +8,7 @@
 \usepackage{amsmath}
 \usepackage{pgfplots}
 \usepackage{pgfplotstable}
+\usepackage[bottom=1in]{geometry}
 
 \title{The Magnetic Moment of a Permanent Magnet}
 \author{Henry Oehlrich\and Sravya Potluru\and Suhani Taylor\and Chelsea Liao}
@@ -17,51 +18,112 @@
 
 \section{Abstract}
 
+The objective of this experiment is to determine the relationship between
+magnetic field and current, determine the relationship between magnetic field
+and the turn density of a solenoid, and to calculate an experimental value of
+$\mu_0$. This will be done by varying the current and coil density and
+measuring the resulting magnetic field.
+
 \section{Procedure}
 
+\subsection{How is the Magnetic Field in a Solenoid Related to Current?}
+
 \begin{itemize}
+    \item Insert the magnetic field sensor inside center of the solenoid with
+        the white dot facing down the solenoid's long axis.
+    \item Zero the magnetic field sensor.
+    \item Measure the magnetic field at the center of the solenoid for currents
+        \SI{0.0}{\ampere} to \SI{2.0}{\ampere} in \SI{0.5}{\ampere} increments.
+    \item Plot the graph of magnetic field versus current
 \end{itemize}
+
+\subsection{How is the Magnetic Field in a Solenoid Related to the Spacing of the Turns?}
+
+\begin{itemize}
+    \item Insert the magnetic field sensor inside the center of the solenoid
+        with the white dot facing down the solenoid's long axis.
+    \item Zero the magnetic field sensor.
+    \item Measure the magnetic field at the center of the solenoid for coil
+        lengths \SI{0.5}{\meter} to \SI{2.0}{\meter} in \SI{0.5}{\meter} increments.
+    \item Plot the graph of magnetic field versus coil density
+\end{itemize}
+
+\newpage
 
 \section{Calculations and Graph}
 
-\setlength{\jot}{15pt}
+\begin{figure}[h]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+                xlabel={Current (\si{\ampere})},
+                ylabel={Magnetic Field (\si{\milli\tesla})},
+                y label style={at={(axis description cs:-0.02,.5)},anchor=south},
+                width=0.8\textwidth,
+                ymin=0,ymax=0.28,
+                range=0:0.28,
+            ]
+            \addplot +[only marks,mark size=1.5pt] table
+            {partone.dat};
+            \addplot table [
+                y={create col/linear regression={y=B}},
+                mark=none,
+            ]
+            {partone.dat};
+            \addlegendentry{$\hat{B} = \pgfmathprintnumber{\pgfplotstableregressiona}I + \pgfmathprintnumber{\pgfplotstableregressionb}$}
+        \end{axis}
+        \begin{axis}[
+                xlabel={Coil desnity (\si{\per\meter})},
+                xlabel near ticks,
+                xmin=20,xmax=160,
+                domain=20:160,
+                axis x line*=top,
+                width=0.8\textwidth,
+                ytick=\empty,
+                yticklabels={},
+                ymin=0,ymax=0.35,
+                range=0:0.35,
+                legend style={at={(0.98,0.89)},anchor=north east}
+            ]
+            \addplot +[only marks,mark size=1.5pt,mark options={fill=green}] table
+            {parttwo.dat};
+            \addplot table [
+                y={create col/linear regression={y=B}},
+                mark=none,
+            ]
+            {parttwo.dat};
+            \addlegendentry{$\hat{B} = \pgfmathprintnumber{\pgfplotstableregressiona}n + \pgfmathprintnumber{\pgfplotstableregressionb}$}
+        \end{axis}
+    \end{tikzpicture}
+\end{figure}
+
+\setlength{\jot}{10pt}
 \begin{gather}
-    B_{axis} = \frac{\mu_0}{4\pi} \frac{2\mu}{d^3} \\
-    \hat{B_{axis}} = a \cdot d^{b} = 4.39e-6 \cdot d^{-3.499} \\
-    a = \frac{\mu_0 2 \mu (10^3)}{4\pi} \\
-    \mu =
-    \frac{\SI{4.39e-6}{\ampere\tesla\meter\cubed}}{\SI{10e-7}{\tesla\meter\per\ampere}(10^3)} = \SI{4.39e-3}{\ampere\meter\squared}
+    B = \mu_0 n I \\
+    y = mx + b \\
+    m = \mu_0 I \\
+    \mu_0 = \frac{m}{I} \\
+    m = \frac{\SI{1.6e-3}{\milli\tesla\cdot\meter}}{1.0}
+    \left(\frac{\SI{1}{\tesla}}{\SI{1000}{\milli\tesla}}\right) = \SI{1.6e-3}{\tesla\cdot\meter} \\
+    I = \SI{2}{\ampere} \\
+    \mu_0 = \frac{\SI{1.6e-6}{\tesla\cdot\meter}}{\SI{2}{\ampere}} = \SI{8.0e-7}{\tesla\meter\per\ampere} \\
+    err = \frac{4\pi \times 10^{-7}-8.0\times 10^{-7}}{4\pi \times 10^{-7}} \times 100\% = 36.3\%
 \end{gather}
 
-\begin{center}
-\begin{tikzpicture}
-    \begin{axis}[
-            xlabel={Distance (\si{\meter})},
-            ylabel={Magnetic Field (\si{\milli\tesla})},
-            width=\textwidth,
-        ]
-        \addplot +[only marks,mark size=1.5pt] table
-        {data.dat};
-        \addplot gnuplot [raw gnuplot, id=fit, no marks]{
-            f(x) = a*x^(-b);
-            a = 4.388e-6;
-            b = 3.499;
-            fit f(x) 'data.dat' using 1:2 via a,b;
-            plot [x=0.0325:0.07] f(x);
-        };
-        \addlegendentry{$\hat{B_{axis}} = \num{2.942e-6} \cdot d^{-3.63}$}
-    \end{axis}
-\end{tikzpicture}
-\end{center}
+\newpage
 
 \section{Discussion}
 
-We found that the magnetic field strength varied inversely with the 3.63 power.
-This is 21\% off from the expected power for a true dipole of 3. We used the
-power fit to find the magnetic moment of the magnet to be
-\SI{4.39e-3}{\ampere\meter\squared}. When setting up the experiment, we found
-that the magnets rolled off the meter stick. We remedied this by putting the
-magnets on either side of the protractor. The perpendicular face of the
-protractor prevented the magnets from rolling away.
+From our data, we calculated that the permeability of free space is
+\SI{8.0e-7}{\tesla\meter\per\ampere}. This value is 36.3\% off from the
+accepted value of $4\pi\times$\SI{e-7}{\tesla\meter\per\ampere}.
+
+During the experiment, we encountered some difficulties. The final few coils of
+the slinky were touching and shorting out the circuit. We fixed this by taping
+the last few coils on both sides together. Additionally, when stretching the
+coil to a length of \SI{1}{\meter} or greater, the tape holding the coil failed
+and the coil retracted back to its original length. We adressed this by holding
+onto the ends of the tape while stretching the coil (making sure not to touch
+the coil itself and interfere with the data collection).
 
 \end{document}
